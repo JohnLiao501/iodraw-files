@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-14" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="600" width="30" height="110" as="geometry" />
+          <mxGeometry x="180" y="600" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
