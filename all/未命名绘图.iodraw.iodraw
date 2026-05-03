@@ -12,7 +12,7 @@
             <mxPoint x="840" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-5" value="用户管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-5" value="管理员信息管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" parent="1" vertex="1">
           <mxGeometry x="440" y="420" width="40" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="303ed1de8c2c98b4-7" target="303ed1de8c2c98b4-4">
