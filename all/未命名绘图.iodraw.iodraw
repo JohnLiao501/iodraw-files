@@ -128,6 +128,15 @@
         <mxCell id="KWYBULSIjaPZfdUkkpBC-1" value="辅助功能" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1240" y="420" width="40" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="KWYBULSIjaPZfdUkkpBC-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改头像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KWYBULSIjaPZfdUkkpBC-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改个人信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KWYBULSIjaPZfdUkkpBC-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看个人信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="40" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
