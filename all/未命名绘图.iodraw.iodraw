@@ -87,16 +87,16 @@
           <mxGeometry x="350" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="540" y="610" width="40" height="130" as="geometry" />
+          <mxGeometry x="770" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="480" y="610" width="40" height="130" as="geometry" />
+          <mxGeometry x="710" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="610" width="40" height="130" as="geometry" />
+          <mxGeometry x="650" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="40" height="130" as="geometry" />
+          <mxGeometry x="590" y="600" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
