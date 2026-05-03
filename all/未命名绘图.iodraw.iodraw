@@ -32,7 +32,7 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-8" target="303ed1de8c2c98b4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-8" value="抽卡记录管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" vertex="1" parent="1">
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-8" value="个人信息管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" vertex="1" parent="1">
           <mxGeometry x="890" y="420" width="40" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-9" target="303ed1de8c2c98b4-4">
