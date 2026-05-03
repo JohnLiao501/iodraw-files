@@ -16,7 +16,8 @@
         <mxCell id="303ed1de8c2c98b4-82" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;exitX=0.5;exitY=1;" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="885" y="390" />
+              <mxPoint x="820" y="330" />
+              <mxPoint x="820" y="390" />
               <mxPoint x="260" y="390" />
             </Array>
           </mxGeometry>
