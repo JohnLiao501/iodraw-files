@@ -10,9 +10,6 @@
         <mxCell id="303ed1de8c2c98b4-5" value="个人信息管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;direction=south;" parent="1" vertex="1">
           <mxGeometry x="440" y="420" width="40" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-17" target="cRhvsVDjxe-wfoKPrsUF-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="303ed1de8c2c98b4-7" value="注册登录" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;direction=south;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="40" height="130" as="geometry" />
         </mxCell>
@@ -112,6 +109,12 @@
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看角色列表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="830" y="600" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="620" as="sourcePoint" />
+            <mxPoint x="390" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
