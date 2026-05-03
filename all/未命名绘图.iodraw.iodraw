@@ -38,7 +38,7 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-18" target="303ed1de8c2c98b4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;绑定UID&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改密码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="530" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-19" target="303ed1de8c2c98b4-5">
