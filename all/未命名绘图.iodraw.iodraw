@@ -56,7 +56,7 @@
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-14" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
