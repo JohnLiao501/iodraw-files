@@ -119,7 +119,7 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-89" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;搜索用户信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1130" y="600" width="40" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看用户列表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局备份&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1070" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;编辑用户信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
