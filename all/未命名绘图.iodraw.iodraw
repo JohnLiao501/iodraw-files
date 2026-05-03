@@ -127,8 +127,14 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-65" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图表联动交互&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1130" y="600" width="40" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-66" target="cRhvsVDjxe-wfoKPrsUF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-66" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;抽卡数据可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1070" y="600" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-71" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-67" target="cRhvsVDjxe-wfoKPrsUF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色练度可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1010" y="600" width="40" height="130" as="geometry" />
