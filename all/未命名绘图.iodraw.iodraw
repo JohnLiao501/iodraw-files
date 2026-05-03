@@ -43,7 +43,7 @@
           <mxGeometry x="650" y="420" width="40" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-8" value="抽卡记录管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="860" y="420" width="40" height="125" as="geometry" />
+          <mxGeometry x="857" y="425" width="40" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-9" value="可视化展示" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1070" y="420" width="40" height="125" as="geometry" />
@@ -57,10 +57,10 @@
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-8">
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="420" as="sourcePoint" />
-            <mxPoint x="880" y="390" as="targetPoint" />
+            <mxPoint x="889.94" y="420" as="sourcePoint" />
+            <mxPoint x="889.94" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
