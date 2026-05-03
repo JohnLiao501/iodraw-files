@@ -67,6 +67,11 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;编辑角色信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="710" y="600" width="40" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.9999999999998" y="550.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新增角色信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="650" y="600" width="40" height="130" as="geometry" />
         </mxCell>
