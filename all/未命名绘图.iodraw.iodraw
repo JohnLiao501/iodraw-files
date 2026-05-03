@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-7" value="可视化展示" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="677.5" y="420" width="85" height="125" as="geometry" />
+          <mxGeometry x="657.5" y="420" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-8" target="303ed1de8c2c98b4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,19 +53,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;图表联动交互&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="760" y="600" width="40" height="130" as="geometry" />
+          <mxGeometry x="740" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-24" target="cRhvsVDjxe-wfoKPrsUF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;抽卡数据可视化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="700" y="600" width="40" height="130" as="geometry" />
+          <mxGeometry x="680" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-25" target="cRhvsVDjxe-wfoKPrsUF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;角色练度可视化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="640" y="600" width="40" height="130" as="geometry" />
+          <mxGeometry x="620" y="600" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-28" target="cRhvsVDjxe-wfoKPrsUF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
