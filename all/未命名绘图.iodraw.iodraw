@@ -74,6 +74,9 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-28" target="cRhvsVDjxe-wfoKPrsUF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KWYBULSIjaPZfdUkkpBC-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cRhvsVDjxe-wfoKPrsUF-28" target="KWYBULSIjaPZfdUkkpBC-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;操作日志查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1150" y="600" width="40" height="130" as="geometry" />
         </mxCell>
@@ -226,6 +229,9 @@
         </mxCell>
         <mxCell id="KWYBULSIjaPZfdUkkpBC-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;禁用用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="990" y="800" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KWYBULSIjaPZfdUkkpBC-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="KWYBULSIjaPZfdUkkpBC-52" target="cRhvsVDjxe-wfoKPrsUF-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KWYBULSIjaPZfdUkkpBC-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看异常日志&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1180" y="800" width="40" height="130" as="geometry" />
