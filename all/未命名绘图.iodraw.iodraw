@@ -142,6 +142,15 @@
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色练度可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1010" y="600" width="40" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图表联动交互&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="610" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;抽卡数据可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="610" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-76" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色练度可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="610" width="40" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
