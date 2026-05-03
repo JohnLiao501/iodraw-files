@@ -370,8 +370,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="425" width="120" height="60" as="geometry" />
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="230" y="505" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
