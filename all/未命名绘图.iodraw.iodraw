@@ -56,8 +56,8 @@
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRhvsVDjxe-wfoKPrsUF-13" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="170" y="590" width="30" height="100" as="geometry" />
+        <mxCell id="cRhvsVDjxe-wfoKPrsUF-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
