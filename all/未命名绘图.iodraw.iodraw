@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-83" value="个人信息管理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=none;strokeColor=#666666;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="410" width="100" height="125" as="geometry" />
+          <mxGeometry x="1330" y="420" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cRhvsVDjxe-wfoKPrsUF-87" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="cRhvsVDjxe-wfoKPrsUF-86" target="cRhvsVDjxe-wfoKPrsUF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
