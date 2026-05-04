@@ -7,29 +7,11 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-1" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="334" y="20" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-2" value="左侧导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="84" y="118" width="111" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-3" value="顶部导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="477" y="118" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-4" value="主内容区" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1585" y="118" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-5" value="数据可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="85" y="217" width="110" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-6" value="档案管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="245" y="217" width="96" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-7" value="个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="315" width="95" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-8" value="角色档案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="175" y="315" width="95" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-9" value="抽卡记录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="340" y="315" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-10" value="顶部全局操作栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="461" y="217" width="142" height="48" as="geometry" />
@@ -109,13 +91,6 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-35" value="页码跳转" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2411" y="315" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -127,60 +102,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1632" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-2" target="JfC2xbYtGWbskMWgbgMy-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-2" target="JfC2xbYtGWbskMWgbgMy-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="293" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-5" target="JfC2xbYtGWbskMWgbgMy-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="67" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-5" target="JfC2xbYtGWbskMWgbgMy-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-5" target="JfC2xbYtGWbskMWgbgMy-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="319" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-6" target="JfC2xbYtGWbskMWgbgMy-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.89;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-6" target="JfC2xbYtGWbskMWgbgMy-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="299" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.8;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-6" target="JfC2xbYtGWbskMWgbgMy-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="457" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
