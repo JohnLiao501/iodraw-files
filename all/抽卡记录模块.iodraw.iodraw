@@ -35,7 +35,7 @@
           <mxGeometry x="349.5" y="217" width="51" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="217" width="70" height="48" as="geometry" />
+          <mxGeometry x="520" y="217" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-12" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="315" width="36" height="48" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="520" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-17" value="抽卡时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="315" width="30" height="48" as="geometry" />
+          <mxGeometry x="570" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="315" width="40" height="48" as="geometry" />
+          <mxGeometry x="620" y="315" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1031" y="217" width="173" height="48" as="geometry" />
