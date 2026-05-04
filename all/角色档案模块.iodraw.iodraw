@@ -68,7 +68,7 @@
           <mxGeometry x="1842.5" y="216.5" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-20" value="角色信息展示列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1241.5" y="314.5" width="172" height="48" as="geometry" />
+          <mxGeometry x="790" y="314.5" width="58.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1961.5" y="314.5" width="108" height="48" as="geometry" />
