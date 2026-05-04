@@ -56,16 +56,16 @@
           <mxGeometry x="501.88" y="315" width="36.25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="623.25" y="315" width="34.5" height="48" as="geometry" />
+          <mxGeometry x="620.88" y="315" width="34.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="556.25" y="414" width="50" height="48" as="geometry" />
+          <mxGeometry x="538.13" y="414" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="414" width="67.5" height="46" as="geometry" />
+          <mxGeometry x="604.38" y="414" width="67.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-118" value="圣遗物详情" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="710" y="414" width="40" height="48" as="geometry" />
+          <mxGeometry x="691.88" y="414" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-119" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="980.5" y="315" width="125" height="48" as="geometry" />
