@@ -14,10 +14,10 @@
           <mxGeometry x="690" y="217" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-12" value="操作日志列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="217" width="110" height="48" as="geometry" />
+          <mxGeometry x="890" y="217" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-13" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1692" y="217" width="140" height="48" as="geometry" />
+          <mxGeometry x="1230" y="210" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-14" value="清空日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="607" y="324" width="30" height="48" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="810" y="324" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-19" value="日志信息展示列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="324" width="60" height="48" as="geometry" />
+          <mxGeometry x="915" y="324" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-20" value="日志ID / 操作用户 / 操作类型 / 操作描述 / 操作IP / 操作状态 / 操作时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="420" width="170" height="60" as="geometry" />
+          <mxGeometry x="860" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-30" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCF9OaxIK9VuYsfwDByk-4" target="vCF9OaxIK9VuYsfwDByk-10">
           <mxGeometry relative="1" as="geometry" />
