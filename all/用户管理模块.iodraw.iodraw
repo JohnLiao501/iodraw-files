@@ -44,7 +44,7 @@
           <mxGeometry x="530" y="330" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-20" value="操作列" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="675" y="330" width="50" height="48" as="geometry" />
+          <mxGeometry x="635" y="330" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-29" value="编辑" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="414" width="33" height="48" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="695" y="414" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-32" value="分页控制区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="217" width="70" height="48" as="geometry" />
+          <mxGeometry x="725" y="217" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-37" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-3">
           <mxGeometry relative="1" as="geometry" />
