@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="478" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-10" value="顶部导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="938" y="478" width="110" height="48" as="geometry" />
+          <mxGeometry x="848" y="478" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-11" target="Om1xLMwUeuvl7jW6K6X4-20">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-11" value="主内容区" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1551" y="478" width="94" height="48" as="geometry" />
+          <mxGeometry x="1520" y="478" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-12" value="数据可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="350" y="577" width="110" height="48" as="geometry" />
@@ -47,52 +47,52 @@
           <mxGeometry x="690" y="702" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-17" value="面包屑导航" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="800" y="577" width="111" height="48" as="geometry" />
+          <mxGeometry x="710" y="577" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-18" value="用户信息展示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="930" y="577" width="126" height="48" as="geometry" />
+          <mxGeometry x="840" y="577" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-19" value="操作按钮" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1070" y="577" width="127" height="48" as="geometry" />
+          <mxGeometry x="980" y="577" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-20" value="核心数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1241" y="577" width="95" height="48" as="geometry" />
+          <mxGeometry x="1210" y="577" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-21" target="Om1xLMwUeuvl7jW6K6X4-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-21" value="角色练度可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1386" y="577" width="142" height="48" as="geometry" />
+          <mxGeometry x="1355" y="577" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-22" value="抽卡数据可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1785" y="577" width="143" height="48" as="geometry" />
+          <mxGeometry x="1754" y="577" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-23" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1241" y="675" width="95" height="48" as="geometry" />
+          <mxGeometry x="1210" y="675" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-24" value="角色信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1410" y="675" width="94" height="48" as="geometry" />
+          <mxGeometry x="1379" y="675" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-25" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1809" y="675" width="95" height="48" as="geometry" />
+          <mxGeometry x="1778" y="675" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1355" y="774" width="78" height="48" as="geometry" />
+          <mxGeometry x="1324" y="774" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-27" value="天赋趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1465" y="774" width="110" height="48" as="geometry" />
+          <mxGeometry x="1434" y="774" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-28" value="出金率对比图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1605" y="774" width="126" height="48" as="geometry" />
+          <mxGeometry x="1574" y="774" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-29" value="保底趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1745" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="1714" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-30" value="圣遗物详情" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2015" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="1984" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-31" value="抽卡时间轴" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1875" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="1844" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-32" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-8" target="Om1xLMwUeuvl7jW6K6X4-9">
           <mxGeometry relative="1" as="geometry" />
