@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JfC2xbYtGWbskMWgbgMy-1" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="334" y="20" width="156" height="48" as="geometry" />
+          <mxGeometry x="336" y="20" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-3" target="JfC2xbYtGWbskMWgbgMy-11">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-54" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.69;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-12" target="JfC2xbYtGWbskMWgbgMy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-55" value="" style="startArrow=none;endArrow=none;exitX=0.66;exitY=1.02;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-18">
+        <mxCell id="JfC2xbYtGWbskMWgbgMy-55" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-56" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-18" target="JfC2xbYtGWbskMWgbgMy-19">
