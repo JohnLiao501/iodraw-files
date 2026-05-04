@@ -19,6 +19,11 @@
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="50" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="fG1vpQMZvXTMSmIWV-Om-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fG1vpQMZvXTMSmIWV-Om-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="120" width="80" height="50" as="geometry" />
         </mxCell>
