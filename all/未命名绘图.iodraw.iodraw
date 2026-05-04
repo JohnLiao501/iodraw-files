@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BU1NtD_FaESz-NlSCHim-1" value="个人信息管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="20" width="189" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-3" value="顶部导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="402" y="118" width="110" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-4" value="主内容区" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1205" y="118" width="94" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-10" value="个人基础信息管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="806" y="217" width="160" height="48" as="geometry" />
         </mxCell>
@@ -60,42 +51,6 @@
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-25" value="确认新密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1707" y="315" width="110" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="151" y="93" />
-            </Array>
-            <mxPoint x="151.49999999999977" y="118" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-1" target="BU1NtD_FaESz-NlSCHim-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="457" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-1" target="BU1NtD_FaESz-NlSCHim-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1252" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-4" target="BU1NtD_FaESz-NlSCHim-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="885" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-4" target="BU1NtD_FaESz-NlSCHim-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1618" y="192" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-12">
           <mxGeometry relative="1" as="geometry">
