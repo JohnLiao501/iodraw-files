@@ -71,10 +71,10 @@
           <mxGeometry x="1174" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-120" value="出金率对比图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="414" width="156" height="48" as="geometry" />
+          <mxGeometry x="960" y="414" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-121" value="保底趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1166" y="414" width="74" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-122" value="抽卡时间轴" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1357" y="414" width="141" height="48" as="geometry" />
