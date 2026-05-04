@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-99" value="玩家首页模块" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="744" y="20" width="156" height="48" as="geometry" />
+          <mxGeometry x="412" y="10" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-100" value="左侧导航栏" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="118" width="141" height="48" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="450" y="217" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-110" value="操作按钮" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="217" width="80" height="48" as="geometry" />
+          <mxGeometry x="550" y="217" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-111" value="核心数据概览" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="650" y="217" width="80" height="48" as="geometry" />
