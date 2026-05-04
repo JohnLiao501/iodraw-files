@@ -23,13 +23,13 @@
           <mxGeometry x="577" y="577" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-14" value="个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="460" y="702" width="95" height="48" as="geometry" />
+          <mxGeometry x="470" y="702" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-15" value="角色档案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="578" y="702" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-16" value="抽卡记录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="680" y="702" width="95" height="48" as="geometry" />
+          <mxGeometry x="690" y="702" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-17" value="面包屑导航" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="723" y="577" width="111" height="48" as="geometry" />
