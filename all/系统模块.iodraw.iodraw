@@ -14,7 +14,7 @@
           <mxGeometry x="969" y="478" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-11" value="主内容区" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1445" y="478" width="94" height="48" as="geometry" />
+          <mxGeometry x="1610" y="410" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-12" value="数据可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="417" y="577" width="110" height="48" as="geometry" />
