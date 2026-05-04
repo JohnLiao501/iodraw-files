@@ -59,7 +59,7 @@
           <mxGeometry x="620" y="315" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="217" width="59" height="48" as="geometry" />
+          <mxGeometry x="768" y="217" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-20" value="总抽卡次数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="315" width="40" height="48" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="790" y="315" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-23" value="当前保底进度" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="315" width="156" height="48" as="geometry" />
+          <mxGeometry x="860" y="315" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1477" y="217" width="141" height="48" as="geometry" />
