@@ -82,7 +82,7 @@
         <mxCell id="_QRq7XU4lJIn9-KwDyKz-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="_QRq7XU4lJIn9-KwDyKz-29" target="_QRq7XU4lJIn9-KwDyKz-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_QRq7XU4lJIn9-KwDyKz-29" value="抽卡记录管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="_QRq7XU4lJIn9-KwDyKz-29" value="系统日志管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="384" y="650" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_QRq7XU4lJIn9-KwDyKz-30" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="_QRq7XU4lJIn9-KwDyKz-32" target="_QRq7XU4lJIn9-KwDyKz-38" edge="1">
