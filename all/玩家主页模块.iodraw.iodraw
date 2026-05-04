@@ -68,16 +68,16 @@
           <mxGeometry x="870" y="414" width="77" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-119" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1094" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="1174" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-120" value="出金率对比图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="880" y="414" width="156" height="48" as="geometry" />
+          <mxGeometry x="960" y="414" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-121" value="保底趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1166" y="414" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-122" value="抽卡时间轴" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1357" y="414" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-123" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-99" target="r0HSlZsm8VCqf7H_SUI1-100">
           <mxGeometry relative="1" as="geometry" />
