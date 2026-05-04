@@ -59,10 +59,10 @@
           <mxGeometry x="582.5" y="314.5" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="885.5" y="314.5" width="34.5" height="48" as="geometry" />
+          <mxGeometry x="630.5" y="315" width="34.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1059.5" y="314.5" width="132" height="48" as="geometry" />
+          <mxGeometry x="1059.5" y="314.5" width="40.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1842.5" y="216.5" width="204" height="48" as="geometry" />
