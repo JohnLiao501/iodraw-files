@@ -20,7 +20,7 @@
           <mxGeometry x="500" y="315" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-13" value="可编辑必填信息" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="682.5" y="315" width="87.5" height="48" as="geometry" />
+          <mxGeometry x="636.25" y="315" width="87.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-14" value="可编辑可选信息" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="978.25" y="315" width="93.5" height="48" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="610" y="414" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-18" value="游戏UID" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="710" y="414" width="40" height="48" as="geometry" />
+          <mxGeometry x="660" y="414" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-19" value="操作按钮" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="806" y="414" width="34" height="48" as="geometry" />
+          <mxGeometry x="716" y="414" width="34" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-20" value="头像上传" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="910" y="414" width="30" height="48" as="geometry" />
