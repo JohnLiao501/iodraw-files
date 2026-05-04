@@ -41,7 +41,7 @@
           <mxGeometry x="835" y="414" width="32.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="414" width="108" height="48" as="geometry" />
+          <mxGeometry x="890" y="414" width="46" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-24" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1409" y="414" width="140" height="48" as="geometry" />
