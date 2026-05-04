@@ -80,10 +80,10 @@
           <mxGeometry x="680.5" y="413.5" width="29.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-24" value="星级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="822.5" y="413.5" width="92" height="48" as="geometry" />
+          <mxGeometry x="822.5" y="413.5" width="27.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-25" value="等级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="964.5" y="413.5" width="93" height="48" as="geometry" />
+          <mxGeometry x="964.5" y="413.5" width="25.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-26" value="天赋" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1107.5" y="413.5" width="93" height="48" as="geometry" />
