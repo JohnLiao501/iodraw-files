@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2wokQDrUku7HL1LCXzXM">
-    <mxGraphModel dx="434" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,11 +63,13 @@
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;角色星级&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="556.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fG1vpQMZvXTMSmIWV-Om-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fG1vpQMZvXTMSmIWV-Om-11" target="fG1vpQMZvXTMSmIWV-Om-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fG1vpQMZvXTMSmIWV-Om-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fG1vpQMZvXTMSmIWV-Om-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;角色血量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="490" width="90" height="60" as="geometry" />
+          <mxGeometry x="225" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fG1vpQMZvXTMSmIWV-Om-12" target="fG1vpQMZvXTMSmIWV-Om-1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,6 +82,9 @@
         </mxCell>
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;圣遗物细节&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1vpQMZvXTMSmIWV-Om-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fG1vpQMZvXTMSmIWV-Om-27" target="fG1vpQMZvXTMSmIWV-Om-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fG1vpQMZvXTMSmIWV-Om-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;角色攻击力&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="396.5" width="100" height="57" as="geometry" />
