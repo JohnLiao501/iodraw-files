@@ -26,7 +26,7 @@
           <mxGeometry x="883" y="315" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-16" value="自动备份开关" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="315" width="156" height="48" as="geometry" />
+          <mxGeometry x="1020" y="315" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1226" y="315" width="125" height="48" as="geometry" />
