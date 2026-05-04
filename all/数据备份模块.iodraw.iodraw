@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0W15ENPFuFBOaB9-x_x7-4" value="主内容区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0W15ENPFuFBOaB9-x_x7-4" value="数据备份模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1223" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-10" value="手动备份与恢复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -54,14 +54,6 @@
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-25" value="总条数 每页条数 页码跳转" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1356" y="521" width="246" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0W15ENPFuFBOaB9-x_x7-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="0W15ENPFuFBOaB9-x_x7-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1285" y="93" />
-            </Array>
-            <mxPoint x="621" y="49.27999999999997" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W15ENPFuFBOaB9-x_x7-4" target="0W15ENPFuFBOaB9-x_x7-10">
           <mxGeometry relative="1" as="geometry">
