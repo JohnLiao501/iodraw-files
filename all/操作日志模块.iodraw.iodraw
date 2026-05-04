@@ -20,10 +20,10 @@
           <mxGeometry x="1692" y="217" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-14" value="清空日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="324" width="30" height="48" as="geometry" />
+          <mxGeometry x="607" y="324" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-15" value="操作用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="734" y="324" width="124" height="48" as="geometry" />
+          <mxGeometry x="660" y="324" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-16" value="操作类型" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="908" y="324" width="124" height="48" as="geometry" />
