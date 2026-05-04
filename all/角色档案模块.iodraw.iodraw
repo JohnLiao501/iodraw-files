@@ -35,7 +35,7 @@
           <mxGeometry x="399.5" y="217" width="64" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="216.5" width="67.5" height="48" as="geometry" />
+          <mxGeometry x="670" y="217" width="67.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="315" width="51" height="48" as="geometry" />
