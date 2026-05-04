@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;注册登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Om1xLMwUeuvl7jW6K6X4-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;玩家主页&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="150" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-2" target="Om1xLMwUeuvl7jW6K6X4-1">
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;玩家登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="377" y="230" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Om1xLMwUeuvl7jW6K6X4-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-3" target="Om1xLMwUeuvl7jW6K6X4-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="60" height="130" as="geometry" />
