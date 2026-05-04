@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DPWX1dTw4P-BDYB5a371-1" value="角色档案管理模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="10" width="101" height="48" as="geometry" />
+          <mxGeometry x="313" y="10" width="101" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-2" value="左侧导航栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="149.5" y="118" width="71" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-3" value="顶部导航栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="118" width="69" height="48" as="geometry" />
+          <mxGeometry x="319" y="118" width="69" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-4" value="主内容区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="118" width="52.5" height="48" as="geometry" />
