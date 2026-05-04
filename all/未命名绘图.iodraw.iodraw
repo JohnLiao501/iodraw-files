@@ -38,19 +38,22 @@
           <mxGeometry x="450" y="140" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-13" value="辅助功能" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="370" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-14" value="可视化展示" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-15" value="抽卡记录管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="210" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-16" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cd7hDphPJCTN62k1u4VV-8" target="cd7hDphPJCTN62k1u4VV-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cd7hDphPJCTN62k1u4VV-22" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="580" y="25" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
