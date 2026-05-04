@@ -71,7 +71,7 @@
           <mxGeometry x="1269" y="774" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-27" value="天赋趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1397" y="774" width="110" height="48" as="geometry" />
+          <mxGeometry x="1450" y="774" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-28" value="出金率对比图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1557" y="774" width="126" height="48" as="geometry" />
@@ -112,7 +112,7 @@
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-44" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-11" target="Om1xLMwUeuvl7jW6K6X4-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-45" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-11" target="Om1xLMwUeuvl7jW6K6X4-22">
+        <mxCell id="Om1xLMwUeuvl7jW6K6X4-45" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-11" target="Om1xLMwUeuvl7jW6K6X4-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-46" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-20" target="Om1xLMwUeuvl7jW6K6X4-23">
