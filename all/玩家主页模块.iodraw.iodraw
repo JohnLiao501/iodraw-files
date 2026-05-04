@@ -11,10 +11,10 @@
           <mxGeometry x="184.5" y="118" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-101" value="顶部导航栏" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="752" y="118" width="140" height="48" as="geometry" />
+          <mxGeometry x="567" y="118" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-102" value="主内容区" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1387" y="118" width="124" height="48" as="geometry" />
+          <mxGeometry x="1202" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-103" target="r0HSlZsm8VCqf7H_SUI1-100">
           <mxGeometry relative="1" as="geometry" />
@@ -35,49 +35,49 @@
           <mxGeometry x="237" y="330" width="36" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-108" value="面包屑导航" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="553" y="217" width="67" height="48" as="geometry" />
+          <mxGeometry x="368" y="217" width="67" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-109" value="用户信息展示" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="744" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="559" y="217" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-110" value="全局操作按钮" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="950" y="217" width="157" height="48" as="geometry" />
+          <mxGeometry x="765" y="217" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-111" value="核心数据概览" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="217" width="157" height="48" as="geometry" />
+          <mxGeometry x="971" y="217" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-112" value="角色练度可视化" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1363" y="217" width="172" height="48" as="geometry" />
+          <mxGeometry x="1178" y="217" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-113" value="抽卡数据可视化" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="217" width="173" height="48" as="geometry" />
+          <mxGeometry x="1765" y="217" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-114" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="987" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1387" y="315" width="124" height="48" as="geometry" />
+          <mxGeometry x="1202" y="315" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1221" y="414" width="108" height="48" as="geometry" />
+          <mxGeometry x="1036" y="414" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1379" y="414" width="140" height="48" as="geometry" />
+          <mxGeometry x="1194" y="414" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-118" value="圣遗物详情" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1569" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1384" y="414" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-119" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1974" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="1789" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-120" value="出金率对比图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="414" width="156" height="48" as="geometry" />
+          <mxGeometry x="1575" y="414" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-121" value="保底趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1966" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1781" y="414" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-122" value="抽卡时间轴" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2157" y="414" width="141" height="48" as="geometry" />
+          <mxGeometry x="1972" y="414" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-123" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-99" target="r0HSlZsm8VCqf7H_SUI1-100">
           <mxGeometry relative="1" as="geometry" />
