@@ -62,7 +62,7 @@
           <mxGeometry x="660" y="217" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="217" width="70" height="48" as="geometry" />
+          <mxGeometry x="740" y="217" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-25" value="抽卡记录列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="217" width="80" height="48" as="geometry" />
