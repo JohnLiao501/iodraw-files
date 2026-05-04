@@ -50,7 +50,7 @@
           <mxGeometry x="744" y="217" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-113" value="抽卡数据可视化" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="217" width="173" height="48" as="geometry" />
+          <mxGeometry x="881" y="217" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-114" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="663.75" y="315" width="52.5" height="48" as="geometry" />
