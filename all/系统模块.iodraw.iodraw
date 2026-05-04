@@ -55,11 +55,8 @@
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-24" value="角色信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1405" y="675" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-25" target="Om1xLMwUeuvl7jW6K6X4-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-25" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1729" y="700" width="95" height="48" as="geometry" />
+          <mxGeometry x="1729" y="640" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1269" y="774" width="78" height="48" as="geometry" />
@@ -151,9 +148,6 @@
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-54" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-29" target="Om1xLMwUeuvl7jW6K6X4-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-55" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1910" y="610" width="95" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
