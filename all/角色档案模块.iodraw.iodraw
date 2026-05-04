@@ -26,7 +26,7 @@
           <mxGeometry x="20" y="315" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-8" value="角色档案" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="315" width="55" height="48" as="geometry" />
+          <mxGeometry x="100" y="315" width="55" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-9" value="抽卡记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="315" width="125" height="48" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="DPWX1dTw4P-BDYB5a371-43" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPWX1dTw4P-BDYB5a371-5" target="DPWX1dTw4P-BDYB5a371-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-44" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DPWX1dTw4P-BDYB5a371-5" target="DPWX1dTw4P-BDYB5a371-9">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-44" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPWX1dTw4P-BDYB5a371-5" target="DPWX1dTw4P-BDYB5a371-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-45" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DPWX1dTw4P-BDYB5a371-4" target="DPWX1dTw4P-BDYB5a371-10">
