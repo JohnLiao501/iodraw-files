@@ -53,73 +53,73 @@
           <mxGeometry x="530" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-17" value="抽卡时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="264" width="125" height="48" as="geometry" />
+          <mxGeometry x="580" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="264" width="132" height="48" as="geometry" />
+          <mxGeometry x="755" y="315" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="166" width="173" height="48" as="geometry" />
+          <mxGeometry x="1031" y="217" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-20" value="总抽卡次数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1007" y="264" width="141" height="48" as="geometry" />
+          <mxGeometry x="937" y="315" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-21" value="5星总数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1198" y="264" width="117" height="48" as="geometry" />
+          <mxGeometry x="1128" y="315" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-22" value="平均出金抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="264" width="157" height="48" as="geometry" />
+          <mxGeometry x="1295" y="315" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-23" value="当前保底进度" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1572" y="264" width="156" height="48" as="geometry" />
+          <mxGeometry x="1502" y="315" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1547" y="166" width="141" height="48" as="geometry" />
+          <mxGeometry x="1477" y="217" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-25" value="抽卡记录列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="166" width="205" height="48" as="geometry" />
+          <mxGeometry x="1822" y="217" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-26" value="复选框列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1778" y="264" width="124" height="48" as="geometry" />
+          <mxGeometry x="1708" y="315" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-27" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2274" y="264" width="108" height="48" as="geometry" />
+          <mxGeometry x="2204" y="315" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-28" value="抽卡时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1179" y="363" width="125" height="48" as="geometry" />
+          <mxGeometry x="1109" y="414" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-29" value="卡池类型" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1353" y="363" width="124" height="48" as="geometry" />
+          <mxGeometry x="1283" y="414" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-30" value="物品名称" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="363" width="125" height="48" as="geometry" />
+          <mxGeometry x="1457" y="414" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-31" value="物品类型" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1702" y="363" width="125" height="48" as="geometry" />
+          <mxGeometry x="1632" y="414" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-32" value="星级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1877" y="363" width="92" height="48" as="geometry" />
+          <mxGeometry x="1807" y="414" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-33" value="保底内抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2019" y="363" width="142" height="48" as="geometry" />
+          <mxGeometry x="1949" y="414" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-34" value="编辑" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2211" y="363" width="92" height="48" as="geometry" />
+          <mxGeometry x="2141" y="414" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-35" value="删除" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2353" y="363" width="93" height="48" as="geometry" />
+          <mxGeometry x="2283" y="414" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-36" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="166" width="140" height="48" as="geometry" />
+          <mxGeometry x="2600" y="217" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-37" value="总条数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2432" y="264" width="109" height="48" as="geometry" />
+          <mxGeometry x="2362" y="315" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-38" value="每页条数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2591" y="264" width="125" height="48" as="geometry" />
+          <mxGeometry x="2521" y="315" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-39" value="页码跳转" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2765" y="264" width="124" height="48" as="geometry" />
+          <mxGeometry x="2695" y="315" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-40" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-1" target="7XbZAg-y48kCygsI7QlM-2">
           <mxGeometry relative="1" as="geometry" />
