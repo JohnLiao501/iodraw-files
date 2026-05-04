@@ -32,10 +32,10 @@
           <mxGeometry x="1097" y="315" width="34" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1401" y="315" width="59" height="48" as="geometry" />
+          <mxGeometry x="1150" y="315" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-19" value="保存设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1608" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="1241" y="330" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="835" y="414" width="32.5" height="48" as="geometry" />
