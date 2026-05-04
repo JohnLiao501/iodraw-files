@@ -47,7 +47,7 @@
           <mxGeometry x="650" y="217" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-112" value="角色练度可视化" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="857" y="217" width="172" height="48" as="geometry" />
+          <mxGeometry x="744" y="217" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-113" value="抽卡数据可视化" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1444" y="217" width="173" height="48" as="geometry" />
