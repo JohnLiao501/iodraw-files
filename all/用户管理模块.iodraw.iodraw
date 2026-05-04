@@ -14,7 +14,7 @@
           <mxGeometry x="180" y="90" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-4" value="主内容区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="367" y="90" width="94" height="48" as="geometry" />
+          <mxGeometry x="367" y="90" width="53" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-11" value="新增用户" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="199" y="217" width="32" height="48" as="geometry" />
@@ -100,8 +100,10 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-68" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-20" target="JfC2xbYtGWbskMWgbgMy-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-69" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.58;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JfC2xbYtGWbskMWgbgMy-69" value="" style="startArrow=none;endArrow=none;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
