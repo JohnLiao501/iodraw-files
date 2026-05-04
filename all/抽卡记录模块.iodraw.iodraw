@@ -68,7 +68,7 @@
           <mxGeometry x="740" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-22" value="平均出金抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="315" width="157" height="48" as="geometry" />
+          <mxGeometry x="790" y="315" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-23" value="当前保底进度" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1502" y="315" width="156" height="48" as="geometry" />
@@ -183,10 +183,10 @@
         <mxCell id="7XbZAg-y48kCygsI7QlM-59" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-19" target="7XbZAg-y48kCygsI7QlM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XbZAg-y48kCygsI7QlM-60" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-19" target="7XbZAg-y48kCygsI7QlM-22">
+        <mxCell id="7XbZAg-y48kCygsI7QlM-60" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-19" target="7XbZAg-y48kCygsI7QlM-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XbZAg-y48kCygsI7QlM-61" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.69;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-19" target="7XbZAg-y48kCygsI7QlM-23">
+        <mxCell id="7XbZAg-y48kCygsI7QlM-61" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-19" target="7XbZAg-y48kCygsI7QlM-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-62" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XbZAg-y48kCygsI7QlM-4" target="7XbZAg-y48kCygsI7QlM-24">
