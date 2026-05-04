@@ -80,7 +80,7 @@
           <mxGeometry x="1796" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-30" value="圣遗物详情" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1628" y="872" width="111" height="48" as="geometry" />
+          <mxGeometry x="1696" y="872" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-31" value="抽卡时间轴" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1796" y="872" width="111" height="48" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-51" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-25" target="Om1xLMwUeuvl7jW6K6X4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-52" value="" style="startArrow=none;endArrow=none;exitX=0.56;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-25" target="Om1xLMwUeuvl7jW6K6X4-29">
+        <mxCell id="Om1xLMwUeuvl7jW6K6X4-52" value="" style="startArrow=none;endArrow=none;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-25" target="Om1xLMwUeuvl7jW6K6X4-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-53" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-25" target="Om1xLMwUeuvl7jW6K6X4-30">
