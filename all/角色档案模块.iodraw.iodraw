@@ -31,8 +31,8 @@
         <mxCell id="DPWX1dTw4P-BDYB5a371-9" value="抽卡记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="315" width="30" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部全局操作栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="217" width="172" height="48" as="geometry" />
+        <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部操作栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="217" width="54" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1146" y="217" width="188" height="48" as="geometry" />
