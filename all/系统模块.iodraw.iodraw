@@ -56,7 +56,7 @@
           <mxGeometry x="1381" y="577" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-22" value="抽卡数据可视化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1768" y="577" width="143" height="48" as="geometry" />
+          <mxGeometry x="1680" y="577" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-23" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1236" y="675" width="95" height="48" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1405" y="675" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-25" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1792" y="640" width="95" height="48" as="geometry" />
+          <mxGeometry x="1804" y="640" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1350" y="774" width="78" height="48" as="geometry" />
