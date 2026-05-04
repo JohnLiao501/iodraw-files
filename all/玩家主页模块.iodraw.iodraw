@@ -56,7 +56,7 @@
           <mxGeometry x="663.75" y="315" width="52.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="881" y="315" width="124" height="48" as="geometry" />
+          <mxGeometry x="728.5" y="315" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="715" y="414" width="108" height="48" as="geometry" />
@@ -124,7 +124,7 @@
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-138" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-112" target="r0HSlZsm8VCqf7H_SUI1-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0HSlZsm8VCqf7H_SUI1-139" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-115" target="r0HSlZsm8VCqf7H_SUI1-116">
+        <mxCell id="r0HSlZsm8VCqf7H_SUI1-139" value="" style="startArrow=none;endArrow=none;exitX=0.444;exitY=0.979;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-115" target="r0HSlZsm8VCqf7H_SUI1-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-140" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-115" target="r0HSlZsm8VCqf7H_SUI1-117">
