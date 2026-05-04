@@ -52,97 +52,47 @@
         <mxCell id="BU1NtD_FaESz-NlSCHim-25" value="确认新密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1432" y="315" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-36" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="533" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-36" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-37" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-37" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-38" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.99;exitY=0.69;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1314" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-38" value="" style="startArrow=none;endArrow=none;exitX=0.99;exitY=0.69;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-39" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.23;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-12" target="BU1NtD_FaESz-NlSCHim-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-39" value="" style="startArrow=none;endArrow=none;exitX=0.23;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-12" target="BU1NtD_FaESz-NlSCHim-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-40" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-12" target="BU1NtD_FaESz-NlSCHim-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="601" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-40" value="" style="startArrow=none;endArrow=none;exitX=0.77;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-12" target="BU1NtD_FaESz-NlSCHim-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-41" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.02;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="657" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-41" value="" style="startArrow=none;endArrow=none;exitX=0.02;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-42" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-42" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-43" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.99;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="938" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-43" value="" style="startArrow=none;endArrow=none;exitX=0.99;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-13" target="BU1NtD_FaESz-NlSCHim-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-44" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1082" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-44" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-45" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-45" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-46" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1370" y="389" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-46" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-47" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1295" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-47" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-48" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1431" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-48" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-49" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1575" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BU1NtD_FaESz-NlSCHim-49" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-11" target="BU1NtD_FaESz-NlSCHim-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
