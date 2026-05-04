@@ -20,7 +20,7 @@
           <mxGeometry x="199" y="217" width="32" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-12" value="多条件筛选查询区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="217" width="158" height="48" as="geometry" />
+          <mxGeometry x="290" y="217" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-13" value="用户名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="651" y="315" width="78" height="48" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-32" value="分页控制区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2331" y="217" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-37" value="" style="startArrow=none;endArrow=none;exitX=0.88;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-3">
+        <mxCell id="JfC2xbYtGWbskMWgbgMy-37" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-38" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-4">
