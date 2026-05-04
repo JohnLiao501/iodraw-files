@@ -4,85 +4,85 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DPWX1dTw4P-BDYB5a371-1" value="角色档案管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-1" value="角色档案管理模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="20" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-2" value="左侧导航栏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-2" value="左侧导航栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="118" width="141" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-3" value="顶部导航栏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-3" value="顶部导航栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="118" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-4" value="主内容区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-4" value="主内容区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1107" y="118" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-5" value="数据可视化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-5" value="数据可视化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="217" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-6" value="档案管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-6" value="档案管理" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="217" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-7" value="个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-7" value="个人信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="315" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-8" value="角色档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-8" value="角色档案" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="315" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-9" value="抽卡记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-9" value="抽卡记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="315" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部全局操作栏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部全局操作栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="626" y="217" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1146" y="217" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="544" y="315" width="149" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="315" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="917" y="315" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-15" value="角色名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-15" value="角色名称" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="315" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1265" y="315" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1439" y="315" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1613" y="315" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2396" y="217" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-20" value="角色信息展示列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-20" value="角色信息展示列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1795" y="315" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-21" value="操作列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2515" y="315" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-22" value="名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-22" value="名称" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1092" y="414" width="92" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-23" value="属性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-23" value="属性" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1234" y="414" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-24" value="星级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-24" value="星级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1376" y="414" width="92" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-25" value="等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-25" value="等级" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1518" y="414" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-26" value="天赋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-26" value="天赋" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1661" y="414" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DPWX1dTw4P-BDYB5a371-27" value="暴击率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DPWX1dTw4P-BDYB5a371-27" value="暴击率" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1804" y="414" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-28" value="暴击伤害" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
