@@ -11,7 +11,7 @@
           <mxGeometry x="590" y="217" width="64" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="991" y="217" width="188" height="48" as="geometry" />
+          <mxGeometry x="991" y="217" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-12" value="操作日志列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1422" y="217" width="204" height="48" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="1692" y="217" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-14" value="清空日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="324" width="124" height="48" as="geometry" />
+          <mxGeometry x="560" y="324" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-15" value="操作用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="734" y="324" width="124" height="48" as="geometry" />
