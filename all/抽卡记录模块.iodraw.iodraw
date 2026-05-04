@@ -11,19 +11,19 @@
           <mxGeometry x="131" y="118" width="64" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-3" value="顶部导航栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="118" width="140" height="48" as="geometry" />
+          <mxGeometry x="545" y="118" width="65" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-4" value="主内容区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1996" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-5" value="数据档案" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="217" width="125" height="48" as="geometry" />
+          <mxGeometry x="107" y="217" width="53" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-6" value="可视化管理" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="217" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-7" value="个人信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="20" y="315" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-8" value="角色档案" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="315" width="125" height="48" as="geometry" />
