@@ -65,7 +65,7 @@
           <mxGeometry x="1405" y="675" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-25" value="统计卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1704" y="675" width="95" height="48" as="geometry" />
+          <mxGeometry x="1684" y="675" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1350" y="774" width="78" height="48" as="geometry" />
@@ -74,16 +74,16 @@
           <mxGeometry x="1460" y="774" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-28" value="出金率对比图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1620" y="774" width="126" height="48" as="geometry" />
+          <mxGeometry x="1600" y="774" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-29" value="保底趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1760" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="1740" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-30" value="圣遗物详情" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2030" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="2010" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-31" value="抽卡时间轴" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1890" y="774" width="111" height="48" as="geometry" />
+          <mxGeometry x="1870" y="774" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-32" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="Om1xLMwUeuvl7jW6K6X4-8" target="Om1xLMwUeuvl7jW6K6X4-9">
           <mxGeometry relative="1" as="geometry" />
