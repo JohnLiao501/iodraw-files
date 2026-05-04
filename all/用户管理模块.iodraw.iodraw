@@ -7,6 +7,9 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-1" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="334" y="20" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="JfC2xbYtGWbskMWgbgMy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-3" target="JfC2xbYtGWbskMWgbgMy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-3" value="顶部导航栏" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="70" height="48" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="1585" y="118" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-11" value="新增用户" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="168" y="217" width="94" height="48" as="geometry" />
+          <mxGeometry x="199" y="217" width="32" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-12" value="多条件筛选查询区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="217" width="158" height="48" as="geometry" />
