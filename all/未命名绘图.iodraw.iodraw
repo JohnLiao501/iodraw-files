@@ -128,19 +128,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-37" value="查看角色列表" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="465" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-38" value="批量导入导出数据" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="500" y="590" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="645" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-39" value="删除角色信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="545" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-40" value="编辑角色信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="500" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="555" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-41" value="新增角色信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="450" width="80" height="35" as="geometry" />
+          <mxGeometry x="510" y="505" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-47" value="查看角色历史" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="770" width="80" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="510" y="1230" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-69" value="新手引导" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1390" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="1360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-70" value="生成PDF报告" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="1320" width="80" height="30" as="geometry" />
