@@ -68,10 +68,10 @@
           <mxGeometry x="1792" y="640" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1269" y="774" width="78" height="48" as="geometry" />
+          <mxGeometry x="1350" y="774" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-27" value="天赋趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1450" y="774" width="110" height="48" as="geometry" />
+          <mxGeometry x="1460" y="774" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-28" value="出金率对比图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1620" y="774" width="126" height="48" as="geometry" />
