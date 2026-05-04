@@ -26,10 +26,10 @@
           <mxGeometry x="120" y="330" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-106" value="角色档案" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="37" height="48" as="geometry" />
+          <mxGeometry x="190" y="330" width="37" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-107" value="抽卡记录" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="315" width="36" height="48" as="geometry" />
+          <mxGeometry x="242" y="330" width="36" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-108" value="面包屑导航" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="553" y="217" width="141" height="48" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-129" value="" style="startArrow=none;endArrow=none;exitX=0.53;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-103" target="r0HSlZsm8VCqf7H_SUI1-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0HSlZsm8VCqf7H_SUI1-130" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-103" target="r0HSlZsm8VCqf7H_SUI1-107">
+        <mxCell id="r0HSlZsm8VCqf7H_SUI1-130" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-103" target="r0HSlZsm8VCqf7H_SUI1-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-131" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-101" target="r0HSlZsm8VCqf7H_SUI1-108">
