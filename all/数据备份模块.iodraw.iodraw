@@ -14,10 +14,10 @@
           <mxGeometry x="1592" y="217" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="330" width="30" height="48" as="geometry" />
+          <mxGeometry x="680" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-13" value="从备份恢复" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="315" width="140" height="48" as="geometry" />
+          <mxGeometry x="735" y="315" width="45" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-14" value="导出备份" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="315" width="125" height="48" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="0W15ENPFuFBOaB9-x_x7-36" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0W15ENPFuFBOaB9-x_x7-10" target="0W15ENPFuFBOaB9-x_x7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0W15ENPFuFBOaB9-x_x7-37" value="" style="startArrow=none;endArrow=none;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0W15ENPFuFBOaB9-x_x7-10" target="0W15ENPFuFBOaB9-x_x7-13">
+        <mxCell id="0W15ENPFuFBOaB9-x_x7-37" value="" style="startArrow=none;endArrow=none;exitX=0.4;exitY=1.005;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0W15ENPFuFBOaB9-x_x7-10" target="0W15ENPFuFBOaB9-x_x7-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-38" value="" style="startArrow=none;endArrow=none;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0W15ENPFuFBOaB9-x_x7-10" target="0W15ENPFuFBOaB9-x_x7-14">
