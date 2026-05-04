@@ -7,7 +7,7 @@
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-8" value="玩家首页模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="914" y="380" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Om1xLMwUeuvl7jW6K6X4-9" value="左侧导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Om1xLMwUeuvl7jW6K6X4-9" value="左侧导航栏" style="rounded=1;arcSize=20;strokeWidth=2;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="478" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-10" value="顶部导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="1763" y="675" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-26" value="雷达图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1305" y="774" width="78" height="48" as="geometry" />
+          <mxGeometry x="1320" y="774" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-27" value="天赋趋势图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1415" y="774" width="110" height="48" as="geometry" />
