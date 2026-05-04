@@ -53,10 +53,10 @@
           <mxGeometry x="374" y="542.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-13" value="辅助功能" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="374" y="1100" width="80" height="50" as="geometry" />
+          <mxGeometry x="374" y="1210" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-14" value="可视化展示" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="374" y="995" width="80" height="50" as="geometry" />
+          <mxGeometry x="374" y="1105" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cd7hDphPJCTN62k1u4VV-15" target="cd7hDphPJCTN62k1u4VV-47">
           <mxGeometry relative="1" as="geometry" />
@@ -137,16 +137,16 @@
           <mxGeometry x="510" y="810" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-60" value="查看角色历史" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1000" width="80" height="55" as="geometry" />
+          <mxGeometry x="510" y="1010" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-61" value="删除抽卡记录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1195" width="80" height="55" as="geometry" />
+          <mxGeometry x="510" y="1205" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-62" value="批量导入数据" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1130" width="80" height="55" as="geometry" />
+          <mxGeometry x="510" y="1140" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cd7hDphPJCTN62k1u4VV-63" value="手动导入记录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1065" width="80" height="55" as="geometry" />
+          <mxGeometry x="510" y="1075" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
