@@ -59,7 +59,7 @@
           <mxGeometry x="620" y="315" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1031" y="217" width="173" height="48" as="geometry" />
+          <mxGeometry x="1031" y="217" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-20" value="总抽卡次数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="937" y="315" width="141" height="48" as="geometry" />
