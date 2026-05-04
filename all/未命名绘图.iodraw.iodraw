@@ -94,7 +94,7 @@
         <mxCell id="cd7hDphPJCTN62k1u4VV-40" value="修改头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="cd7hDphPJCTN62k1u4VV-41" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="cd7hDphPJCTN62k1u4VV-41" value="查看角色列表" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="475" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
