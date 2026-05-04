@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="-xUDHB3kheNjR9-csmhn-9" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="300" y="70" as="sourcePoint" />
+            <mxPoint x="260" y="50" as="sourcePoint" />
             <mxPoint x="240" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="95" />
