@@ -65,7 +65,7 @@
           <mxGeometry x="680" y="315" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-21" value="5星总数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1128" y="315" width="117" height="48" as="geometry" />
+          <mxGeometry x="740" y="315" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-22" value="平均出金抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1295" y="315" width="157" height="48" as="geometry" />
