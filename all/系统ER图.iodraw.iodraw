@@ -25,6 +25,10 @@
             <mxPoint x="240" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="95" />
+              <mxPoint x="330" y="100" />
+              <mxPoint x="240" y="80" />
+              <mxPoint x="260" y="80" />
+              <mxPoint x="270" y="80" />
               <mxPoint x="165" y="105" />
               <mxPoint x="190" y="150" />
               <mxPoint x="240" y="150" />
