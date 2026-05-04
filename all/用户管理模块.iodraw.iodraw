@@ -13,9 +13,6 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-3" value="顶部导航栏" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="70" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-79" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-4" value="主内容区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="367" y="80" width="94" height="48" as="geometry" />
         </mxCell>
@@ -67,7 +64,7 @@
         <mxCell id="JfC2xbYtGWbskMWgbgMy-38" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-1" target="JfC2xbYtGWbskMWgbgMy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JfC2xbYtGWbskMWgbgMy-49" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-12">
+        <mxCell id="JfC2xbYtGWbskMWgbgMy-49" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-4" target="JfC2xbYtGWbskMWgbgMy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-50" value="" style="startArrow=none;endArrow=none;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JfC2xbYtGWbskMWgbgMy-12" target="JfC2xbYtGWbskMWgbgMy-13">
