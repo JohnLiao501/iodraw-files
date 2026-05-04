@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-8" value="玩家首页模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="869" y="380" width="156" height="48" as="geometry" />
+          <mxGeometry x="946" y="380" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Om1xLMwUeuvl7jW6K6X4-9" value="左侧导航栏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="493" y="478" width="111" height="48" as="geometry" />
