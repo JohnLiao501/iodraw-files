@@ -11,7 +11,7 @@
           <mxGeometry x="184.5" y="118" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-101" value="顶部导航栏" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="567" y="118" width="140" height="48" as="geometry" />
+          <mxGeometry x="450" y="118" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-102" value="主内容区" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1202" y="118" width="124" height="48" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="450" y="217" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-110" value="全局操作按钮" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="620" y="217" width="70" height="48" as="geometry" />
+          <mxGeometry x="550" y="217" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-111" value="核心数据概览" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="971" y="217" width="157" height="48" as="geometry" />
@@ -106,7 +106,7 @@
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-132" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-101" target="r0HSlZsm8VCqf7H_SUI1-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0HSlZsm8VCqf7H_SUI1-133" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-101" target="r0HSlZsm8VCqf7H_SUI1-110">
+        <mxCell id="r0HSlZsm8VCqf7H_SUI1-133" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-101" target="r0HSlZsm8VCqf7H_SUI1-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-134" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-102" target="r0HSlZsm8VCqf7H_SUI1-111">
