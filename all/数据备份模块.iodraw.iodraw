@@ -29,10 +29,10 @@
           <mxGeometry x="1020" y="315" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="315" width="125" height="48" as="geometry" />
+          <mxGeometry x="1097" y="315" width="34" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1401" y="315" width="157" height="48" as="geometry" />
+          <mxGeometry x="1401" y="315" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-19" value="保存设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1608" y="315" width="125" height="48" as="geometry" />
