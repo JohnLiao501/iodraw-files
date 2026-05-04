@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vCF9OaxIK9VuYsfwDByk-4" value="操作日志管理模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="118" width="124" height="48" as="geometry" />
+          <mxGeometry x="1185" y="118" width="105" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-10" value="顶部全局操作栏" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="217" width="172" height="48" as="geometry" />
