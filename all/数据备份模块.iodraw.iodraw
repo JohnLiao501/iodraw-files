@@ -11,7 +11,7 @@
           <mxGeometry x="707.5" y="217" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-11" value="自动备份设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1306" y="217" width="54" height="48" as="geometry" />
+          <mxGeometry x="1110" y="217" width="54" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="315" width="30" height="48" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="1097" y="315" width="34" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="315" width="50" height="48" as="geometry" />
+          <mxGeometry x="1131" y="400" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-19" value="保存设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="320" width="29" height="48" as="geometry" />
