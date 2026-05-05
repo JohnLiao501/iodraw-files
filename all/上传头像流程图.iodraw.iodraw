@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="20" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-2" value="提交至/api/user/avatar接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="23" y="118" width="248" height="66" as="geometry" />
+          <mxGeometry x="58.5" y="90" width="177" height="42" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-3" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="234" width="214" height="48" as="geometry" />
