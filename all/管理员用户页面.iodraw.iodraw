@@ -28,6 +28,9 @@
         <mxCell id="Unn3jhrd3qahL9W3a8wu-8" value="是否有游戏UID筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="39" y="470" width="186" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Unn3jhrd3qahL9W3a8wu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Unn3jhrd3qahL9W3a8wu-9" target="Unn3jhrd3qahL9W3a8wu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-9" value="添加game_uid LIKE条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="590" width="140" height="30" as="geometry" />
         </mxCell>
