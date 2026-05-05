@@ -23,10 +23,10 @@
           <mxGeometry x="216" y="300" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-7" value="更新sys_user表is_delete=1" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="399" width="172" height="31" as="geometry" />
+          <mxGeometry x="207.5" y="360" width="172" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-8" value="记录删除用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="497" width="220" height="48" as="geometry" />
+          <mxGeometry x="224.5" y="420" width="137" height="33" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-9" value="返回删除成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="596" width="157" height="48" as="geometry" />
