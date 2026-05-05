@@ -32,7 +32,7 @@
           <mxGeometry x="274" y="469" width="146" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-10" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="567" width="157" height="48" as="geometry" />
+          <mxGeometry x="287" y="530" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="uZyYUg3P5MMiuqfLW9NO-1" target="uZyYUg3P5MMiuqfLW9NO-2">
           <mxGeometry relative="1" as="geometry">
