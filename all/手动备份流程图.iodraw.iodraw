@@ -23,7 +23,7 @@
           <mxGeometry x="229" y="370" width="139" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-7" value="计算并格式化文件大小" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="36.5" y="480" width="221" height="48" as="geometry" />
+          <mxGeometry x="80.25" y="480" width="133.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-8" value="插入sys_backup表成功记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="579" width="253" height="48" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="68.5" y="776" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-11" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="480" width="124" height="48" as="geometry" />
+          <mxGeometry x="388.5" y="480" width="91.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-12" value="插入sys_backup表失败记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="323.5" y="579" width="253" height="48" as="geometry" />
