@@ -11,7 +11,7 @@
           <mxGeometry x="121.25" y="90" width="117.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-3" value="管理员是否确认" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="99" y="217" width="161" height="161" as="geometry" />
+          <mxGeometry x="99" y="150" width="161" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="459" width="94" height="48" as="geometry" />
