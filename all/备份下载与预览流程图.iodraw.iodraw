@@ -26,7 +26,7 @@
           <mxGeometry x="119.5" y="530" width="142" height="36" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-9" value="封装预览数据返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="97" y="947" width="188" height="48" as="geometry" />
+          <mxGeometry x="134" y="600" width="113" height="33" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="db-zeFkDggVqRzwylIfd-2" target="db-zeFkDggVqRzwylIfd-3">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +82,7 @@
           <mxGeometry x="490.5" y="458" width="165" height="32" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-24" value="完成文件下载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="841" width="115" height="39" as="geometry" />
+          <mxGeometry x="515.5" y="530" width="115" height="39" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="db-zeFkDggVqRzwylIfd-18" target="db-zeFkDggVqRzwylIfd-19">
           <mxGeometry relative="1" as="geometry">
