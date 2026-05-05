@@ -14,7 +14,7 @@
           <mxGeometry x="155.25" y="140" width="187.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5XJMs-SSenklqStik98F-4" value="将userId设置到角色对象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="133.5" y="210" width="232" height="48" as="geometry" />
+          <mxGeometry x="156.25" y="210" width="186.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5XJMs-SSenklqStik98F-5" value="组装天赋等级为JSON格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129" y="431" width="241" height="48" as="geometry" />
