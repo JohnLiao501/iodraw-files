@@ -41,19 +41,19 @@
           <mxGeometry x="669" y="710" width="208" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="553.75" y="904" width="158.5" height="27" as="geometry" />
+          <mxGeometry x="553.75" y="830" width="158.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-14" value="生成JWT令牌" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="866.75" y="904" width="94.5" height="28" as="geometry" />
+          <mxGeometry x="866.75" y="830" width="94.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-15" value="更新最后登录时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="954" width="128" height="31" as="geometry" />
+          <mxGeometry x="850" y="880" width="128" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="1014" width="110" height="32" as="geometry" />
+          <mxGeometry x="859" y="940" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-17" value="返回令牌与用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="856" y="1074" width="116" height="34" as="geometry" />
+          <mxGeometry x="856" y="1000" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-1" target="uD0Tl8IbdjV953ev5tTP-2">
           <mxGeometry relative="1" as="geometry" />
