@@ -14,7 +14,7 @@
           <mxGeometry x="106.5" y="180" width="145" height="63" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="443" width="94" height="48" as="geometry" />
+          <mxGeometry x="20" y="280" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-5" value="调用/api/character/delete/{id}" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="434" width="254" height="66" as="geometry" />
@@ -53,10 +53,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f2m4SzWHxP2uok0YvN-g-16" value="取消" style="startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-3" target="f2m4SzWHxP2uok0YvN-g-4">
+        <mxCell id="f2m4SzWHxP2uok0YvN-g-16" value="取消" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-3" target="f2m4SzWHxP2uok0YvN-g-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f2m4SzWHxP2uok0YvN-g-17" value="确认" style="startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-3" target="f2m4SzWHxP2uok0YvN-g-5">
+        <mxCell id="f2m4SzWHxP2uok0YvN-g-17" value="确认" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-3" target="f2m4SzWHxP2uok0YvN-g-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-5" target="f2m4SzWHxP2uok0YvN-g-6">
