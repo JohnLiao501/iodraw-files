@@ -23,10 +23,10 @@
           <mxGeometry x="136" y="400" width="227" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-7" value="记录编辑角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="663" width="220" height="48" as="geometry" />
+          <mxGeometry x="20" y="663" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-8" value="返回修改成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="762" width="189" height="48" as="geometry" />
+          <mxGeometry x="36" y="762" width="114" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-9" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="663" width="124" height="48" as="geometry" />
@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-9" target="Kv0ZZiGa-hQ2wbIvsxk4-10">
