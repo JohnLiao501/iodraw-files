@@ -29,7 +29,7 @@
           <mxGeometry x="422.5" y="861" width="176" height="69" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-9" value="抛出异常：密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="1046" width="205" height="48" as="geometry" />
+          <mxGeometry x="320" y="1070" width="133" height="24" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-10" value="校验账号状态" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="561" y="1046" width="144" height="54" as="geometry" />
