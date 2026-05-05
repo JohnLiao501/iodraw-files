@@ -26,10 +26,10 @@
           <mxGeometry x="310.76" y="440" width="94.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-8" value="记录注册操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="510" width="110" height="30" as="geometry" />
+          <mxGeometry x="304" y="500" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-9" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="313.13" y="580" width="89.75" height="30" as="geometry" />
+          <mxGeometry x="314.13" y="570" width="89.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gNqaw-4oziRKgqoBCdT3-1" target="gNqaw-4oziRKgqoBCdT3-2">
           <mxGeometry relative="1" as="geometry">
