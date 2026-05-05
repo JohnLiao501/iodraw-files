@@ -57,10 +57,10 @@
           <mxGeometry x="444" y="66" width="126" height="34" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-16" value="调用/api/user/info接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="189" width="229" height="48" as="geometry" />
+          <mxGeometry x="444.5" y="129" width="127" height="31" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-17" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="312" width="214" height="48" as="geometry" />
+          <mxGeometry x="400" y="312" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-18" value="根据userId查询用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="436" width="232" height="48" as="geometry" />
