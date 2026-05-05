@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TVlM-4YIhPThJYIaMI3T-1" value="管理员点击删除用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="122" height="28" as="geometry" />
+          <mxGeometry x="119" y="40" width="122" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-2" value="弹出二次确认提示" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="118" width="188" height="48" as="geometry" />
+          <mxGeometry x="121.25" y="90" width="117.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-3" value="管理员是否确认" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="99" y="217" width="161" height="161" as="geometry" />
