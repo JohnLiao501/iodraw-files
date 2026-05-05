@@ -29,10 +29,10 @@
           <mxGeometry x="414.5" y="580" width="115.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-9" value="设置账号状态为正常(status=1)" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="263.5" y="678" width="166.5" height="52" as="geometry" />
+          <mxGeometry x="302" y="680" width="166.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-10" value="插入sys_user表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="305.5" y="794" width="168" height="48" as="geometry" />
+          <mxGeometry x="320.5" y="770" width="129.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-11" value="记录新增用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="893" width="220" height="48" as="geometry" />
