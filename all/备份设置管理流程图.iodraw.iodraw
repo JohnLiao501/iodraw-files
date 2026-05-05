@@ -26,7 +26,7 @@
           <mxGeometry x="220" y="430" width="143" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-8" value="判断是否已有设置" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="203" y="557" width="176" height="63" as="geometry" />
+          <mxGeometry x="203.5" y="510" width="176" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-9" value="插入sys_backup_setting表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="806" width="247" height="48" as="geometry" />
@@ -72,19 +72,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wa4GkES49CmInvudl_v5-21" value="无" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Wa4GkES49CmInvudl_v5-8" target="Wa4GkES49CmInvudl_v5-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="143" y="769" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Wa4GkES49CmInvudl_v5-21" value="无" style="startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Wa4GkES49CmInvudl_v5-8" target="Wa4GkES49CmInvudl_v5-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wa4GkES49CmInvudl_v5-22" value="有" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Wa4GkES49CmInvudl_v5-8" target="Wa4GkES49CmInvudl_v5-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="769" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Wa4GkES49CmInvudl_v5-22" value="有" style="startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Wa4GkES49CmInvudl_v5-8" target="Wa4GkES49CmInvudl_v5-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Wa4GkES49CmInvudl_v5-9" target="Wa4GkES49CmInvudl_v5-11">
           <mxGeometry relative="1" as="geometry">
