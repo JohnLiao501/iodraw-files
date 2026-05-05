@@ -17,10 +17,10 @@
           <mxGeometry x="176" y="230" width="147" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-5" value="重新组装天赋等级为JSON格式" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="330" width="169" height="49" as="geometry" />
+          <mxGeometry x="165" y="310" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-6" value="根据ID和userId更新genshin_character表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="123" y="547" width="252" height="66" as="geometry" />
+          <mxGeometry x="136" y="430" width="227" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-7" value="记录编辑角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="663" width="220" height="48" as="geometry" />
