@@ -26,7 +26,7 @@
           <mxGeometry x="80.25" y="480" width="133.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-8" value="插入sys_backup表成功记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20.5" y="579" width="179.5" height="41" as="geometry" />
+          <mxGeometry x="57.75" y="560" width="179.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-9" value="记录手动备份操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="677" width="220" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="402.38" y="480" width="95.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-12" value="插入sys_backup表失败记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="323.5" y="579" width="253" height="48" as="geometry" />
+          <mxGeometry x="367.01" y="562" width="166" height="39" as="geometry" />
         </mxCell>
         <mxCell id="jE6EtFAE2Oyq_XD1XrDl-13" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="356.5" y="677" width="188" height="48" as="geometry" />
