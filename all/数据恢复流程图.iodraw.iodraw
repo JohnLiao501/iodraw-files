@@ -29,13 +29,13 @@
           <mxGeometry x="259.5" y="550" width="140.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-9" value="抛出异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="710" width="110" height="40" as="geometry" />
+          <mxGeometry x="190" y="660" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-10" value="先手动备份当前数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="404.5" y="710" width="130" height="43" as="geometry" />
+          <mxGeometry x="370" y="660" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-11" value="接收备份数据字符串" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="414.5" y="350" width="120" height="50" as="geometry" />
+          <mxGeometry x="383" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-12" value="读取/获取备份SQL内容" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="430.5" y="936" width="223" height="48" as="geometry" />
