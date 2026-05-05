@@ -20,10 +20,10 @@
           <mxGeometry x="75.5" y="280" width="140" height="29" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-6" value="设置操作状态与时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="530" width="116" height="40" as="geometry" />
+          <mxGeometry x="88" y="340" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-7" value="插入sys_oper_log表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="46" y="628" width="200" height="48" as="geometry" />
+          <mxGeometry x="46" y="628" width="124" height="32" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-8" value="完成操作自动留痕" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="726" width="189" height="48" as="geometry" />
