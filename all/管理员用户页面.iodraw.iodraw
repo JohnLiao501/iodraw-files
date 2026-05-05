@@ -11,10 +11,10 @@
           <mxGeometry x="139.5" y="80" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-3" value="计算分页偏移量" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="127" y="140" width="113" height="30" as="geometry" />
+          <mxGeometry x="157" y="140" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-4" value="动态拼接SQL查询条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="315" width="215" height="48" as="geometry" />
+          <mxGeometry x="106" y="200" width="215" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-5" value="是否有用户名筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="125" y="414" width="177" height="177" as="geometry" />
