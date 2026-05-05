@@ -38,10 +38,10 @@
           <mxGeometry x="348" y="550" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-12" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="649" width="188" height="48" as="geometry" />
+          <mxGeometry x="327" y="610" width="144" height="31" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-13" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="747" width="157" height="48" as="geometry" />
+          <mxGeometry x="349.5" y="670" width="99" height="33" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-1" target="f2m4SzWHxP2uok0YvN-g-2">
           <mxGeometry relative="1" as="geometry">
