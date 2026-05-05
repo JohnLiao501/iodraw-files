@@ -69,7 +69,7 @@
           <mxGeometry x="437" y="320" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-20" value="返回404：用户不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="562" width="214" height="48" as="geometry" />
+          <mxGeometry x="291" y="480" width="214" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-21" value="将password字段置空" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="562" width="206" height="48" as="geometry" />
@@ -97,10 +97,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-27" value="不存在" style="startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-20">
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-27" value="不存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-28" value="存在" style="startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-21">
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-28" value="存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-21" target="HXMFwQFbcf07p5wTdR4k-22">
