@@ -35,7 +35,7 @@
           <mxGeometry x="269" y="890" width="191" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--11" value="继续" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1310" width="92" height="48" as="geometry" />
+          <mxGeometry x="94.5" y="940" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--12" value="是否有星级筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="60" y="1408" width="161" height="161" as="geometry" />
