@@ -11,10 +11,10 @@
           <mxGeometry x="146" y="100" width="262" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-3" value="校验用户名是否已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="210" width="220" height="48" as="geometry" />
+          <mxGeometry x="210.5" y="210" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="360" width="236" height="48" as="geometry" />
+          <mxGeometry x="20" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-5" value="MD5加盐加密用户密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="551" width="218" height="48" as="geometry" />
