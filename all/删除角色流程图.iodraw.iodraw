@@ -17,16 +17,16 @@
           <mxGeometry x="61" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-5" value="调用/api/character/delete/{id}" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="204.5" y="280" width="172" height="40" as="geometry" />
+          <mxGeometry x="204.5" y="280" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-6" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="350" width="186" height="40" as="geometry" />
+          <mxGeometry x="197.5" y="350" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-7" value="根据ID和userId查询目标角色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="209.5" y="450" width="162" height="34" as="geometry" />
+          <mxGeometry x="209.5" y="420" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-8" value="物理删除genshin_character表记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="782" width="257" height="66" as="geometry" />
+          <mxGeometry x="162" y="480" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-9" value="记录删除角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="898" width="220" height="48" as="geometry" />
