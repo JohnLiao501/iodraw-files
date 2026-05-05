@@ -8,7 +8,7 @@
           <mxGeometry x="73.5" y="20" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-2" value="业务接口调用recordLog" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="118" width="227" height="48" as="geometry" />
+          <mxGeometry x="32" y="118" width="138" height="32" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-3" value="组装SysOperLog对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="217" width="205" height="48" as="geometry" />
