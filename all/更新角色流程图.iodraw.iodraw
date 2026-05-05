@@ -11,10 +11,10 @@
           <mxGeometry x="187.5" y="90" width="124" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-3" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="150" width="254" height="66" as="geometry" />
+          <mxGeometry x="156.5" y="150" width="186" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-4" value="将userId设置到角色对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="133" y="333" width="232" height="48" as="geometry" />
+          <mxGeometry x="176" y="230" width="147" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-5" value="重新组装天赋等级为JSON格式" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="431" width="257" height="66" as="geometry" />
