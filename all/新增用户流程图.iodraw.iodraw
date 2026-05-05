@@ -14,7 +14,7 @@
           <mxGeometry x="167" y="210" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="551" width="236" height="48" as="geometry" />
+          <mxGeometry x="20" y="360" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-5" value="MD5加盐加密用户密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="551" width="218" height="48" as="geometry" />
@@ -53,7 +53,7 @@
         <mxCell id="E3PBYnULVCstUntQCPB0-15" value="已存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E3PBYnULVCstUntQCPB0-16" value="不存在" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1.01;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-5">
+        <mxCell id="E3PBYnULVCstUntQCPB0-16" value="不存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-5" target="E3PBYnULVCstUntQCPB0-6">
