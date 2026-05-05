@@ -17,7 +17,7 @@
           <mxGeometry x="171" y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-5" value="原密码是否正确" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="181" y="280" width="160" height="160" as="geometry" />
+          <mxGeometry x="181" y="270" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-6" value="抛出异常：原密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="682" width="221" height="48" as="geometry" />
@@ -69,6 +69,11 @@
             <Array as="points">
               <mxPoint x="392" y="645" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35wirghHguzQsVzgHOjM-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="35wirghHguzQsVzgHOjM-16">
+          <mxGeometry x="-0.3862" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="35wirghHguzQsVzgHOjM-7" target="35wirghHguzQsVzgHOjM-8">
