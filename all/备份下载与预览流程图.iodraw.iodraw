@@ -14,7 +14,7 @@
           <mxGeometry x="125" y="230" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-5" value="读取备份文件SQL内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="83" y="453" width="137" height="37" as="geometry" />
+          <mxGeometry x="122" y="310" width="137" height="37" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-6" value="统计角色与抽卡记录数量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="72" y="577" width="237" height="48" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="503.5" y="230" width="139" height="40" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-21" value="检查服务器文件是否存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="453" width="236" height="48" as="geometry" />
+          <mxGeometry x="500.5" y="310" width="145" height="37" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-22" value="设置响应头为application/sql" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="443" y="577" width="260" height="66" as="geometry" />
