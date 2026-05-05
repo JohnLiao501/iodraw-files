@@ -41,7 +41,7 @@
           <mxGeometry x="665" y="1262" width="208" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="1543" width="252" height="66" as="geometry" />
+          <mxGeometry x="517" y="1543" width="183" height="27" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-14" value="生成JWT令牌" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="819" y="1552" width="155" height="48" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="uD0Tl8IbdjV953ev5tTP-29" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-12" target="uD0Tl8IbdjV953ev5tTP-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uD0Tl8IbdjV953ev5tTP-30" value="否" style="startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-12" target="uD0Tl8IbdjV953ev5tTP-14">
+        <mxCell id="uD0Tl8IbdjV953ev5tTP-30" value="否" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-12" target="uD0Tl8IbdjV953ev5tTP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-14" target="uD0Tl8IbdjV953ev5tTP-15">
