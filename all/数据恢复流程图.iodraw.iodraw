@@ -50,7 +50,7 @@
           <mxGeometry x="381.75" y="960" width="132.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-16" value="返回恢复成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="369.5" y="1121" width="110.5" height="39" as="geometry" />
+          <mxGeometry x="392" y="1030" width="110.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-1" target="og6CeSvq4vG37QDD8oBw-2">
           <mxGeometry relative="1" as="geometry">
