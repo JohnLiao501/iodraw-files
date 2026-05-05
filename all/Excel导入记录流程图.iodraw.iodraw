@@ -17,7 +17,7 @@
           <mxGeometry x="219" y="220" width="127" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-5" value="逐行校验时间格式" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="194" y="290" width="177" height="50" as="geometry" />
+          <mxGeometry x="194" y="270" width="177" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-6" value="抛出异常：时间格式错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="380" width="154" height="30" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="301" y="440" width="161" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-9" value="记录批量导入操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="510" width="137" height="33" as="geometry" />
+          <mxGeometry x="313" y="500" width="137" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-10" value="返回导入成功条数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="580" width="111" height="35" as="geometry" />
+          <mxGeometry x="326" y="560" width="111" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Zx201oEJgF6PZ9MhWAD7-1" target="Zx201oEJgF6PZ9MhWAD7-2">
           <mxGeometry relative="1" as="geometry">
