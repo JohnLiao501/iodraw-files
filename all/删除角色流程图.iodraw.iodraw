@@ -14,10 +14,10 @@
           <mxGeometry x="106.5" y="180" width="145" height="63" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="280" width="94" height="48" as="geometry" />
+          <mxGeometry x="20" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-5" value="调用/api/character/delete/{id}" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="164" y="434" width="254" height="66" as="geometry" />
+          <mxGeometry x="168" y="280" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-6" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="550" width="254" height="66" as="geometry" />
