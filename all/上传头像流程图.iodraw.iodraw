@@ -14,10 +14,10 @@
           <mxGeometry x="66" y="170" width="161" height="36" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-4" value="获取原始文件名并提取后缀" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="333" width="170" height="37" as="geometry" />
+          <mxGeometry x="61.5" y="250" width="170" height="37" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-5" value="生成UUID作为新文件名" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="431" width="223" height="48" as="geometry" />
+          <mxGeometry x="35" y="431" width="145" height="39" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-6" value="创建服务器上传目录（如不存在）" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="530" width="253" height="66" as="geometry" />
