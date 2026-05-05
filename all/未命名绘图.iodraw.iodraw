@@ -20,16 +20,16 @@
           <mxGeometry x="306" y="320" width="104" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-6" value="设置默认角色：普通用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="287.31" y="399" width="141.37" height="29" as="geometry" />
+          <mxGeometry x="287.32" y="380" width="141.37" height="29" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-7" value="插入sys_user表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="310.76" y="468" width="94.5" height="32" as="geometry" />
+          <mxGeometry x="310.77" y="449" width="94.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-8" value="记录注册操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="538" width="110" height="30" as="geometry" />
+          <mxGeometry x="303.01" y="519" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-9" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="313.13" y="608" width="89.75" height="30" as="geometry" />
+          <mxGeometry x="313.14" y="589" width="89.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gNqaw-4oziRKgqoBCdT3-1" target="gNqaw-4oziRKgqoBCdT3-2">
           <mxGeometry relative="1" as="geometry">
