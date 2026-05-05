@@ -32,10 +32,10 @@
           <mxGeometry x="83" y="566" width="137" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-10" value="封装所有统计数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="812" width="188" height="48" as="geometry" />
+          <mxGeometry x="96" y="630" width="111" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-11" value="返回标准JSON数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="910" width="193" height="48" as="geometry" />
+          <mxGeometry x="56" y="910" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-12" value="前端ECharts渲染图表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="48" y="1008" width="210" height="48" as="geometry" />
