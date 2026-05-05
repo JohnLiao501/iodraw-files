@@ -17,10 +17,10 @@
           <mxGeometry x="100" y="482" width="141" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-5" value="根据用户名查询用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="482" width="129" height="48" as="geometry" />
+          <mxGeometry x="291" y="482" width="119" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-6" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="321" y="580" width="144" height="144" as="geometry" />
+          <mxGeometry x="278.5" y="580" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-7" value="抛出异常：用户名不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="861" width="236" height="48" as="geometry" />
