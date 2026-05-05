@@ -38,19 +38,19 @@
           <mxGeometry x="94.5" y="790" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--12" value="是否有星级筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1408" width="161" height="161" as="geometry" />
+          <mxGeometry x="60" y="860" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--13" value="Stream过滤：保留对应星级的角色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="1642" width="255" height="66" as="geometry" />
+          <mxGeometry x="99" y="1094" width="255" height="66" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--14" value="继续" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1758" width="92" height="48" as="geometry" />
+          <mxGeometry x="95" y="1210" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--15" value="解析天赋JSON为独立字段" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1856" width="241" height="48" as="geometry" />
+          <mxGeometry x="20" y="1308" width="241" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--16" value="返回过滤后的角色列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1954" width="221" height="48" as="geometry" />
+          <mxGeometry x="30" y="1406" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="UeoQz0zcef988ND5Q0p--1" target="UeoQz0zcef988ND5Q0p--2">
           <mxGeometry relative="1" as="geometry">
@@ -108,22 +108,22 @@
         <mxCell id="UeoQz0zcef988ND5Q0p--30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="UeoQz0zcef988ND5Q0p--12" target="UeoQz0zcef988ND5Q0p--13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="1605" />
+              <mxPoint x="227" y="1057" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--31" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.03;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="UeoQz0zcef988ND5Q0p--12" target="UeoQz0zcef988ND5Q0p--14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="54" y="1605" />
-              <mxPoint x="54" y="1733" />
+              <mxPoint x="54" y="1057" />
+              <mxPoint x="54" y="1185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.96;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="UeoQz0zcef988ND5Q0p--13" target="UeoQz0zcef988ND5Q0p--14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="1733" />
+              <mxPoint x="227" y="1185" />
             </Array>
           </mxGeometry>
         </mxCell>
