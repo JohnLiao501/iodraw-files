@@ -26,7 +26,7 @@
           <mxGeometry x="222" y="380" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-8" value="更新sys_user表的status字段" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="101" y="478" width="172" height="42" as="geometry" />
+          <mxGeometry x="101" y="478" width="169" height="32" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-9" value="记录启用/禁用用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="99" y="550" width="176" height="40" as="geometry" />
