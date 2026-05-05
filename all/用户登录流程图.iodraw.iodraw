@@ -44,10 +44,10 @@
           <mxGeometry x="517" y="1543" width="183" height="27" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-14" value="生成JWT令牌" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="819" y="1552" width="155" height="48" as="geometry" />
+          <mxGeometry x="835.5" y="1543" width="121" height="28" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-15" value="更新最后登录时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="1659" width="188" height="48" as="geometry" />
+          <mxGeometry x="802" y="1659" width="188" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="1758" width="188" height="48" as="geometry" />
