@@ -22,7 +22,7 @@
         <mxCell id="HXMFwQFbcf07p5wTdR4k-6" value="更新sys_user表对应字段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-1">
           <mxGeometry x="50" y="320" width="231" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-7" value="F2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-1">
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-7" value="记录&quot;修改个人信息&quot;操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-1">
           <mxGeometry x="372" y="416" width="77" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-8" value="返回更新成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-1">
