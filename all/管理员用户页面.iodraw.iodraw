@@ -56,7 +56,7 @@
           <mxGeometry x="104.75" y="1240" width="207.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-18" value="添加LIMIT分页" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="129.5" y="1366" width="162" height="48" as="geometry" />
+          <mxGeometry x="127.5" y="1320" width="92.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-19" value="执行查询获取用户列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="1464" width="221" height="48" as="geometry" />
