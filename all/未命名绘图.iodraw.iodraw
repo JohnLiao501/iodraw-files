@@ -20,10 +20,10 @@
           <mxGeometry x="306" y="482" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-6" value="设置默认角色：普通用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="580" width="159" height="48" as="geometry" />
+          <mxGeometry x="278.5" y="580" width="159" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-7" value="插入sys_user表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="678" width="168" height="48" as="geometry" />
+          <mxGeometry x="315.5" y="678" width="85" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-8" value="记录注册操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="777" width="188" height="48" as="geometry" />
