@@ -23,10 +23,10 @@
           <mxGeometry x="278.5" y="580" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-7" value="抛出异常：用户名不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="861" width="236" height="48" as="geometry" />
+          <mxGeometry x="147" y="861" width="153" height="29" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-8" value="校验密码是否正确" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="433" y="797" width="176" height="176" as="geometry" />
+          <mxGeometry x="422.5" y="861" width="176" height="69" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-9" value="抛出异常：密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="1094" width="205" height="48" as="geometry" />
