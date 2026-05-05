@@ -32,7 +32,7 @@
           <mxGeometry x="88" y="620" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-10" value="更新sys_backup_setting表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="620" width="246" height="48" as="geometry" />
+          <mxGeometry x="317" y="620" width="153" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-11" value="记录保存设置操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="718" width="220" height="48" as="geometry" />
