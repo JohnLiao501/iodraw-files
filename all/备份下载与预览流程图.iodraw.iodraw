@@ -8,7 +8,7 @@
           <mxGeometry x="123.5" y="66" width="134" height="44" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-3" value="调用/api/backup/preview/{id}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63" y="189" width="255" height="66" as="geometry" />
+          <mxGeometry x="102.5" y="148" width="177" height="41" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-4" value="校验权限与备份状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="89" y="330" width="204" height="48" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry x="507.5" y="66" width="131" height="44" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-19" value="调用/api/backup/download/{id}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="444" y="189" width="259" height="66" as="geometry" />
+          <mxGeometry x="444" y="189" width="176" height="41" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-20" value="校验权限与备份状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="330" width="204" height="48" as="geometry" />
