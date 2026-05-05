@@ -20,10 +20,10 @@
           <mxGeometry x="209.5" y="250" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-6" value="根据ID查询目标用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="300" width="234" height="48" as="geometry" />
+          <mxGeometry x="216" y="300" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-7" value="更新sys_user表is_delete=1" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="399" width="250" height="48" as="geometry" />
+          <mxGeometry x="168" y="399" width="172" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-8" value="记录删除用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="497" width="220" height="48" as="geometry" />
