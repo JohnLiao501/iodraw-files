@@ -32,10 +32,10 @@
           <mxGeometry x="248" y="1046" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-10" value="校验账号状态" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="561" y="1046" width="144" height="144" as="geometry" />
+          <mxGeometry x="561" y="1046" width="144" height="54" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-11" value="抛出异常：账号已被禁用" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1342" width="236" height="48" as="geometry" />
+          <mxGeometry x="357" y="1250" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-12" value="校验角色是否为管理员" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="665" y="1262" width="208" height="208" as="geometry" />
