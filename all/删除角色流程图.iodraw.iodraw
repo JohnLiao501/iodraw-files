@@ -29,7 +29,7 @@
           <mxGeometry x="191.5" y="480" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-9" value="记录删除角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="550" width="220" height="48" as="geometry" />
+          <mxGeometry x="61" y="550" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-10" value="返回删除成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="77" y="649" width="189" height="48" as="geometry" />
