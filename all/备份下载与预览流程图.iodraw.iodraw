@@ -20,7 +20,7 @@
           <mxGeometry x="112" y="380" width="158" height="33" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-7" value="提取用户昵称与游戏UID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="700" width="229" height="48" as="geometry" />
+          <mxGeometry x="114" y="450" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-8" value="提取前10个角色名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="88" y="824" width="206" height="48" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="500.5" y="310" width="145" height="37" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-22" value="设置响应头为application/sql" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="443" y="577" width="167" height="33" as="geometry" />
+          <mxGeometry x="489.5" y="380" width="167" height="33" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-23" value="文件流复制到响应输出流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="455" y="718" width="236" height="48" as="geometry" />
