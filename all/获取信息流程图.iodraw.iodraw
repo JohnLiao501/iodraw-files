@@ -5,28 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HXMFwQFbcf07p5wTdR4k-2" value="玩家修改个人信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="171.5" y="66" width="108" height="34" as="geometry" />
+          <mxGeometry x="807.5" y="66" width="108" height="34" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-3" value="提交至/api/user/info接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="127" width="157" height="33" as="geometry" />
+          <mxGeometry x="783" y="127" width="157" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-4" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="189" width="131" height="33" as="geometry" />
+          <mxGeometry x="796" y="189" width="131" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-5" value="将userId设置到用户对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="150.75" y="250" width="149.5" height="33" as="geometry" />
+          <mxGeometry x="786.75" y="250" width="149.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-6" target="HXMFwQFbcf07p5wTdR4k-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-6" value="更新sys_user表对应字段" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="145.5" y="312" width="160" height="30" as="geometry" />
+          <mxGeometry x="781.5" y="312" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-7" value="记录&quot;修改个人信息&quot;操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="370" width="163" height="40" as="geometry" />
+          <mxGeometry x="780" y="370" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-8" value="返回更新成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="175.5" y="436" width="100" height="30" as="geometry" />
+          <mxGeometry x="811.5" y="436" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-2" target="HXMFwQFbcf07p5wTdR4k-3">
           <mxGeometry relative="1" as="geometry">
