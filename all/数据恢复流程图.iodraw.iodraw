@@ -20,7 +20,7 @@
           <mxGeometry x="122.5" y="350" width="149" height="37" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-6" value="校验权限与状态" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="117" y="420" width="160" height="66" as="geometry" />
+          <mxGeometry x="117" y="420" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-7" value="抛出异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="550" width="77.5" height="40" as="geometry" />
