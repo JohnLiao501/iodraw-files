@@ -8,10 +8,10 @@
           <mxGeometry x="206.5" y="40" width="123" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-2" value="提交至/api/user/register" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="118" width="242" height="48" as="geometry" />
+          <mxGeometry x="186.5" y="140" width="163" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-3" value="校验用户名是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="172" y="217" width="192" height="192" as="geometry" />
+          <mxGeometry x="172" y="217" width="138" height="143" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="482" width="236" height="48" as="geometry" />
