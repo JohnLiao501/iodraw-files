@@ -14,10 +14,10 @@
           <mxGeometry x="195.5" y="140" width="192" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-4" value="返回默认设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="482" width="157" height="48" as="geometry" />
+          <mxGeometry x="120" y="250" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-5" value="返回玩家设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="482" width="157" height="48" as="geometry" />
+          <mxGeometry x="300" y="250" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Wa4GkES49CmInvudl_v5-6" value="玩家修改设置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="580" width="156" height="48" as="geometry" />
