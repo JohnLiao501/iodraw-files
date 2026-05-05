@@ -32,10 +32,10 @@
           <mxGeometry x="267" y="780" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-9" value="记录&quot;修改登录密码&quot;操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="360.5" y="880" width="159.5" height="30" as="geometry" />
+          <mxGeometry x="312.25" y="880" width="159.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-10" value="返回密码修改成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="987" width="189" height="48" as="geometry" />
+          <mxGeometry x="297.5" y="987" width="122.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="35wirghHguzQsVzgHOjM-1" target="35wirghHguzQsVzgHOjM-2">
           <mxGeometry relative="1" as="geometry">
