@@ -20,7 +20,7 @@
           <mxGeometry x="74.5" y="310" width="145" height="39" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-6" value="创建服务器上传目录（如不存在）" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="530" width="253" height="66" as="geometry" />
+          <mxGeometry x="57" y="390" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-7" value="将文件保存至服务器指定路径" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="646" width="253" height="66" as="geometry" />
