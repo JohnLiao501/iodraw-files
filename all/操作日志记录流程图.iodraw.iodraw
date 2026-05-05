@@ -14,10 +14,10 @@
           <mxGeometry x="77.5" y="140" width="137" height="33" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-4" value="设置操作人、模块、类型、内容" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="315" width="252" height="66" as="geometry" />
+          <mxGeometry x="55.5" y="210" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-5" value="IpUtil获取客户端IP" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="431" width="193" height="48" as="geometry" />
+          <mxGeometry x="77" y="280" width="140" height="29" as="geometry" />
         </mxCell>
         <mxCell id="zm59zXlUSf00FPCZASuS-6" value="设置操作状态与时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="530" width="204" height="48" as="geometry" />
