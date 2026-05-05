@@ -41,7 +41,7 @@
           <mxGeometry x="665" y="1262" width="208" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="541.5" y="1391" width="183" height="27" as="geometry" />
+          <mxGeometry x="561" y="1390" width="158.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-14" value="生成JWT令牌" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="843.75" y="1390" width="94.5" height="28" as="geometry" />
