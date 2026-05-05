@@ -14,10 +14,10 @@
           <mxGeometry x="302" y="150" width="161" height="63" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="260" width="94" height="48" as="geometry" />
+          <mxGeometry x="248" y="260" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-5" value="调用清空接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="260" width="156" height="48" as="geometry" />
+          <mxGeometry x="405.5" y="260" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-6" value="执行TRUNCATE TABLE sys_oper_log" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="359" width="215" height="66" as="geometry" />
