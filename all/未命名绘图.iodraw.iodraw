@@ -11,25 +11,25 @@
           <mxGeometry x="186.5" y="110" width="163" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-3" value="校验用户名是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="200" width="151" height="70" as="geometry" />
+          <mxGeometry x="192.5" y="180" width="151" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="482" width="136" height="38" as="geometry" />
+          <mxGeometry x="120" y="320" width="136" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-5" value="MD5加盐加密密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="482" width="104" height="38" as="geometry" />
+          <mxGeometry x="306" y="320" width="104" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-6" value="设置默认角色：普通用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="287.31" y="561" width="141.37" height="29" as="geometry" />
+          <mxGeometry x="287.31" y="399" width="141.37" height="29" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-7" value="插入sys_user表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="310.76" y="630" width="94.5" height="32" as="geometry" />
+          <mxGeometry x="310.76" y="468" width="94.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-8" value="记录注册操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="700" width="110" height="30" as="geometry" />
+          <mxGeometry x="303" y="538" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-9" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="313.13" y="770" width="89.75" height="30" as="geometry" />
+          <mxGeometry x="313.13" y="608" width="89.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gNqaw-4oziRKgqoBCdT3-1" target="gNqaw-4oziRKgqoBCdT3-2">
           <mxGeometry relative="1" as="geometry">
