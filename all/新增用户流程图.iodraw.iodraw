@@ -14,13 +14,13 @@
           <mxGeometry x="210.5" y="210" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="50.5" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-5" value="MD5加盐加密用户密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="360" width="218" height="48" as="geometry" />
+          <mxGeometry x="320" y="360" width="139" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-6" value="用户角色是否为管理员" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="311" y="649" width="208" height="208" as="geometry" />
+          <mxGeometry x="285.5" y="440" width="208" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-7" value="设置roleId=1L" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="930" width="159" height="48" as="geometry" />
