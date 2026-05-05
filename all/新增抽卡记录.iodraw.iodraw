@@ -23,16 +23,16 @@
           <mxGeometry x="65.5" y="370" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-7" value="返回新增成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="63.5" y="469" width="134" height="31" as="geometry" />
+          <mxGeometry x="57" y="440" width="134" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-8" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="370" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-9" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="469" width="146" height="31" as="geometry" />
+          <mxGeometry x="267.5" y="440" width="146" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-10" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="530" width="120" height="33" as="geometry" />
+          <mxGeometry x="280.5" y="501" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="uZyYUg3P5MMiuqfLW9NO-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="uZyYUg3P5MMiuqfLW9NO-1" target="uZyYUg3P5MMiuqfLW9NO-2">
           <mxGeometry relative="1" as="geometry">
