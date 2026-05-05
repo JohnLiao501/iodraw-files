@@ -20,10 +20,10 @@
           <mxGeometry x="181" y="270" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-6" value="抛出异常：原密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="380" width="221" height="48" as="geometry" />
+          <mxGeometry x="80" y="380" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-7" value="MD5加盐加密新密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="380" width="202" height="48" as="geometry" />
+          <mxGeometry x="291" y="380" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="35wirghHguzQsVzgHOjM-8" target="35wirghHguzQsVzgHOjM-9">
           <mxGeometry relative="1" as="geometry" />
