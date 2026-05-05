@@ -20,7 +20,7 @@
           <mxGeometry x="165" y="310" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-6" value="根据ID和userId更新genshin_character表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="430" width="227" height="33" as="geometry" />
+          <mxGeometry x="136" y="400" width="227" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-7" value="记录编辑角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="663" width="220" height="48" as="geometry" />
@@ -62,24 +62,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="638" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-17" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-7" target="Kv0ZZiGa-hQ2wbIvsxk4-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="368" y="638" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-9" target="Kv0ZZiGa-hQ2wbIvsxk4-10">
           <mxGeometry relative="1" as="geometry">
