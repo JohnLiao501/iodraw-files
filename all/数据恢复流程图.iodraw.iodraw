@@ -75,19 +75,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-22" value="无权/状态异常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="680" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="og6CeSvq4vG37QDD8oBw-22" value="无权/状态异常" style="startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-23" value="正常" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="312" y="680" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="og6CeSvq4vG37QDD8oBw-23" value="正常" style="startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-24" value="不存在" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-8" target="og6CeSvq4vG37QDD8oBw-9">
           <mxGeometry relative="1" as="geometry">
