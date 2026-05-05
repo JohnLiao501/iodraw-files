@@ -14,10 +14,10 @@
           <mxGeometry x="99" y="150" width="161" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="459" width="94" height="48" as="geometry" />
+          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-5" value="调用/api/admin/user/delete/{id}" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="164" y="450" width="259" height="66" as="geometry" />
+          <mxGeometry x="183" y="250" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-6" value="根据ID查询目标用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="566" width="234" height="48" as="geometry" />
