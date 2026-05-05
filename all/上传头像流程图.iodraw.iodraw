@@ -29,10 +29,10 @@
           <mxGeometry x="54" y="550" width="186" height="38" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-9" value="记录更新头像操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="878" width="220" height="48" as="geometry" />
+          <mxGeometry x="74.5" y="620" width="144" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-10" value="返回头像访问URL" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="54" y="976" width="185" height="48" as="geometry" />
+          <mxGeometry x="54" y="976" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="h695waCdpNA-5Q3mbQNX-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="h695waCdpNA-5Q3mbQNX-1" target="h695waCdpNA-5Q3mbQNX-2">
           <mxGeometry relative="1" as="geometry">
