@@ -47,7 +47,7 @@
           <mxGeometry x="124.5" y="930" width="161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-15" value="添加status =条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1174" width="180" height="48" as="geometry" />
+          <mxGeometry x="90" y="1139" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-16" value="继续" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="1272" width="92" height="48" as="geometry" />
