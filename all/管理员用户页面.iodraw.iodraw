@@ -32,10 +32,10 @@
           <mxGeometry x="62" y="590" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-10" value="继续" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="689" width="62" height="31" as="geometry" />
+          <mxGeometry x="168" y="650" width="62" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-11" value="是否有角色筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="133" y="787" width="161" height="53" as="geometry" />
+          <mxGeometry x="118.5" y="710" width="161" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-12" value="添加role_key =条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="1021" width="199" height="48" as="geometry" />
