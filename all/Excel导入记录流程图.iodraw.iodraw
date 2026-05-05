@@ -20,10 +20,10 @@
           <mxGeometry x="194" y="290" width="177" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-6" value="抛出异常：时间格式错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="16" y="380" width="154" height="40" as="geometry" />
+          <mxGeometry x="100" y="380" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-7" value="组装为GenshinGacha列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="380" width="157" height="40" as="geometry" />
+          <mxGeometry x="303" y="380" width="157" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-8" value="batchInsertGacha批量插入" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="478" width="161" height="32" as="geometry" />
