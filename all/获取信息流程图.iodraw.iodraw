@@ -4,74 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-1" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;container=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="515" height="617" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-14" value="获取用户信息" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-14" value="获取用户信息" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;container=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="20" width="551" height="982" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-15" value="前端携带JWT请求" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="191" y="46" width="187" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-16" value="调用/api/user/info接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="170" y="169" width="229" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-17" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="177" y="292" width="214" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-18" value="根据userId查询用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="169" y="416" width="232" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-19" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="212" y="539" width="144" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-20" value="返回404：用户不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="47" y="781" width="214" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-21" value="将password字段置空" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="311" y="781" width="206" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-22" value="返回用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="HXMFwQFbcf07p5wTdR4k-14">
-          <mxGeometry x="336" y="904" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-15" target="HXMFwQFbcf07p5wTdR4k-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-16" target="HXMFwQFbcf07p5wTdR4k-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-17" target="HXMFwQFbcf07p5wTdR4k-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-18" target="HXMFwQFbcf07p5wTdR4k-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-27" value="不存在" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="154" y="732" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-28" value="存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="732" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="HXMFwQFbcf07p5wTdR4k-14" source="HXMFwQFbcf07p5wTdR4k-21" target="HXMFwQFbcf07p5wTdR4k-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-2" value="玩家修改个人信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="66" width="108" height="34" as="geometry" />
@@ -84,9 +18,6 @@
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-5" value="将userId设置到用户对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="150.75" y="267" width="149.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="HXMFwQFbcf07p5wTdR4k-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-6" target="HXMFwQFbcf07p5wTdR4k-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-6" value="更新sys_user表对应字段" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="145.5" y="340" width="160" height="30" as="geometry" />
@@ -118,6 +49,69 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-7" target="HXMFwQFbcf07p5wTdR4k-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-15" value="前端携带JWT请求" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="776" y="66" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-16" value="调用/api/user/info接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="189" width="229" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-17" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="762" y="312" width="214" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-18" value="根据userId查询用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="436" width="232" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-19" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="797" y="559" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-20" value="返回404：用户不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="801" width="214" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-21" value="将password字段置空" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="896" y="801" width="206" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-22" value="返回用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="921" y="924" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-15" target="HXMFwQFbcf07p5wTdR4k-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-16" target="HXMFwQFbcf07p5wTdR4k-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-17" target="HXMFwQFbcf07p5wTdR4k-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-18" target="HXMFwQFbcf07p5wTdR4k-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-27" value="不存在" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="739" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-28" value="存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-19" target="HXMFwQFbcf07p5wTdR4k-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="999" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXMFwQFbcf07p5wTdR4k-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-21" target="HXMFwQFbcf07p5wTdR4k-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
