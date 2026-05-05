@@ -20,7 +20,7 @@
           <mxGeometry x="111.5" y="360" width="158" height="33" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-7" value="提取用户昵称与游戏UID" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="113.5" y="430" width="154" height="40" as="geometry" />
+          <mxGeometry x="113.5" y="430" width="156.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-8" value="提取前10个角色名称" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="510" width="142" height="36" as="geometry" />
