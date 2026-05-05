@@ -20,13 +20,13 @@
           <mxGeometry x="291" y="290" width="119" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-6" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="360" width="144" height="70" as="geometry" />
+          <mxGeometry x="278.5" y="360" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-7" value="抛出异常：用户名不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="153" height="29" as="geometry" />
+          <mxGeometry x="150" y="480" width="153" height="29" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-8" value="校验密码是否正确" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="500" width="176" height="50" as="geometry" />
+          <mxGeometry x="422.5" y="480" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-9" value="抛出异常：密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="940" width="133" height="24" as="geometry" />
