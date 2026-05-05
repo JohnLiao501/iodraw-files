@@ -47,10 +47,10 @@
           <mxGeometry x="843.75" y="1390" width="94.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-15" value="更新最后登录时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1507" width="128" height="31" as="geometry" />
+          <mxGeometry x="827" y="1440" width="128" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="836.5" y="1601.5" width="110" height="32" as="geometry" />
+          <mxGeometry x="836" y="1500" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-17" value="返回令牌与用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="833" y="1708" width="116" height="34" as="geometry" />
