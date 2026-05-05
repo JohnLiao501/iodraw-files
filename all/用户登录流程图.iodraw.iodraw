@@ -50,7 +50,7 @@
           <mxGeometry x="832" y="1659" width="128" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="1758" width="188" height="48" as="geometry" />
+          <mxGeometry x="802" y="1758" width="188" height="32" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-17" value="返回令牌与用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="794" y="1856" width="205" height="48" as="geometry" />
