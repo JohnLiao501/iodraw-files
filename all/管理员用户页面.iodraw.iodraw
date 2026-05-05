@@ -152,8 +152,9 @@
         <mxCell id="Unn3jhrd3qahL9W3a8wu-40" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Unn3jhrd3qahL9W3a8wu-14" target="Unn3jhrd3qahL9W3a8wu-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205" y="1070" />
-              <mxPoint x="207" y="1070" />
+              <mxPoint x="280" y="990" />
+              <mxPoint x="280" y="1100" />
+              <mxPoint x="207" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
