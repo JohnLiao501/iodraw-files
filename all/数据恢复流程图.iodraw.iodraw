@@ -38,10 +38,10 @@
           <mxGeometry x="392" y="350" width="112" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-12" value="读取/获取备份SQL内容" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="336.5" y="728" width="193.5" height="42" as="geometry" />
+          <mxGeometry x="350.75" y="740" width="193.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-13" value="按分号分割SQL语句" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="826" width="199" height="48" as="geometry" />
+          <mxGeometry x="371.75" y="820" width="152.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-14" value="逐条执行SQL（跳过注释）" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="324.5" y="924" width="247" height="48" as="geometry" />
