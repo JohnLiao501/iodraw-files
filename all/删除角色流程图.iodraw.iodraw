@@ -29,19 +29,19 @@
           <mxGeometry x="191.5" y="480" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-9" value="记录删除角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="898" width="220" height="48" as="geometry" />
+          <mxGeometry x="61" y="550" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-10" value="返回删除成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="77" y="997" width="189" height="48" as="geometry" />
+          <mxGeometry x="77" y="649" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-11" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="898" width="124" height="48" as="geometry" />
+          <mxGeometry x="348" y="550" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-12" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="997" width="188" height="48" as="geometry" />
+          <mxGeometry x="316" y="649" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-13" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="1095" width="157" height="48" as="geometry" />
+          <mxGeometry x="331" y="747" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f2m4SzWHxP2uok0YvN-g-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="f2m4SzWHxP2uok0YvN-g-1" target="f2m4SzWHxP2uok0YvN-g-2">
           <mxGeometry relative="1" as="geometry">
