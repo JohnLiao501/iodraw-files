@@ -23,7 +23,7 @@
           <mxGeometry x="114" y="450" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-8" value="提取前10个角色名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="88" y="824" width="206" height="48" as="geometry" />
+          <mxGeometry x="88" y="824" width="142" height="36" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-9" value="封装预览数据返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="97" y="947" width="188" height="48" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="489.5" y="380" width="167" height="33" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-23" value="文件流复制到响应输出流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="718" width="236" height="48" as="geometry" />
+          <mxGeometry x="490.5" y="458" width="165" height="32" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-24" value="完成文件下载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="495" y="841" width="156" height="48" as="geometry" />
