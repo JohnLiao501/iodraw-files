@@ -11,7 +11,7 @@
           <mxGeometry x="201.75" y="90" width="116.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-3" value="JWT拦截器解析userId" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="160" width="137" height="43" as="geometry" />
+          <mxGeometry x="192" y="160" width="138" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-4" value="GenshinGachaService" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="230" width="126" height="35" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="90" y="500" width="123" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-9" value="查询最近20条抽卡记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="566" width="137" height="37" as="geometry" />
+          <mxGeometry x="83" y="566" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-10" value="封装所有统计数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="630" width="111" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-11" value="返回标准JSON数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="89.5" y="700" width="124" height="30" as="geometry" />
+          <mxGeometry x="89" y="690" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-12" value="前端ECharts渲染图表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="760" width="122" height="32" as="geometry" />
+          <mxGeometry x="90.5" y="750" width="122" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-13" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="320" width="84" height="30" as="geometry" />
