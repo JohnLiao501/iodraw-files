@@ -8,52 +8,52 @@
           <mxGeometry x="186" y="40" width="150" height="28" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-2" value="提交至/api/user/login" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="140" width="139" height="26" as="geometry" />
+          <mxGeometry x="191.5" y="90" width="139" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-3" value="校验验证码是否正确" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="165" y="210" width="192" height="60" as="geometry" />
+          <mxGeometry x="165" y="160" width="192" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-4" value="抛出异常：验证码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="482" width="141" height="38" as="geometry" />
+          <mxGeometry x="100" y="432" width="141" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-5" value="根据用户名查询用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="482" width="119" height="38" as="geometry" />
+          <mxGeometry x="291" y="432" width="119" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-6" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="580" width="144" height="70" as="geometry" />
+          <mxGeometry x="278.5" y="530" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-7" value="抛出异常：用户名不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="720" width="153" height="29" as="geometry" />
+          <mxGeometry x="150" y="670" width="153" height="29" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-8" value="校验密码是否正确" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="720" width="176" height="50" as="geometry" />
+          <mxGeometry x="422.5" y="670" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-9" value="抛出异常：密码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="990" width="133" height="24" as="geometry" />
+          <mxGeometry x="320" y="940" width="133" height="24" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-10" value="校验账号状态" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="561" y="990" width="144" height="54" as="geometry" />
+          <mxGeometry x="561" y="940" width="144" height="54" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-11" value="抛出异常：账号已被禁用" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1169" width="153" height="30" as="geometry" />
+          <mxGeometry x="414" y="1119" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-12" value="校验角色是否为管理员" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1169" width="208" height="58" as="geometry" />
+          <mxGeometry x="670" y="1119" width="208" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="553.75" y="1310" width="158.5" height="27" as="geometry" />
+          <mxGeometry x="553.75" y="1260" width="158.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-14" value="生成JWT令牌" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="866.75" y="1310" width="94.5" height="28" as="geometry" />
+          <mxGeometry x="866.75" y="1260" width="94.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-15" value="更新最后登录时间" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1360" width="128" height="31" as="geometry" />
+          <mxGeometry x="850" y="1310" width="128" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="1420" width="110" height="32" as="geometry" />
+          <mxGeometry x="859" y="1370" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-17" value="返回令牌与用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="856" y="1480" width="116" height="34" as="geometry" />
+          <mxGeometry x="856" y="1430" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-1" target="uD0Tl8IbdjV953ev5tTP-2">
           <mxGeometry relative="1" as="geometry" />
