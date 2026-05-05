@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-1" value="玩家上传Excel文件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="186" y="20" width="194" height="48" as="geometry" />
+          <mxGeometry x="215.5" y="20" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx201oEJgF6PZ9MhWAD7-2" value="提交至/api/gacha/import" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="118" width="245" height="48" as="geometry" />
