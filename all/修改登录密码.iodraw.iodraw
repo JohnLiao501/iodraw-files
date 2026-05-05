@@ -31,7 +31,7 @@
         <mxCell id="35wirghHguzQsVzgHOjM-8" value="更新sys_user表的password字段" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="780" width="249" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="35wirghHguzQsVzgHOjM-9" value="I" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="35wirghHguzQsVzgHOjM-9" value="记录&quot;修改登录密码&quot;操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="360.5" y="880" width="64" height="48" as="geometry" />
         </mxCell>
         <mxCell id="35wirghHguzQsVzgHOjM-10" value="返回密码修改成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
