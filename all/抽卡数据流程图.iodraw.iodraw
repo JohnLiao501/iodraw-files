@@ -13,7 +13,7 @@
         <mxCell id="7CWW6OFayuRgzVT1c6Sg-3" value="查询总抽卡次数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="160" width="136" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7CWW6OFayuRgzVT1c6Sg-4" value="查询5星物品总数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="7CWW6OFayuRgzVT1c6Sg-4" value="查询5星角色总数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="240" width="141" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7CWW6OFayuRgzVT1c6Sg-5" value="计算平均出金抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
