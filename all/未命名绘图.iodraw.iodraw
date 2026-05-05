@@ -17,10 +17,10 @@
           <mxGeometry x="120" y="482" width="136" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-5" value="MD5加盐加密密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="482" width="104" height="48" as="geometry" />
+          <mxGeometry x="306" y="482" width="104" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-6" value="设置默认角色：普通用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="580" width="159" height="48" as="geometry" />
+          <mxGeometry x="278.63" y="561" width="159" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-7" value="插入sys_user表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="310.75" y="678" width="94.5" height="32" as="geometry" />
