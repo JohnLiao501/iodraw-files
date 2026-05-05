@@ -23,7 +23,7 @@
           <mxGeometry x="80" y="360" width="162" height="41" as="geometry" />
         </mxCell>
         <mxCell id="njDFSKxfQ8YOoovoWGoU-7" value="封装等级、天赋等维度数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="477" width="252" height="48" as="geometry" />
+          <mxGeometry x="20" y="477" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="njDFSKxfQ8YOoovoWGoU-8" value="返回标准JSON数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="575" width="193" height="48" as="geometry" />
