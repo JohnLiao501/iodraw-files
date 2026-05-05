@@ -11,7 +11,7 @@
           <mxGeometry x="146" y="100" width="262" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-3" value="校验用户名是否已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="280" width="220" height="48" as="geometry" />
+          <mxGeometry x="167" y="210" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="551" width="236" height="48" as="geometry" />
@@ -50,19 +50,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3PBYnULVCstUntQCPB0-15" value="已存在" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="138" y="515" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="E3PBYnULVCstUntQCPB0-15" value="已存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E3PBYnULVCstUntQCPB0-16" value="不存在" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1.01;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="515" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="E3PBYnULVCstUntQCPB0-16" value="不存在" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1.01;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-3" target="E3PBYnULVCstUntQCPB0-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E3PBYnULVCstUntQCPB0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="E3PBYnULVCstUntQCPB0-5" target="E3PBYnULVCstUntQCPB0-6">
           <mxGeometry relative="1" as="geometry">
