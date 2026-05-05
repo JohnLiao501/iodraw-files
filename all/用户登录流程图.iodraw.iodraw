@@ -14,7 +14,7 @@
           <mxGeometry x="165" y="210" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-4" value="抛出异常：验证码错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="480" width="141" height="50" as="geometry" />
+          <mxGeometry x="100" y="482" width="141" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-5" value="根据用户名查询用户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="482" width="129" height="48" as="geometry" />
