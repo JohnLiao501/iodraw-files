@@ -14,7 +14,7 @@
           <mxGeometry x="77.5" y="140" width="126" height="33" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--4" value="查询该用户所有角色列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="23" y="315" width="236" height="48" as="geometry" />
+          <mxGeometry x="72.5" y="210" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--5" value="按创建时间倒序排列" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="38" y="414" width="205" height="48" as="geometry" />
