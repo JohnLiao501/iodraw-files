@@ -4,89 +4,89 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-1" value="玩家修改角色信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155" y="20" width="188" height="48" as="geometry" />
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-1" value="玩家修改角色信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="20" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-2" value="/api/character/update" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-2" value="/api/character/update" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="118" width="226" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-3" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-3" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="217" width="254" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-4" value="将userId设置到角色对象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-4" value="将userId设置到角色对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="333" width="232" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-5" value="重新组装天赋等级为JSON格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-5" value="重新组装天赋等级为JSON格式" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="431" width="257" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-6" value="根据ID和userId更新genshin_character表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-6" value="根据ID和userId更新genshin_character表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="547" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-7" value="记录编辑角色操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-7" value="记录编辑角色操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="663" width="220" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-8" value="返回修改成功结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-8" value="返回修改成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="36" y="762" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-9" value="出现异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-9" value="出现异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="663" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-10" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-10" value="记录失败操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="762" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-11" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-11" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="860" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-1" target="Kv0ZZiGa-hQ2wbIvsxk4-2">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-1" target="Kv0ZZiGa-hQ2wbIvsxk4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-2" target="Kv0ZZiGa-hQ2wbIvsxk4-3">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-2" target="Kv0ZZiGa-hQ2wbIvsxk4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-3" target="Kv0ZZiGa-hQ2wbIvsxk4-4">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-3" target="Kv0ZZiGa-hQ2wbIvsxk4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-4" target="Kv0ZZiGa-hQ2wbIvsxk4-5">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-4" target="Kv0ZZiGa-hQ2wbIvsxk4-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-5" target="Kv0ZZiGa-hQ2wbIvsxk4-6">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-5" target="Kv0ZZiGa-hQ2wbIvsxk4-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-7">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-7" target="Kv0ZZiGa-hQ2wbIvsxk4-8">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-7" target="Kv0ZZiGa-hQ2wbIvsxk4-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-6" target="Kv0ZZiGa-hQ2wbIvsxk4-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="368" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-9" target="Kv0ZZiGa-hQ2wbIvsxk4-10">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-9" target="Kv0ZZiGa-hQ2wbIvsxk4-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-10" target="Kv0ZZiGa-hQ2wbIvsxk4-11">
+        <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Kv0ZZiGa-hQ2wbIvsxk4-10" target="Kv0ZZiGa-hQ2wbIvsxk4-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
