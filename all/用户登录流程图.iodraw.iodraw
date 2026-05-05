@@ -38,7 +38,7 @@
           <mxGeometry x="413" y="710" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-12" value="校验角色是否为管理员" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="669" y="710" width="208" height="58" as="geometry" />
+          <mxGeometry x="669" y="710" width="208" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="553.75" y="830" width="158.5" height="27" as="geometry" />
