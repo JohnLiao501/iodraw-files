@@ -7,6 +7,9 @@
         <mxCell id="Unn3jhrd3qahL9W3a8wu-1" value="管理员输入筛选条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="20" width="204" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="Unn3jhrd3qahL9W3a8wu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Unn3jhrd3qahL9W3a8wu-2" target="Unn3jhrd3qahL9W3a8wu-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-2" value="提交至/api/admin/user/list" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="118" width="260" height="48" as="geometry" />
         </mxCell>
@@ -214,6 +217,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Unn3jhrd3qahL9W3a8wu-48" value="提交至/api/admin/user/list" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="246" width="260" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
