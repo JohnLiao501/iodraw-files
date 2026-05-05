@@ -25,9 +25,6 @@
         <mxCell id="og6CeSvq4vG37QDD8oBw-7" value="抛出异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="550" width="77.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-8" value="检查服务器文件是否存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="259.5" y="550" width="140.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-9" value="抛出异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="660" width="110" height="40" as="geometry" />
         </mxCell>
@@ -78,16 +75,21 @@
         <mxCell id="og6CeSvq4vG37QDD8oBw-22" value="无权/状态异常" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-23" value="正常" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6" target="og6CeSvq4vG37QDD8oBw-8">
+        <mxCell id="og6CeSvq4vG37QDD8oBw-23" value="正常" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="490" as="sourcePoint" />
+            <mxPoint x="329.75" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-24" value="不存在" style="startArrow=none;endArrow=block;exitX=0.45;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-8" target="og6CeSvq4vG37QDD8oBw-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="og6CeSvq4vG37QDD8oBw-24" value="不存在" style="startArrow=none;endArrow=block;exitX=0.45;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="og6CeSvq4vG37QDD8oBw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322.99519230769215" y="590" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-25" value="存在" style="startArrow=none;endArrow=block;exitX=0.456;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-8" target="og6CeSvq4vG37QDD8oBw-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="og6CeSvq4vG37QDD8oBw-25" value="存在" style="startArrow=none;endArrow=block;exitX=0.456;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="og6CeSvq4vG37QDD8oBw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323.568" y="590" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-26" value="本地文件" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-11">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-33" value="检查服务器文件是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="239" y="520" width="186" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
