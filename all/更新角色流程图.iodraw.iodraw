@@ -8,10 +8,10 @@
           <mxGeometry x="192" y="20" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-2" value="/api/character/update" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="118" width="226" height="48" as="geometry" />
+          <mxGeometry x="187.5" y="90" width="124" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-3" value="JWT拦截器解析userId与username" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="217" width="254" height="66" as="geometry" />
+          <mxGeometry x="124" y="150" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Kv0ZZiGa-hQ2wbIvsxk4-4" value="将userId设置到角色对象" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="333" width="232" height="48" as="geometry" />
