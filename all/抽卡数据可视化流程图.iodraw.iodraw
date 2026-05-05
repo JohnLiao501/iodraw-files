@@ -17,7 +17,7 @@
           <mxGeometry x="197.5" y="230" width="126" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-5" value="统计总抽卡次数与5星总数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="320" width="246" height="48" as="geometry" />
+          <mxGeometry x="30" y="320" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-6" value="计算平均出金抽数" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="418" width="189" height="48" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="326" y="320" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-14" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="323.5" y="378" width="97" height="40" as="geometry" />
+          <mxGeometry x="329.75" y="378" width="76.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="Xj2eH9kP-veyR-y-B_tP-1" target="Xj2eH9kP-veyR-y-B_tP-2">
           <mxGeometry relative="1" as="geometry">
