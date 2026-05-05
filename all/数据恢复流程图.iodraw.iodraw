@@ -14,7 +14,7 @@
           <mxGeometry x="264.5" y="160" width="135" height="43" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-4" value="判断恢复来源" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="315" width="145" height="145" as="geometry" />
+          <mxGeometry x="259.5" y="230" width="145" height="65" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-5" value="根据backupId查询备份记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="533" width="252" height="48" as="geometry" />
@@ -67,7 +67,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-20" value="服务器备份" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-5">
+        <mxCell id="og6CeSvq4vG37QDD8oBw-20" value="服务器备份" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;strokeColor=none;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="497" />
@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-26" value="本地文件" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-11">
+        <mxCell id="og6CeSvq4vG37QDD8oBw-26" value="本地文件" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;strokeColor=none;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="497" />
