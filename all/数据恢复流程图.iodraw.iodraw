@@ -86,7 +86,7 @@
             <mxPoint x="322.99519230769215" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-25" value="存在" style="startArrow=none;endArrow=block;exitX=0.456;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="og6CeSvq4vG37QDD8oBw-10">
+        <mxCell id="og6CeSvq4vG37QDD8oBw-25" value="存在" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-33" target="og6CeSvq4vG37QDD8oBw-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323.568" y="590" as="sourcePoint" />
           </mxGeometry>
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-33" value="检查服务器文件是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="520" width="186" height="80" as="geometry" />
+          <mxGeometry x="239" y="550" width="186" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
