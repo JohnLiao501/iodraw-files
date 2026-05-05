@@ -41,7 +41,7 @@
           <mxGeometry x="60" y="900" width="161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--13" value="Stream过滤：保留对应星级的角色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="1094" width="255" height="66" as="geometry" />
+          <mxGeometry x="230" y="1070" width="151" height="46" as="geometry" />
         </mxCell>
         <mxCell id="UeoQz0zcef988ND5Q0p--14" value="继续" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="1210" width="92" height="48" as="geometry" />
