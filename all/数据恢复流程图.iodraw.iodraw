@@ -26,7 +26,7 @@
           <mxGeometry x="39.5" y="550" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-8" value="检查服务器文件是否存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="259.5" y="550" width="136" height="40" as="geometry" />
+          <mxGeometry x="259.5" y="550" width="140.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-9" value="抛出异常" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="259.5" y="760" width="124" height="48" as="geometry" />
