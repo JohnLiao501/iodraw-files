@@ -14,7 +14,7 @@
           <mxGeometry x="330" y="217" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-12" value="操作日志列表展示区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="217" width="110" height="48" as="geometry" />
+          <mxGeometry x="530" y="217" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-13" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="217" width="70" height="48" as="geometry" />
