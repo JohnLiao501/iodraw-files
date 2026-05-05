@@ -26,7 +26,7 @@
           <mxGeometry x="102" y="440" width="101" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-8" value="查询历史5星保底趋势" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="615" width="123" height="35" as="geometry" />
+          <mxGeometry x="91" y="510" width="123" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Xj2eH9kP-veyR-y-B_tP-9" value="查询最近20条抽卡记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="713" width="221" height="48" as="geometry" />
