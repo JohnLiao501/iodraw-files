@@ -20,19 +20,19 @@
           <mxGeometry x="101" y="270" width="192" height="69" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-6" value="设置status=1" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="404" width="152" height="48" as="geometry" />
+          <mxGeometry x="20" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-7" value="设置status=0" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="404" width="152" height="48" as="geometry" />
+          <mxGeometry x="222" y="380" width="152" height="48" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-8" value="更新sys_user表的status字段" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="68" y="502" width="258" height="48" as="geometry" />
+          <mxGeometry x="68" y="478" width="258" height="48" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-9" value="记录启用/禁用用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="74" y="601" width="244" height="66" as="geometry" />
+          <mxGeometry x="74" y="577" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-10" value="返回操作成功" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="118" y="717" width="157" height="48" as="geometry" />
+          <mxGeometry x="118" y="693" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="racMVeo8dJ_RVKyKcQLA-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" parent="1" source="racMVeo8dJ_RVKyKcQLA-1" target="racMVeo8dJ_RVKyKcQLA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
