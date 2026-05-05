@@ -23,10 +23,10 @@
           <mxGeometry x="58.5" y="400" width="158" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7CWW6OFayuRgzVT1c6Sg-7" value="封装所有统计数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="460" width="130" height="40" as="geometry" />
+          <mxGeometry x="79.5" y="460" width="117" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7CWW6OFayuRgzVT1c6Sg-8" value="返回统计结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="58.5" y="537" width="157" height="48" as="geometry" />
+          <mxGeometry x="81.75" y="537" width="111.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="7CWW6OFayuRgzVT1c6Sg-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="7CWW6OFayuRgzVT1c6Sg-1" target="7CWW6OFayuRgzVT1c6Sg-2">
           <mxGeometry relative="1" as="geometry">
