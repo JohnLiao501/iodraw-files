@@ -67,12 +67,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-20" value="服务器备份" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;strokeColor=none;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="197" y="497" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="og6CeSvq4vG37QDD8oBw-20" value="服务器备份" style="startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-5" target="og6CeSvq4vG37QDD8oBw-6">
           <mxGeometry relative="1" as="geometry">
@@ -107,12 +103,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="og6CeSvq4vG37QDD8oBw-26" value="本地文件" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;strokeColor=none;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="582" y="497" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="og6CeSvq4vG37QDD8oBw-26" value="本地文件" style="startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-4" target="og6CeSvq4vG37QDD8oBw-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.54;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-11" target="og6CeSvq4vG37QDD8oBw-10">
           <mxGeometry relative="1" as="geometry">
