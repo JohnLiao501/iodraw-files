@@ -69,10 +69,10 @@
           <mxGeometry x="437" y="320" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-20" value="返回404：用户不存在" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="480" width="214" height="48" as="geometry" />
+          <mxGeometry x="291" y="480" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-21" value="将password字段置空" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="562" width="206" height="48" as="geometry" />
+          <mxGeometry x="536" y="562" width="124" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-22" value="返回用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="561" y="685" width="157" height="48" as="geometry" />
