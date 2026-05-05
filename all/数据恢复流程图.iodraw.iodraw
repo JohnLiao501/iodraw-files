@@ -41,13 +41,13 @@
           <mxGeometry x="371.75" y="810" width="152.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-14" value="逐条执行SQL" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="385.38" y="880" width="125.25" height="40" as="geometry" />
+          <mxGeometry x="385.38" y="870" width="125.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-15" value="记录数据恢复操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="381.75" y="950" width="132.5" height="37" as="geometry" />
+          <mxGeometry x="381.75" y="940" width="132.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-16" value="返回恢复成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="399.01" y="1020" width="98" height="40" as="geometry" />
+          <mxGeometry x="399.01" y="1010" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="og6CeSvq4vG37QDD8oBw-1" target="og6CeSvq4vG37QDD8oBw-2">
           <mxGeometry relative="1" as="geometry">
