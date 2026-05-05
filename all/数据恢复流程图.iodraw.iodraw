@@ -35,7 +35,7 @@
           <mxGeometry x="461" y="837" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-11" value="接收备份数据字符串" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="716" width="205" height="48" as="geometry" />
+          <mxGeometry x="490" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-12" value="读取/获取备份SQL内容" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="452" y="936" width="223" height="48" as="geometry" />
