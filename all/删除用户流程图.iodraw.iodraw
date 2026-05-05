@@ -17,19 +17,19 @@
           <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-5" value="调用/api/admin/user/delete/{id}" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="250" width="167" height="30" as="geometry" />
+          <mxGeometry x="209.5" y="250" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-6" value="根据ID查询目标用户信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="566" width="234" height="48" as="geometry" />
+          <mxGeometry x="176" y="300" width="234" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-7" value="更新sys_user表is_delete=1" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="665" width="250" height="48" as="geometry" />
+          <mxGeometry x="168" y="399" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-8" value="记录删除用户操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="763" width="220" height="48" as="geometry" />
+          <mxGeometry x="183" y="497" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-9" value="返回删除成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="862" width="157" height="48" as="geometry" />
+          <mxGeometry x="215" y="596" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TVlM-4YIhPThJYIaMI3T-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="TVlM-4YIhPThJYIaMI3T-1" target="TVlM-4YIhPThJYIaMI3T-2">
           <mxGeometry relative="1" as="geometry">
