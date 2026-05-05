@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-18" value="玩家点击下载备份" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="479" y="66" width="189" height="48" as="geometry" />
+          <mxGeometry x="507.5" y="66" width="131" height="44" as="geometry" />
         </mxCell>
         <mxCell id="db-zeFkDggVqRzwylIfd-19" value="调用/api/backup/download/{id}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="444" y="189" width="259" height="66" as="geometry" />
