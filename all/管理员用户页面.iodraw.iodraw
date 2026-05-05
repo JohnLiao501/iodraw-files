@@ -17,7 +17,7 @@
           <mxGeometry x="132.5" y="210" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-5" value="是否有用户名筛选" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="280" width="177" height="177" as="geometry" />
+          <mxGeometry x="124.5" y="270" width="177" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Unn3jhrd3qahL9W3a8wu-6" value="添加username LIKE条件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="663" width="228" height="48" as="geometry" />
