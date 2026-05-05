@@ -44,7 +44,7 @@
           <mxGeometry x="371.75" y="820" width="152.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-14" value="逐条执行SQL（跳过注释）" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="324.5" y="924" width="247" height="48" as="geometry" />
+          <mxGeometry x="354.75" y="890" width="185.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="og6CeSvq4vG37QDD8oBw-15" value="记录数据恢复操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="1023" width="220" height="48" as="geometry" />
