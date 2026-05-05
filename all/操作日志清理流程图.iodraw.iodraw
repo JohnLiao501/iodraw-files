@@ -14,22 +14,22 @@
           <mxGeometry x="302" y="150" width="161" height="63" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-4" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="450" width="94" height="48" as="geometry" />
+          <mxGeometry x="248" y="260" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-5" value="调用清空接口" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="450" width="156" height="48" as="geometry" />
+          <mxGeometry x="392" y="260" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-6" value="执行TRUNCATE TABLE sys_oper_log" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="549" width="215" height="66" as="geometry" />
+          <mxGeometry x="362" y="359" width="215" height="66" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-7" value="物理清空所有日志记录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="665" width="221" height="48" as="geometry" />
+          <mxGeometry x="359" y="475" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-8" value="记录清空操作日志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="763" width="188" height="48" as="geometry" />
+          <mxGeometry x="376" y="573" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-9" value="返回清空成功结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="862" width="189" height="48" as="geometry" />
+          <mxGeometry x="375" y="672" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-1" target="p5gTL9jYqys7rUHstLYO-2">
           <mxGeometry relative="1" as="geometry">
@@ -41,10 +41,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5gTL9jYqys7rUHstLYO-12" value="取消" style="startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-3" target="p5gTL9jYqys7rUHstLYO-4">
+        <mxCell id="p5gTL9jYqys7rUHstLYO-12" value="取消" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-3" target="p5gTL9jYqys7rUHstLYO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5gTL9jYqys7rUHstLYO-13" value="确认" style="startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-3" target="p5gTL9jYqys7rUHstLYO-5">
+        <mxCell id="p5gTL9jYqys7rUHstLYO-13" value="确认" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-3" target="p5gTL9jYqys7rUHstLYO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p5gTL9jYqys7rUHstLYO-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="p5gTL9jYqys7rUHstLYO-5" target="p5gTL9jYqys7rUHstLYO-6">
