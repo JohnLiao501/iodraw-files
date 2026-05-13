@@ -16,7 +16,7 @@
         <mxCell id="gNqaw-4oziRKgqoBCdT3-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="136" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gNqaw-4oziRKgqoBCdT3-5" value="MD5加盐加密密码" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="gNqaw-4oziRKgqoBCdT3-5" value="Bcrypt加密密码" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="306" y="320" width="104" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-6" value="设置默认角色：普通用户" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
