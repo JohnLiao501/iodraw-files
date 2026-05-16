@@ -23,19 +23,19 @@
           <mxGeometry x="265" y="190" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-13" value="用户名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="150" y="370" width="20" height="48" as="geometry" />
+          <mxGeometry x="145" y="370" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-14" value="游戏UID" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="176" y="370" width="25" height="48" as="geometry" />
+          <mxGeometry x="171" y="370" width="25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-15" value="用户身份" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="210" y="370" width="20" height="60" as="geometry" />
+          <mxGeometry x="205" y="370" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-16" value="账号状态" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="240" y="370" width="20" height="60" as="geometry" />
+          <mxGeometry x="235" y="370" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-17" value="查询/重置" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="270" y="370" width="20" height="60" as="geometry" />
+          <mxGeometry x="265" y="370" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-18" value="用户数据列表展示区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="380" y="190" width="20" height="133" as="geometry" />
