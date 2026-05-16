@@ -14,13 +14,13 @@
           <mxGeometry x="263" y="227" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-12" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="325" width="36" height="48" as="geometry" />
+          <mxGeometry x="50" y="325" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-13" value="手动录入" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="325" width="30" height="48" as="geometry" />
+          <mxGeometry x="103" y="325" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="153" y="325" width="36" height="48" as="geometry" />
+          <mxGeometry x="153" y="325" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-15" value="卡池类型" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="325" width="30" height="48" as="geometry" />
