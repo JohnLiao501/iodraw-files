@@ -56,7 +56,7 @@
           <mxGeometry x="1570" y="650" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-172" value="导&#xa;出&#xa;历&#xa;史&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="632" width="21" height="136" as="geometry" />
+          <mxGeometry x="1700" y="632" width="21" height="98" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-173" value="角&#xa;色&#xa;练&#xa;度&#xa;可&#xa;视&#xa;化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1707" y="428" width="78" height="154" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="2467" y="437" width="23" height="136" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-178" value="查&#xa;看&#xa;用&#xa;户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="650" width="28" height="101" as="geometry" />
+          <mxGeometry x="1830" y="650" width="18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-179" value="搜&#xa;索&#xa;用&#xa;户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1950" y="650" width="24" height="101" as="geometry" />
