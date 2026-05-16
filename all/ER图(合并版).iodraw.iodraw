@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="s9QaZJHdrVrZS-vkmpwC">
-    <mxGraphModel dx="2335" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
           <mxGeometry x="560" y="165" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535.5" y="100" width="94.5" height="40" as="geometry" />
+          <mxGeometry x="551" y="100" width="94.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="元素精通" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645.5" y="270" width="70" height="40" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry x="1020" y="135" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-22" value="圣遗物套装名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="30" width="95" height="40" as="geometry" />
+          <mxGeometry x="575" y="40" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-23" value="角色属性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="30" width="70" height="40" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="690" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-25" value="圣遗物细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-20" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-26" value="角色名字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935.5" y="-20" width="70" height="40" as="geometry" />
