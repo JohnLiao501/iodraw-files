@@ -29,7 +29,7 @@
           <mxGeometry x="628.13" y="315" width="23.75" height="105" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-14" value="可编辑可选信息" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="798.25" y="315" width="21.75" height="105" as="geometry" />
+          <mxGeometry x="738.25" y="315" width="21.75" height="105" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-15" value="用户名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="535" y="454" width="20" height="48" as="geometry" />
@@ -47,13 +47,13 @@
           <mxGeometry x="660" y="454" width="16.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-20" value="头像上传" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="790" y="454" width="20" height="56" as="geometry" />
+          <mxGeometry x="690" y="454" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-21" value="个性签名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="840" y="454" width="20" height="56" as="geometry" />
+          <mxGeometry x="740" y="454" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-22" value="操作按钮" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="890" y="454" width="20" height="56" as="geometry" />
+          <mxGeometry x="790" y="454" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-23" value="当前密码" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="910" y="315" width="36" height="48" as="geometry" />
