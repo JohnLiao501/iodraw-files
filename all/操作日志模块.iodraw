@@ -20,7 +20,7 @@
           <mxGeometry x="490" y="217" width="20" height="133" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-14" value="清空日志" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="242" y="390" width="18" height="60" as="geometry" />
+          <mxGeometry x="240.5" y="390" width="18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-15" value="操作用户" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="273" y="390" width="25" height="60" as="geometry" />
