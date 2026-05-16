@@ -14,25 +14,25 @@
           <mxGeometry x="263" y="227" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-12" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="325" width="20" height="55" as="geometry" />
+          <mxGeometry x="40" y="380" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-13" value="手动录入" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="93" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="153" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="143" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-15" value="卡池类型" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="213" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="203" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-16" value="物品星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="263" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="253" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-17" value="抽卡时间" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="313" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="303" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="325" width="17" height="55" as="geometry" />
+          <mxGeometry x="353" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="403" y="227" width="17" height="48" as="geometry" />
