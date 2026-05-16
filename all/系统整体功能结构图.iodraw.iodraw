@@ -32,7 +32,7 @@
           <mxGeometry x="194" y="217" width="16" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-10" value="管理员登录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="217" width="22" height="48" as="geometry" />
+          <mxGeometry x="250" y="217" width="22" height="73" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-11" value="查看角色列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="558" y="217" width="156" height="48" as="geometry" />
