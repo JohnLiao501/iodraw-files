@@ -119,7 +119,7 @@
           <mxGeometry x="1541.5" y="200" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-193" value="报&#xa;告&#xa;生&#xa;成" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1567.5" y="200" width="23" height="102" as="geometry" />
+          <mxGeometry x="1590" y="201" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-194" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;endFill=0;" parent="1" source="rME0hB_MVN8onuCus47p-155" target="rME0hB_MVN8onuCus47p-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
