@@ -1,0 +1,73 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="nT90lWiJTuZHilnC_s88">
+    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DPWX1dTw4P-BDYB5a371-4" value="角色档案管理模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="291" y="118" width="52.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部操作栏" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="155.5" y="217" width="64" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="346" y="217" width="67.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="315" width="51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="169" y="314.5" width="37" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="231" y="314.5" width="33" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-74" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-15" target="DPWX1dTw4P-BDYB5a371-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-15" value="角色名称" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="291" y="315" width="32.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-16" target="DPWX1dTw4P-BDYB5a371-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="343.5" y="315" width="30" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="391.5" y="315.5" width="34.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="441.5" y="315" width="40.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="482" y="217" width="82" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-45" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-4" target="DPWX1dTw4P-BDYB5a371-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-46" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-4" target="DPWX1dTw4P-BDYB5a371-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-47" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-10" target="DPWX1dTw4P-BDYB5a371-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-48" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-10" target="DPWX1dTw4P-BDYB5a371-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-49" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-10" target="DPWX1dTw4P-BDYB5a371-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-52" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-11" target="DPWX1dTw4P-BDYB5a371-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-53" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-11" target="DPWX1dTw4P-BDYB5a371-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPWX1dTw4P-BDYB5a371-54" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-4" target="DPWX1dTw4P-BDYB5a371-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
