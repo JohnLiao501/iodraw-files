@@ -81,16 +81,16 @@
           <mxGeometry x="785.5" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-16" value="角色星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894.5" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="934.5" y="245" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-17" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964.5" y="250" width="70" height="40" as="geometry" />
+          <mxGeometry x="1004.5" y="205" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-18" value="暴击伤害" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005.5" y="200" width="94.5" height="40" as="geometry" />
+          <mxGeometry x="560" y="380" width="94.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="元素精通" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="70" height="40" as="geometry" />
@@ -117,10 +117,10 @@
           <mxGeometry x="785.5" y="-70" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-28" value="角色攻击力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="320" width="70" height="40" as="geometry" />
+          <mxGeometry x="770" y="275" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-29" value="角色血量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815.5" y="320" width="70" height="40" as="geometry" />
+          <mxGeometry x="855.5" y="275" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-30" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865.5" y="-60" width="70" height="40" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry x="560" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-32" value="角色防御力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="690" y="245" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-33" value="角色等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025.5" y="80" width="70" height="40" as="geometry" />
