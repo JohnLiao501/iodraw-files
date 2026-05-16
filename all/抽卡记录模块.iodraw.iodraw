@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7XbZAg-y48kCygsI7QlM-4" value="抽卡记录管理模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="120" width="106" height="48" as="geometry" />
+          <mxGeometry x="364" y="90" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-10" value="顶部全局操作栏" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="92.5" y="227" width="51" height="48" as="geometry" />
