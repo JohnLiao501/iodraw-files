@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="hRnDYcT2ATnvHCq-aWQ5">
-    <mxGraphModel dx="-480" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-687" dy="75" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,13 @@
           <mxGeometry x="1034" y="199.5" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-167" value="新&#xa;增&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="943" y="333" width="21" height="88" as="geometry" />
+          <mxGeometry x="938" y="333" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-168" value="编&#xa;辑&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="971" y="333" width="21" height="88" as="geometry" />
+          <mxGeometry x="966" y="333" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-169" value="删&#xa;除&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1001" y="333" width="21" height="88" as="geometry" />
+          <mxGeometry x="996" y="333" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1035" y="332" width="21" height="88" as="geometry" />
@@ -165,13 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-207" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;endFill=0;" parent="1" source="rME0hB_MVN8onuCus47p-165" target="rME0hB_MVN8onuCus47p-169" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1010" y="302" />
-              <mxPoint x="1010" y="317" />
-              <mxPoint x="1012" y="317" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-208" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;endFill=0;" parent="1" source="rME0hB_MVN8onuCus47p-166" target="rME0hB_MVN8onuCus47p-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
