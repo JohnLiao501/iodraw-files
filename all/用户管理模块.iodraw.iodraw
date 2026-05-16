@@ -14,10 +14,10 @@
           <mxGeometry x="201" y="90" width="19" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-4" value="主内容区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="574.5" y="90" width="53" height="48" as="geometry" />
+          <mxGeometry x="574.5" y="90" width="15.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-11" value="新增用户" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="199" y="202" width="21" height="63" as="geometry" />
+          <mxGeometry x="201" y="202" width="21" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-12" value="多条件筛选查询区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="217" width="70" height="48" as="geometry" />
