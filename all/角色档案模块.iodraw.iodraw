@@ -14,10 +14,10 @@
           <mxGeometry x="346" y="217" width="24" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="390" width="51" height="48" as="geometry" />
+          <mxGeometry x="100" y="390" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="169" y="389.5" width="37" height="48" as="geometry" />
+          <mxGeometry x="169" y="389.5" width="21" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="231" y="389.5" width="33" height="48" as="geometry" />
