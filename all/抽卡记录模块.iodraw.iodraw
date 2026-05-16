@@ -35,10 +35,10 @@
           <mxGeometry x="280" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="190" width="17" height="103" as="geometry" />
+          <mxGeometry x="297" y="190" width="17" height="103" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="190" width="17" height="73" as="geometry" />
+          <mxGeometry x="340" y="190" width="17" height="73" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-25" value="抽卡记录列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="190" width="20" height="133" as="geometry" />
