@@ -119,6 +119,11 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-18" value="暴击伤害" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="157.5" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fAw2caKaPuxbsee9nC9U-109" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-19" target="fAw2caKaPuxbsee9nC9U-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="100" width="94.5" height="40" as="geometry" />
         </mxCell>
@@ -127,6 +132,9 @@
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-21" value="角色天赋" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="135" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fAw2caKaPuxbsee9nC9U-110" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-22" target="fAw2caKaPuxbsee9nC9U-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-22" value="圣遗物套装名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="562.5" y="40" width="95" height="40" as="geometry" />
