@@ -14,13 +14,13 @@
           <mxGeometry x="1100" y="217" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="315" width="30" height="48" as="geometry" />
+          <mxGeometry x="680" y="315" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-13" value="从备份恢复" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="735" y="315" width="45" height="48" as="geometry" />
+          <mxGeometry x="735" y="315" width="25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-14" value="导出备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="315" width="35" height="48" as="geometry" />
+          <mxGeometry x="800" y="315" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-15" value="备份历史记录" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="883" y="315" width="60" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1220" y="315" width="29" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="835" y="414" width="25" height="48" as="geometry" />
+          <mxGeometry x="835" y="414" width="15" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="414" width="20" height="48" as="geometry" />
