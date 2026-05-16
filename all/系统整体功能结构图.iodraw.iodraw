@@ -8,7 +8,7 @@
           <mxGeometry x="1932" y="20" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-2" value="注册登录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="118" width="20" height="48" as="geometry" />
+          <mxGeometry x="160" y="110" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-3" value="玩家档案管理" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="118" width="157" height="48" as="geometry" />
@@ -163,26 +163,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="192" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-46" value="" style="startArrow=none;endArrow=block;exitX=0.15;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="256" y="192" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-47" value="" style="startArrow=none;endArrow=block;exitX=0.85;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="192" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-48" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-2" target="rME0hB_MVN8onuCus47p-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-3" target="rME0hB_MVN8onuCus47p-11">
           <mxGeometry relative="1" as="geometry">
