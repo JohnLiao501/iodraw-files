@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="nT90lWiJTuZHilnC_s88">
-    <mxGraphModel dx="719" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,13 +36,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="389.5" width="16.5" height="60" as="geometry" />
+          <mxGeometry x="300" y="389.5" width="16.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="342.5" y="389.5" width="18.5" height="59.5" as="geometry" />
+          <mxGeometry x="331.25" y="389.5" width="18.5" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="371.5" y="389" width="18.5" height="60" as="geometry" />
+          <mxGeometry x="363.75" y="389.5" width="18.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="482" y="217" width="18" height="133" as="geometry" />
