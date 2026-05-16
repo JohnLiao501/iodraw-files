@@ -346,7 +346,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-140" value="备份状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-149" y="990" width="70" height="40" as="geometry" />
+          <mxGeometry x="-143" y="990" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-141" value="备份类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="960" width="70" height="40" as="geometry" />
@@ -366,8 +366,8 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-146" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.429;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-137" target="fAw2caKaPuxbsee9nC9U-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-147" value="备份状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="925" width="70" height="40" as="geometry" />
+        <mxCell id="fAw2caKaPuxbsee9nC9U-147" value="备份文件存储路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="925" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
