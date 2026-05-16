@@ -32,7 +32,7 @@
           <mxGeometry x="990" y="454" width="34" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-164" value="管&#xa;理&#xa;员&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="446" width="78" height="119" as="geometry" />
+          <mxGeometry x="1120" y="446" width="32" height="119" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-165" value="查&#xa;看&#xa;角&#xa;色&#xa;列&#xa;表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="437" width="77" height="136" as="geometry" />
@@ -121,12 +121,8 @@
         <mxCell id="rME0hB_MVN8onuCus47p-193" value="报&#xa;告&#xa;生&#xa;成" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="3617" y="454" width="77" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-194" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-155" target="rME0hB_MVN8onuCus47p-156">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="921" y="217" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-194" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-155" target="rME0hB_MVN8onuCus47p-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-155" target="rME0hB_MVN8onuCus47p-157">
           <mxGeometry relative="1" as="geometry">
@@ -163,26 +159,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-162">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="858" y="403" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-200" value="" style="startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-201" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-163">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="985" y="403" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-201" value="" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-163">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.69;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-164">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1112" y="403" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rME0hB_MVN8onuCus47p-202" value="" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.69;entryX=0.49;entryY=0;rounded=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-156" target="rME0hB_MVN8onuCus47p-164">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;" edge="1" parent="1" source="rME0hB_MVN8onuCus47p-157" target="rME0hB_MVN8onuCus47p-165">
           <mxGeometry relative="1" as="geometry">
