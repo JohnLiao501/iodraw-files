@@ -74,7 +74,12 @@
           <mxGeometry x="458.94" y="414" width="24.13" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DBsdhrd_wrea1SdTSgYf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-121" target="r0HSlZsm8VCqf7H_SUI1-119">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501" y="410" />
+              <mxPoint x="471" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-121" value="保底趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="414" width="21.13" height="80" as="geometry" />
