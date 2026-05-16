@@ -104,10 +104,10 @@
           <mxGeometry x="2080" y="490" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-188" value="修&#xa;改&#xa;密&#xa;码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2208" y="490" width="78" height="101" as="geometry" />
+          <mxGeometry x="2208" y="490" width="22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-189" value="绑&#xa;定&#xa;UID" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2335" y="499" width="85" height="84" as="geometry" />
+          <mxGeometry x="2335" y="499" width="25" height="51" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-190" value="新&#xa;手&#xa;引&#xa;导" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2500" y="490.5" width="76" height="101" as="geometry" />
