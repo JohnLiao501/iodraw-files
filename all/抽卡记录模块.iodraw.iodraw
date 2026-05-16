@@ -11,7 +11,7 @@
           <mxGeometry x="92.5" y="227" width="17.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="263" y="227" width="70" height="48" as="geometry" />
+          <mxGeometry x="263" y="227" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-12" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="325" width="20" height="55" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="363" y="325" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="227" width="59" height="48" as="geometry" />
+          <mxGeometry x="403" y="227" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="227" width="70" height="48" as="geometry" />
