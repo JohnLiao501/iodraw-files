@@ -7,10 +7,10 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-1" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-2" value="个性签名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-3" value="头像地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
