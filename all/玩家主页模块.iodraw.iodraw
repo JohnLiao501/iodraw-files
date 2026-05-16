@@ -38,10 +38,10 @@
           <mxGeometry x="330" y="217" width="20" height="73" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-109" value="用户信息展示" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="382" y="217" width="60" height="48" as="geometry" />
+          <mxGeometry x="382" y="217" width="18" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-110" value="操作按钮" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="450" y="217" width="30" height="48" as="geometry" />
+          <mxGeometry x="450" y="217" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-111" value="核心数据概览" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="217" width="60" height="48" as="geometry" />
