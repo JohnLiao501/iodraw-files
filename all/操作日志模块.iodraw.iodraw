@@ -11,10 +11,10 @@
           <mxGeometry x="230" y="217" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="217" width="109" height="48" as="geometry" />
+          <mxGeometry x="330" y="217" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-12" value="操作日志列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="217" width="110" height="48" as="geometry" />
+          <mxGeometry x="530" y="217" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-13" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="217" width="70" height="48" as="geometry" />
