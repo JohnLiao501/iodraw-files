@@ -35,25 +35,25 @@
           <mxGeometry x="266.5" y="218" width="24" height="113" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="370" width="20" height="80" as="geometry" />
+          <mxGeometry x="130" y="410" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="159" y="371" width="20" height="80" as="geometry" />
+          <mxGeometry x="159" y="411" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="370" width="20" height="80" as="geometry" />
+          <mxGeometry x="190" y="410" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-15" value="角色名称" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="371.5" width="20" height="80" as="geometry" />
+          <mxGeometry x="220" y="411.5" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="371" width="20" height="80" as="geometry" />
+          <mxGeometry x="250" y="411" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="281.25" y="371" width="20" height="80" as="geometry" />
+          <mxGeometry x="281.25" y="411" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="313.75" y="371" width="20" height="80" as="geometry" />
+          <mxGeometry x="313.75" y="411" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="218" width="18" height="133" as="geometry" />
