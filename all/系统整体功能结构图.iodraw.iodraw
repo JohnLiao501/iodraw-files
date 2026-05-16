@@ -26,13 +26,13 @@
           <mxGeometry x="3490" y="259" width="76" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-162" value="用&#xa;户&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="454" width="36" height="101" as="geometry" />
+          <mxGeometry x="860" y="454" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-163" value="用&#xa;户&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="454" width="34" height="101" as="geometry" />
+          <mxGeometry x="990" y="454" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-164" value="管&#xa;理&#xa;员&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="446" width="32" height="119" as="geometry" />
+          <mxGeometry x="1120" y="446" width="20" height="119" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-165" value="查&#xa;看&#xa;角&#xa;色&#xa;列&#xa;表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="437" width="20" height="136" as="geometry" />
