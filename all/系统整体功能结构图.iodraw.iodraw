@@ -41,10 +41,10 @@
           <mxGeometry x="1330" y="289.5" width="20" height="93" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-167" value="新&#xa;增&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="426" width="18" height="60" as="geometry" />
+          <mxGeometry x="1232" y="426" width="18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-168" value="编&#xa;辑&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="426" width="14" height="60" as="geometry" />
+          <mxGeometry x="1260" y="426" width="14" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-169" value="删&#xa;除&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1290" y="426" width="20" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1360" y="426" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-172" value="导&#xa;出&#xa;历&#xa;史&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="425" width="21" height="88" as="geometry" />
+          <mxGeometry x="1390" y="425" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-173" value="角&#xa;色&#xa;练&#xa;度&#xa;可&#xa;视&#xa;化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1469.5" y="310" width="23" height="102" as="geometry" />
