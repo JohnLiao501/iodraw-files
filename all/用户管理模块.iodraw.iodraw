@@ -14,7 +14,7 @@
           <mxGeometry x="201" y="90" width="19" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-4" value="主内容区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="382.25" y="90" width="15.5" height="60" as="geometry" />
+          <mxGeometry x="336.5" y="90" width="15.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-11" value="新增用户" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="201" y="190" width="21" height="63" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="265" y="370" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-18" value="用户数据列表展示区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="326.75" y="190" width="20" height="133" as="geometry" />
+          <mxGeometry x="334.25" y="190" width="20" height="133" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-19" value="用户信息展示列" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="303.5" y="370" width="20" height="100" as="geometry" />
