@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DPWX1dTw4P-BDYB5a371-4" value="角色档案管理模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="291" y="118" width="52.5" height="48" as="geometry" />
+          <mxGeometry x="291" y="118" width="99" height="32" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-10" value="顶部操作栏" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="155.5" y="217" width="64" height="48" as="geometry" />
