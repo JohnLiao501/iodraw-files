@@ -8,7 +8,7 @@
           <mxGeometry x="1932" y="20" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-2" value="注册登录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="20" height="66" as="geometry" />
+          <mxGeometry x="178" y="100" width="20" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-3" value="玩家档案管理" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="118" width="157" height="48" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="3903" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-8" value="用户注册" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="217" width="20" height="63" as="geometry" />
+          <mxGeometry x="150" y="217" width="20" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-9" value="用户登录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="217" width="16" height="63" as="geometry" />
+          <mxGeometry x="180" y="217" width="16" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-10" value="管理员登录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="217" width="22" height="73" as="geometry" />
+          <mxGeometry x="210" y="217" width="22" height="73" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-11" value="查看角色列表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="558" y="217" width="156" height="48" as="geometry" />
