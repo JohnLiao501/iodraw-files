@@ -38,10 +38,10 @@
           <mxGeometry x="1220" y="420" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="565" width="15" height="48" as="geometry" />
+          <mxGeometry x="827" y="565" width="15" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="882" y="565" width="20" height="48" as="geometry" />
+          <mxGeometry x="882" y="565" width="18" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-24" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="942" y="565" width="20" height="48" as="geometry" />
