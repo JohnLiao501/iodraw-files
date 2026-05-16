@@ -20,7 +20,7 @@
           <mxGeometry x="169" y="389.5" width="21" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-14" value="导出数据" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="231" y="389.5" width="33" height="48" as="geometry" />
+          <mxGeometry x="231" y="389.5" width="19" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-74" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-15" value="角色名称" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="291" y="390" width="32.5" height="48" as="geometry" />
+          <mxGeometry x="291" y="390" width="19" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="DPWX1dTw4P-BDYB5a371-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-16" value="元素属性" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="343.5" y="390" width="30" height="48" as="geometry" />
+          <mxGeometry x="343.5" y="390" width="16.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="391.5" y="390.5" width="34.5" height="48" as="geometry" />
