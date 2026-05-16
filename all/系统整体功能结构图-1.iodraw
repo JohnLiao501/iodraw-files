@@ -41,19 +41,19 @@
           <mxGeometry x="1034" y="199.5" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-167" value="新&#xa;增&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="936" y="336" width="18" height="60" as="geometry" />
+          <mxGeometry x="936" y="336" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-168" value="编&#xa;辑&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="964" y="336" width="14" height="60" as="geometry" />
+          <mxGeometry x="964" y="336" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-169" value="删&#xa;除&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="994" y="336" width="20" height="60" as="geometry" />
+          <mxGeometry x="994" y="336" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="335" width="20" height="60" as="geometry" />
+          <mxGeometry x="1034" y="335" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-171" value="批&#xa;量&#xa;导&#xa;入" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1064" y="336" width="20" height="60" as="geometry" />
+          <mxGeometry x="1064" y="336" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-172" value="导&#xa;出&#xa;历&#xa;史&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1094" y="335" width="21" height="88" as="geometry" />
