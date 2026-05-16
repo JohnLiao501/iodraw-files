@@ -86,7 +86,7 @@
             <mxPoint x="655.875" y="317" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BU1NtD_FaESz-NlSCHim-37" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="BU1NtD_FaESz-NlSCHim-13" edge="1">
+        <mxCell id="BU1NtD_FaESz-NlSCHim-37" value="" style="startArrow=none;endArrow=none;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="BU1NtD_FaESz-NlSCHim-10" target="BU1NtD_FaESz-NlSCHim-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655.875" y="317" as="sourcePoint" />
           </mxGeometry>
