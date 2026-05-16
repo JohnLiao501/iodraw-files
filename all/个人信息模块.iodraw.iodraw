@@ -35,7 +35,7 @@
           <mxGeometry x="606.25" y="414" width="23.75" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-18" value="游戏UID" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="660" y="414" width="40" height="48" as="geometry" />
+          <mxGeometry x="660" y="414" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-19" value="操作按钮" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="723.75" y="414" width="34" height="48" as="geometry" />
