@@ -11,7 +11,7 @@
           <mxGeometry x="740" y="180" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-11" value="自动备份设置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="903" y="180" width="20" height="103" as="geometry" />
+          <mxGeometry x="893" y="180" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="310" width="20" height="90" as="geometry" />
@@ -60,10 +60,10 @@
           <mxGeometry x="960" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="430" width="15" height="55" as="geometry" />
+          <mxGeometry x="780" y="430" width="20" height="75" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="809" y="430" width="18" height="45" as="geometry" />
+          <mxGeometry x="809" y="430" width="20" height="75" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-24" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="430" width="20" height="75" as="geometry" />
