@@ -32,10 +32,10 @@
           <mxGeometry x="187" y="330" width="23" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-107" value="抽卡记录" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="237" y="330" width="36" height="48" as="geometry" />
+          <mxGeometry x="237" y="330" width="23" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-108" value="面包屑导航" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="217" width="42" height="48" as="geometry" />
+          <mxGeometry x="330" y="217" width="20" height="73" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-109" value="用户信息展示" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="382" y="217" width="60" height="48" as="geometry" />
