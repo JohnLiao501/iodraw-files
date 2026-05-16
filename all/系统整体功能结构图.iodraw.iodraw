@@ -8,7 +8,7 @@
           <mxGeometry x="1680" y="10" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-156" value="注&#xa;册&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="160" width="20" height="58" as="geometry" />
+          <mxGeometry x="1181" y="160" width="20" height="58" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-157" value="玩&#xa;家&#xa;档&#xa;案&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="160" width="20" height="98" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="3490" y="259" width="76" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-162" value="用&#xa;户&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="289.5" width="20" height="66" as="geometry" />
+          <mxGeometry x="1141" y="289.5" width="20" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-163" value="用&#xa;户&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="289.5" width="20" height="66" as="geometry" />
+          <mxGeometry x="1181" y="289.5" width="20" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-164" value="管&#xa;理&#xa;员&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="289.5" width="20" height="76" as="geometry" />
+          <mxGeometry x="1221" y="289.5" width="20" height="76" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-165" value="查&#xa;看&#xa;角&#xa;色&#xa;列&#xa;表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1247" y="290" width="20" height="93" as="geometry" />
+          <mxGeometry x="1290" y="289.5" width="20" height="93" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-166" value="查&#xa;看&#xa;抽&#xa;卡&#xa;历&#xa;史" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="290" width="20" height="93" as="geometry" />
