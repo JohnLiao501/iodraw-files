@@ -23,7 +23,7 @@
           <mxGeometry x="189.75" y="217" width="17.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-104" value="档案管理" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="227.25" y="217" width="17" height="63" as="geometry" />
+          <mxGeometry x="227.25" y="217" width="17" height="93" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-105" value="个人信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="150" y="380" width="20" height="60" as="geometry" />
