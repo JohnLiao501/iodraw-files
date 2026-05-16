@@ -35,7 +35,7 @@
           <mxGeometry x="280" y="380" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="397" y="190" width="17" height="103" as="geometry" />
+          <mxGeometry x="320" y="190" width="17" height="103" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-24" value="批量导入区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="227" width="17" height="73" as="geometry" />
