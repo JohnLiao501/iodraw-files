@@ -62,10 +62,10 @@
           <mxGeometry x="332" y="414" width="16" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="377.06" y="414" width="22.94" height="80" as="geometry" />
+          <mxGeometry x="382.94" y="414" width="22.94" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-118" value="圣遗物详情" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420.13" y="414" width="24.13" height="80" as="geometry" />
+          <mxGeometry x="422.26" y="414" width="19.87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DBsdhrd_wrea1SdTSgYf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r0HSlZsm8VCqf7H_SUI1-119" target="r0HSlZsm8VCqf7H_SUI1-121">
           <mxGeometry relative="1" as="geometry">
