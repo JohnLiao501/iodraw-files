@@ -50,7 +50,7 @@
           <mxGeometry x="996" y="333" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="332" width="21" height="88" as="geometry" />
+          <mxGeometry x="1035" y="333" width="21" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-171" value="批&#xa;量&#xa;导&#xa;入" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1071" y="333" width="21" height="88" as="geometry" />
