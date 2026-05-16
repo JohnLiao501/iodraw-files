@@ -44,7 +44,7 @@
           <mxGeometry x="330" y="370" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-20" value="操作列" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="432.5" y="370" width="15" height="48" as="geometry" />
+          <mxGeometry x="406.5" y="370" width="15" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-29" value="编辑" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="354" y="480" width="20" height="36" as="geometry" />
