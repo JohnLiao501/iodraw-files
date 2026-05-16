@@ -26,13 +26,13 @@
           <mxGeometry x="798.25" y="315" width="93.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-15" value="用户名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="490" y="414" width="40" height="48" as="geometry" />
+          <mxGeometry x="490" y="414" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-16" value="用户角色" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="550" y="414" width="30" height="48" as="geometry" />
+          <mxGeometry x="550" y="414" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-17" value="游戏昵称" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="606.25" y="414" width="30" height="48" as="geometry" />
+          <mxGeometry x="606.25" y="414" width="23.75" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-18" value="游戏UID" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="414" width="40" height="48" as="geometry" />
