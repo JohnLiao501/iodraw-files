@@ -73,13 +73,13 @@
           <mxGeometry x="755" y="506" width="20" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-23" value="当前密码" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="765" y="360" width="25" height="48" as="geometry" />
+          <mxGeometry x="765" y="360" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-24" value="新密码" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="803" y="360" width="24" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-25" value="确认新密码" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="895" y="360" width="25" height="48" as="geometry" />
+          <mxGeometry x="840" y="360" width="25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-36" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="BU1NtD_FaESz-NlSCHim-12" edge="1">
           <mxGeometry relative="1" as="geometry">
