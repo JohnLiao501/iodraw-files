@@ -44,7 +44,7 @@
           <mxGeometry x="1070" y="650" width="18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-168" value="编&#xa;辑&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="650" width="24" height="70" as="geometry" />
+          <mxGeometry x="1200" y="650" width="14" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-169" value="删&#xa;除&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1310" y="650" width="31" height="101" as="geometry" />
