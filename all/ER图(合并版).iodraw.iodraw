@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="s9QaZJHdrVrZS-vkmpwC">
-    <mxGraphModel dx="1348" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,89 +105,89 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-15" value="角色档案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205.5" y="182.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="-178.5" y="172.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-16" value="角色星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-51" y="292.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-24" y="282.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-17" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="252.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="27" y="242.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-108" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-18" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-18" value="暴击伤害" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-431" y="220" width="70" height="40" as="geometry" />
+          <mxGeometry x="-404" y="210" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-109" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-19" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-231" y="182.5" as="targetPoint" />
+            <mxPoint x="-204" y="172.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="162.5" width="94.5" height="40" as="geometry" />
+          <mxGeometry x="-413" y="152.5" width="94.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="元素精通" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-345.5" y="317.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-318.5" y="307.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-21" value="角色天赋" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="210" width="70" height="40" as="geometry" />
+          <mxGeometry x="46" y="200" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-110" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-22" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-22" value="圣遗物套装名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-428.5" y="102.5" width="95" height="40" as="geometry" />
+          <mxGeometry x="-401.5" y="92.5" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-98" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-23" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-23" value="角色属性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="62.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="27" y="52.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-112" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-24" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-24" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-301" y="12.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-274" y="2.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-111" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-201" y="182.5" as="targetPoint" />
+            <mxPoint x="-174" y="172.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-25" value="圣遗物细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-371" y="52.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-344" y="42.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-97" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-26" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-26" value="角色名字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="30" width="70" height="40" as="geometry" />
+          <mxGeometry x="-33" y="20" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-27" value="&lt;u&gt;角色ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205.5" y="2.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-178.5" y="-7.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-28" value="角色攻击力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-195.5" y="357.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-168.5" y="347.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-29" value="角色血量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-115.5" y="337.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-88.5" y="327.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-96" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-30" target="fAw2caKaPuxbsee9nC9U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-30" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-135.5" y="12.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-108.5" y="2.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-31" value="暴击率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-403.5" y="267.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-376.5" y="257.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-32" value="角色防御力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-275.5" y="347.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-248.5" y="337.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-33" value="角色等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="102.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="46" y="92.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-119" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-34" target="fAw2caKaPuxbsee9nC9U-37">
           <mxGeometry relative="1" as="geometry" />
