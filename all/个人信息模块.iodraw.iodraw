@@ -28,6 +28,12 @@
         <mxCell id="BU1NtD_FaESz-NlSCHim-13" value="可编辑必填信息" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="633.13" y="347" width="23.75" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="ZhzlfnZbxSVClfKRD0Fd-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhzlfnZbxSVClfKRD0Fd-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="BU1NtD_FaESz-NlSCHim-14" target="BU1NtD_FaESz-NlSCHim-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BU1NtD_FaESz-NlSCHim-14" value="可编辑可选信息" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="721.5" y="347" width="23.75" height="105" as="geometry" />
         </mxCell>
