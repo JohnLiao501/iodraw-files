@@ -56,7 +56,7 @@
           <mxGeometry x="382.94" y="330" width="18.12" height="58" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="493.51" y="330" width="21.37" height="48" as="geometry" />
+          <mxGeometry x="493.51" y="330" width="21.37" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="414" y="460" width="50" height="48" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="555.87" y="460" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-119" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="702" y="315" width="30" height="48" as="geometry" />
+          <mxGeometry x="702" y="315" width="18" height="55" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-120" value="出金率对比图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="615.87" y="460" width="40" height="48" as="geometry" />
