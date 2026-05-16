@@ -8,7 +8,7 @@
           <mxGeometry x="330" y="100" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-10" value="顶部操作栏" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="236" y="217" width="30" height="48" as="geometry" />
+          <mxGeometry x="236" y="217" width="24" height="73" as="geometry" />
         </mxCell>
         <mxCell id="vCF9OaxIK9VuYsfwDByk-11" value="多条件筛选查询区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="217" width="20" height="113" as="geometry" />
