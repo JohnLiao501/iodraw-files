@@ -80,7 +80,7 @@
           <mxGeometry x="1640" y="377" width="14" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-180" value="启&#xa;用&#xa;用&#xa;户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2024" y="650" width="26" height="101" as="geometry" />
+          <mxGeometry x="1664" y="377" width="16" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-181" value="禁&#xa;用&#xa;用&#xa;户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="650" width="20" height="101" as="geometry" />
