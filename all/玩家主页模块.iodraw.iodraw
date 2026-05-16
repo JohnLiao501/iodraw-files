@@ -8,13 +8,13 @@
           <mxGeometry x="270" y="20" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-100" value="左侧导航栏" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="207.25" y="94" width="20" height="72" as="geometry" />
+          <mxGeometry x="207.25" y="94" width="20" height="76" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-101" value="顶部导航栏" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="298" y="94" width="22" height="76" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-102" value="主内容区" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="424.38" y="94" width="15.62" height="56" as="geometry" />
+          <mxGeometry x="424.38" y="94" width="15.62" height="76" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="r0HSlZsm8VCqf7H_SUI1-103" target="r0HSlZsm8VCqf7H_SUI1-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
