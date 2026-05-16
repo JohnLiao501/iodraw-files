@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="nT90lWiJTuZHilnC_s88">
-    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="346" y="217" width="24" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-12" value="UID自动同步" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="390" width="20" height="48" as="geometry" />
+          <mxGeometry x="100" y="390" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-13" value="手动添加" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="389.5" width="21" height="48" as="geometry" />
@@ -39,10 +39,10 @@
           <mxGeometry x="343.5" y="390" width="16.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-17" value="角色星级" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="391.5" y="390.5" width="34.5" height="48" as="geometry" />
+          <mxGeometry x="391.5" y="390.5" width="18.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="441.5" y="390" width="40.5" height="48" as="geometry" />
+          <mxGeometry x="441.5" y="390" width="18.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DPWX1dTw4P-BDYB5a371-19" value="角色数据列表展示区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="482" y="217" width="18" height="48" as="geometry" />
