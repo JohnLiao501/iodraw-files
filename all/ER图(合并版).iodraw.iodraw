@@ -81,7 +81,7 @@
           <mxGeometry x="785.5" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-16" value="角色星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="934.5" y="245" width="70" height="40" as="geometry" />
+          <mxGeometry x="964.5" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-17" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="205" width="70" height="40" as="geometry" />
@@ -117,10 +117,10 @@
           <mxGeometry x="785.5" y="-70" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-28" value="角色攻击力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="275" width="70" height="40" as="geometry" />
+          <mxGeometry x="800" y="310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-29" value="角色血量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="855.5" y="275" width="70" height="40" as="geometry" />
+          <mxGeometry x="885.5" y="330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-30" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865.5" y="-60" width="70" height="40" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry x="560" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-32" value="角色防御力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="245" width="70" height="40" as="geometry" />
+          <mxGeometry x="720" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-33" value="角色等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025.5" y="80" width="70" height="40" as="geometry" />
