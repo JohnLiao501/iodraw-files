@@ -89,7 +89,7 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-18" value="用户身份" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="UID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005.5" y="200" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
