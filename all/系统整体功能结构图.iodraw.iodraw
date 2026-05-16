@@ -86,7 +86,7 @@
           <mxGeometry x="1690" y="375" width="17" height="54" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-182" value="编&#xa;辑&#xa;用&#xa;户" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1718" y="375" width="22" height="51.5" as="geometry" />
+          <mxGeometry x="1718" y="375" width="22" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-183" value="系&#xa;统&#xa;运&#xa;行&#xa;日&#xa;志" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2402" y="632" width="28" height="136" as="geometry" />
