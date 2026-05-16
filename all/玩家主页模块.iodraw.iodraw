@@ -61,10 +61,10 @@
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="421.51" y="340" width="21.37" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="424" width="16" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="382.94" y="424" width="17.06" height="86" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-118" value="圣遗物详情" style="strokeWidth=1;rounded=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
