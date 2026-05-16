@@ -23,13 +23,13 @@
           <mxGeometry x="800" y="315" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-15" value="备份历史记录" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="883" y="315" width="60" height="48" as="geometry" />
+          <mxGeometry x="883" y="315" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-16" value="自动备份开关" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="315" width="60" height="48" as="geometry" />
+          <mxGeometry x="1020" y="315" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1097" y="315" width="34" height="48" as="geometry" />
+          <mxGeometry x="1097" y="315" width="23" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="315" width="50" height="48" as="geometry" />
