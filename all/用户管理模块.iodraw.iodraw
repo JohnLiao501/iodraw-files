@@ -20,7 +20,7 @@
           <mxGeometry x="201" y="202" width="21" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-12" value="多条件筛选查询区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="340" y="217" width="20" height="48" as="geometry" />
+          <mxGeometry x="340" y="217" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-13" value="用户名" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="230" y="440" width="40" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="440" y="440" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-18" value="用户数据列表展示区" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="560" y="217" width="20" height="48" as="geometry" />
+          <mxGeometry x="560" y="217" width="20" height="133" as="geometry" />
         </mxCell>
         <mxCell id="JfC2xbYtGWbskMWgbgMy-19" value="用户信息展示列" style="rounded=0;arcSize=20;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="440" width="60" height="48" as="geometry" />
