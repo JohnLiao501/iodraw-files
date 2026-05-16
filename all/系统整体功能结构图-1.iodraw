@@ -113,10 +113,10 @@
           <mxGeometry x="1490" y="200" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-191" value="数&#xa;据&#xa;备&#xa;份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="200" width="23" height="102" as="geometry" />
+          <mxGeometry x="1520" y="199.5" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-192" value="数&#xa;据&#xa;恢&#xa;复" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1541.5" y="200" width="23" height="102" as="geometry" />
+          <mxGeometry x="1560" y="200" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-193" value="报&#xa;告&#xa;生&#xa;成" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="201" width="23" height="102" as="geometry" />
