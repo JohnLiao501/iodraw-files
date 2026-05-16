@@ -50,10 +50,10 @@
           <mxGeometry x="1290" y="573" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="650" width="27" height="101" as="geometry" />
+          <mxGeometry x="1440" y="650" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-171" value="批&#xa;量&#xa;导&#xa;入" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="650" width="24" height="101" as="geometry" />
+          <mxGeometry x="1570" y="650" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-172" value="导&#xa;出&#xa;历&#xa;史&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="632" width="21" height="136" as="geometry" />
