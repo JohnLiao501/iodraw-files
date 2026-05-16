@@ -26,10 +26,10 @@
           <mxGeometry x="810" y="390" width="17" height="85" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-16" value="自动备份开关" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="420" width="20" height="48" as="geometry" />
+          <mxGeometry x="1020" y="420" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1097" y="420" width="23" height="48" as="geometry" />
+          <mxGeometry x="1097" y="420" width="23" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="420" width="20" height="48" as="geometry" />
