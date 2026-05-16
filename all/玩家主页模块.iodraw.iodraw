@@ -93,7 +93,7 @@
           <mxGeometry x="458.94" y="424" width="24.13" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-121" value="保底趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="490" y="424" width="21.13" height="80" as="geometry" />
+          <mxGeometry x="490" y="424" width="21.13" height="86" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-122" value="抽卡时间轴" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="520" y="424" width="22.13" height="70" as="geometry" />
