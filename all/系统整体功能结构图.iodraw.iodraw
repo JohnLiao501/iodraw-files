@@ -47,9 +47,9 @@
           <mxGeometry x="1180" y="650" width="34" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-169" value="删&#xa;除&#xa;角&#xa;色" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1264" y="650" width="77" height="101" as="geometry" />
+          <mxGeometry x="1310" y="650" width="31" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="rME0hB_MVN8onuCus47p-170" value="手&#xa;动&#xa;录&#xa;入" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1391" y="650" width="76" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-171" value="批&#xa;量&#xa;导&#xa;入" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
