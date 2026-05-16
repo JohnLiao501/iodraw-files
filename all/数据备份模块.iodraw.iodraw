@@ -11,19 +11,19 @@
           <mxGeometry x="740" y="180" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-11" value="自动备份设置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="893" y="180" width="20" height="93" as="geometry" />
+          <mxGeometry x="893" y="180" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="310" width="20" height="55" as="geometry" />
+          <mxGeometry x="680" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-13" value="从备份恢复" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="715" y="310" width="25" height="75" as="geometry" />
+          <mxGeometry x="715" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-14" value="导出备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="310" width="20" height="55" as="geometry" />
+          <mxGeometry x="760" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-15" value="备份历史记录" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="310" width="17" height="85" as="geometry" />
+          <mxGeometry x="810" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iJkC2UzlLJlWM2XMkG_A-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="0W15ENPFuFBOaB9-x_x7-16" target="0W15ENPFuFBOaB9-x_x7-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="310" width="23" height="60" as="geometry" />
+          <mxGeometry x="890" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iJkC2UzlLJlWM2XMkG_A-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="0W15ENPFuFBOaB9-x_x7-18" target="0W15ENPFuFBOaB9-x_x7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-19" value="保存设置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="310" width="20" height="60" as="geometry" />
+          <mxGeometry x="960" y="310" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="430" width="15" height="55" as="geometry" />
