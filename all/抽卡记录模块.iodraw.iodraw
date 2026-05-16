@@ -14,7 +14,7 @@
           <mxGeometry x="263" y="227" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-12" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="325" width="20" height="48" as="geometry" />
+          <mxGeometry x="50" y="325" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-13" value="手动录入" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="103" y="325" width="17" height="48" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="313" y="325" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-18" value="查询/重置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="325" width="40" height="48" as="geometry" />
+          <mxGeometry x="363" y="325" width="17" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7XbZAg-y48kCygsI7QlM-19" value="核心数据统计区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="403" y="227" width="59" height="48" as="geometry" />
