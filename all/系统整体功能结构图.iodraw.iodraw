@@ -29,7 +29,7 @@
           <mxGeometry x="860" y="454" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-163" value="用&#xa;户&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="454" width="20" height="101" as="geometry" />
+          <mxGeometry x="990" y="454" width="20" height="76" as="geometry" />
         </mxCell>
         <mxCell id="rME0hB_MVN8onuCus47p-164" value="管&#xa;理&#xa;员&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="454" width="20" height="86" as="geometry" />
