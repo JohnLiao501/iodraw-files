@@ -59,7 +59,7 @@
           <mxGeometry x="421.51" y="330" width="21.37" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-116" value="雷达图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="332" y="414" width="16" height="48" as="geometry" />
+          <mxGeometry x="360" y="414" width="16" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-117" value="天赋趋势图" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="382.94" y="414" width="22.94" height="80" as="geometry" />
