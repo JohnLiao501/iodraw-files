@@ -8,43 +8,43 @@
           <mxGeometry x="920" y="120" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-10" value="手动备份与恢复" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="217" width="20" height="48" as="geometry" />
+          <mxGeometry x="740" y="217" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-11" value="自动备份设置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="217" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-12" value="立即备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="360" width="20" height="55" as="geometry" />
+          <mxGeometry x="680" y="420" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-13" value="从备份恢复" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="735" y="360" width="25" height="75" as="geometry" />
+          <mxGeometry x="735" y="420" width="25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-14" value="导出备份" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="360" width="20" height="55" as="geometry" />
+          <mxGeometry x="800" y="420" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-15" value="备份历史记录" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="883" y="360" width="17" height="85" as="geometry" />
+          <mxGeometry x="883" y="420" width="17" height="85" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-16" value="自动备份开关" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="360" width="20" height="48" as="geometry" />
+          <mxGeometry x="1020" y="420" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-17" value="备份频率" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1097" y="360" width="23" height="48" as="geometry" />
+          <mxGeometry x="1097" y="420" width="23" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-18" value="备份保留数量" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="360" width="20" height="48" as="geometry" />
+          <mxGeometry x="1150" y="420" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-19" value="保存设置" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="360" width="20" height="48" as="geometry" />
+          <mxGeometry x="1220" y="420" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-20" value="批量删除" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="505" width="15" height="48" as="geometry" />
+          <mxGeometry x="827" y="565" width="15" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-21" value="操作列" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="882" y="505" width="20" height="48" as="geometry" />
+          <mxGeometry x="882" y="565" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-24" value="分页控制区" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="942" y="505" width="20" height="48" as="geometry" />
+          <mxGeometry x="942" y="565" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-34" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="0W15ENPFuFBOaB9-x_x7-4" target="0W15ENPFuFBOaB9-x_x7-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,42 +54,42 @@
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-36" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="750" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-37" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="750" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-38" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="750" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-39" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="750" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-40" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="1110" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-41" value="" style="startArrow=none;endArrow=none;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="1110" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-42" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="1110" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-43" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" target="0W15ENPFuFBOaB9-x_x7-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="310.0000000000001" as="sourcePoint" />
+            <mxPoint x="1110" y="370.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W15ENPFuFBOaB9-x_x7-44" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="0W15ENPFuFBOaB9-x_x7-15" target="0W15ENPFuFBOaB9-x_x7-20" edge="1">
