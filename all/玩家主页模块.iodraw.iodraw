@@ -53,7 +53,7 @@
           <mxGeometry x="795.5" y="217" width="24.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-114" value="统计卡片" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="501.88" y="315" width="36.25" height="48" as="geometry" />
+          <mxGeometry x="501.88" y="315" width="18.12" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r0HSlZsm8VCqf7H_SUI1-115" value="角色信息" style="strokeWidth=1;rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="616.63" y="315" width="34.5" height="48" as="geometry" />
