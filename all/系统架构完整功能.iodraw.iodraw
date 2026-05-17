@@ -20,10 +20,10 @@
           <mxGeometry x="1846" y="20" width="1523" height="289" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1881" y="161" width="1453" height="123" as="geometry" />
+          <mxGeometry x="2460" y="161" width="320" height="123" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-41" value="Web浏览器&#xa;(Chrome/Firefox/Edge)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2187" y="45" width="228" height="66" as="geometry" />
+          <mxGeometry x="2400" y="60" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-42" value="移动设备浏览器&#xa;(手机/平板)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2841" y="45" width="173" height="66" as="geometry" />
