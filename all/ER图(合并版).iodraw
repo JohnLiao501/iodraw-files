@@ -10,13 +10,13 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-88" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-2" target="fAw2caKaPuxbsee9nC9U-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-2" value="个性签名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-2" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;signature&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="267.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-87" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-3" target="fAw2caKaPuxbsee9nC9U-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-3" value="头像地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-3" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;avatar&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="403.5" y="267.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-4" value="用户身份" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
