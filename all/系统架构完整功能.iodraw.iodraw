@@ -1,32 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="E0b6djwZ_Ah2IGUf63lE">
-    <mxGraphModel dx="1257" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层 Data Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1534" width="1591" height="289" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-2" value="核心数据表" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1395" y="1675" width="1521" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-3" value="sys_user 用户表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="43" y="46" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-4" value="sys_role 角色表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="265" y="46" width="170" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-5" value="genshin_character 角色表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="486" y="46" width="244" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-6" value="genshin_gacha 抽卡表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="780" y="46" width="217" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-7" value="sys_backup 备份表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="1046" y="46" width="193" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-8" value="sys_oper_log 日志表" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-2" vertex="1">
-          <mxGeometry x="1289" y="46" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-9" value="应用服务层 Application Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1526" y="430" width="2143" height="1032" as="geometry" />
@@ -168,9 +147,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-48" target="WqZuajmE5Dm-c2Z4xAnX-2" edge="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="2155.5" y="1675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-62" value="SQL查询" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-16" target="WqZuajmE5Dm-c2Z4xAnX-48" edge="1">
