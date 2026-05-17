@@ -29,10 +29,10 @@
           <mxGeometry x="759" y="46" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="576" y="20" width="240" height="214" as="geometry" />
+          <mxGeometry x="576" y="20" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-11" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622" y="100" width="139" height="48" as="geometry" />
+          <mxGeometry x="622" y="80" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-16" value="Spring Boot后端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1078" y="601" width="174" height="48" as="geometry" />
