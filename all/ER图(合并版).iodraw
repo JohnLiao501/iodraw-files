@@ -431,7 +431,7 @@
           <mxGeometry x="536.5" y="155" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24KRhw5sdbCL0GcM8gJM-11" value="产生" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="546.5" y="165" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="412.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24KRhw5sdbCL0GcM8gJM-12" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-65;" vertex="1" parent="1">
           <mxGeometry x="247" y="317.5" width="80" height="40" as="geometry" />
