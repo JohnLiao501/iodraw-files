@@ -28,18 +28,6 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-36" value="Element Plus UI组件库" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
           <mxGeometry x="262" y="46" width="220" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-37" value="ECharts 可视化库" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="532" y="46" width="183" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-38" value="Axios HTTP客户端" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="765" y="46" width="189" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-39" value="Vue Router 路由管理" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="1004" y="46" width="208" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-40" value="Pinia 状态管理" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="1262" y="46" width="164" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-41" value="Web浏览器&#xa;(Chrome/Firefox/Edge)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2187" y="45" width="228" height="66" as="geometry" />
         </mxCell>
