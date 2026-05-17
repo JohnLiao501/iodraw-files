@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-11" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="380" width="139" height="48" as="geometry" />
+          <mxGeometry x="1095.5" y="380" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-16" value="Spring Boot后端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1078" y="601" width="174" height="48" as="geometry" />
