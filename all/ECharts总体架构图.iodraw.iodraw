@@ -8,10 +8,10 @@
           <mxGeometry x="134" y="66" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-3" value="Bar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="198" width="85" height="48" as="geometry" />
+          <mxGeometry x="-150" y="198" width="85" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-4" value="Funnel" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="199" y="198" width="108" height="48" as="geometry" />
+          <mxGeometry x="496" y="198" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-5" value="组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4" y="540" width="92" height="48" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="239" y="663" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-10" value="Line" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="310" width="90" height="48" as="geometry" />
+          <mxGeometry x="-50" y="198" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-11" value="Scstter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="310" width="111" height="48" as="geometry" />
+          <mxGeometry x="90" y="198" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-12" value="Pie" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="323" y="310" width="82" height="48" as="geometry" />
+          <mxGeometry x="250" y="198" width="82" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-13" value="......" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="310" width="95" height="48" as="geometry" />
+          <mxGeometry x="382" y="198" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-14" value="Title&#xa;标题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="94" height="66" as="geometry" />
