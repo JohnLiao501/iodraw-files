@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="5Fwrv4GpGfXGR19wmPqq">
-    <mxGraphModel dx="2216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,16 +29,16 @@
           <mxGeometry x="77" y="663" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-10" value="Line" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="-11" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-11" value="Scstter" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="99" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-12" value="Pie" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="239" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-13" value="......" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="301" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="340" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-14" value="Title&#xa;标题" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="423" width="94" height="66" as="geometry" />
