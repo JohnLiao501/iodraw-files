@@ -7,18 +7,6 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-9" value="应用服务层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2599.64" y="470" width="400.36" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="e7go_fQWz3aVxyGrwowQ-2" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2700" y="710" width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 数据库" style="whiteSpace=wrap;strokeWidth=1;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry x="30.53061224489796" y="31.052631578947366" width="143.6326530612245" height="25.26315789473684" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=1;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry x="180.40816326530611" y="31.052631578947366" width="122.12244897959184" height="34.73684210526316" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="浏览器层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2680" y="190" width="220" height="200" as="geometry" />
         </mxCell>
@@ -76,6 +64,15 @@
         </mxCell>
         <mxCell id="e7go_fQWz3aVxyGrwowQ-8" value="响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2774.82" y="363" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="710" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 数据库" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2730.530612244898" y="750.3684210526316" width="143.6326530612245" height="32.84210526315789" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2880.408163265306" y="750.3684210526316" width="122.12244897959184" height="45.1578947368421" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
