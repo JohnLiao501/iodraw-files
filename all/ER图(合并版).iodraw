@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="24KRhw5sdbCL0GcM8gJM-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-1" target="fAw2caKaPuxbsee9nC9U-47">
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="24KRhw5sdbCL0GcM8gJM-5" target="fAw2caKaPuxbsee9nC9U-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -430,8 +430,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24KRhw5sdbCL0GcM8gJM-5" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="546.5" y="20" width="80" height="40" as="geometry" />
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-6" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-1" target="24KRhw5sdbCL0GcM8gJM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="175" as="sourcePoint" />
+            <mxPoint x="712" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-5" value="产生" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="546.5" y="157.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
