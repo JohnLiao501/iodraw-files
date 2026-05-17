@@ -17,16 +17,16 @@
           <mxGeometry x="132" y="300" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-6" value="Axis&#xa;坐标轴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-161.5" y="423" width="108" height="66" as="geometry" />
+          <mxGeometry x="-250" y="432" width="108" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-7" value="ToolBox&#xa;工具箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="413" y="423" width="116" height="66" as="geometry" />
+          <mxGeometry x="521.5" y="423" width="116" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-8" value="基础库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="540" width="108" height="48" as="geometry" />
+          <mxGeometry x="126" y="540" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-9" value="Zrender (Canvas+SVG绘图库)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="663" width="206" height="66" as="geometry" />
+          <mxGeometry x="77" y="663" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-10" value="Line" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="198" width="90" height="48" as="geometry" />
