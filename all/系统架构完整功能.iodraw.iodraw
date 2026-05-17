@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层 Data Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2480" y="1500" width="480" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="客户端层 Client Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1846" y="20" width="1523" height="289" as="geometry" />
         </mxCell>
@@ -37,12 +34,6 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-42" value="移动设备浏览器&#xa;(手机/平板)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2841" y="45" width="173" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 关系型数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2524" y="1559" width="207" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="1559" width="176" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-41" target="WqZuajmE5Dm-c2Z4xAnX-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -64,27 +55,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e7go_fQWz3aVxyGrwowQ-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1989" y="380" width="871" height="820" as="geometry" />
+          <mxGeometry x="1989" y="380" width="511" height="430" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-9" value="应用服务层 Application Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="78.47546833184657" width="792.5245316681535" height="820" as="geometry" />
+          <mxGeometry x="46.04014272970563" width="464.95985727029444" height="430" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-10" value="支撑组件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="415.6868867082962" y="110.38461538461539" width="105.66993755575379" height="53.61538461538461" as="geometry" />
+          <mxGeometry x="243.87600356824268" y="57.88461538461539" width="61.994647636039254" height="28.115384615384617" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-16" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="435.88849241748443" y="678.0769230769231" width="120.43264942016057" height="49.67307692307692" as="geometry" />
+          <mxGeometry x="255.72792149866194" y="355.5769230769231" width="70.6556645851918" height="26.048076923076923" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="358.1900089206066" y="346.9230769230769" width="191.91525423728814" height="31.538461538461537" as="geometry" />
+          <mxGeometry x="210.14362176628012" y="181.92307692307693" width="112.59322033898306" height="16.538461538461537" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-27" value="接口网关层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;align=center;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="226.10258697591436" y="59.13461538461538" width="107.22390722569135" height="43.36538461538461" as="geometry" />
+          <mxGeometry x="132.65031222123105" y="31.009615384615383" width="62.906333630686895" height="22.740384615384617" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-27" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="195.53846153846152" />
+              <mxPoint y="102.53846153846153" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,9 +85,21 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.41;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-10" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="825.1578947368421" y="195.53846153846152" />
+              <mxPoint x="484.10526315789474" y="102.53846153846153" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e7go_fQWz3aVxyGrwowQ-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2060" y="920" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层 Data Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
+          <mxGeometry width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 关系型数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
+          <mxGeometry x="44" y="59" width="207" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=2;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
+          <mxGeometry x="260" y="59" width="176" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
