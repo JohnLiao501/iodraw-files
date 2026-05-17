@@ -20,7 +20,7 @@
           <mxGeometry x="50" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-7" value="ToolBox&#xa;工具箱" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="383" width="68.5" height="47" as="geometry" />
+          <mxGeometry x="473.5" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-8" value="基础库" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="500" width="108" height="48" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="212" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-16" value="Tooltip&#xa;提示框" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="302" y="383" width="68.5" height="47" as="geometry" />
+          <mxGeometry x="294.5" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-17" value="......" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="383" width="68.5" height="47" as="geometry" />
+          <mxGeometry x="379" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t414aZ_xZeFkMAmqaUfZ-2" target="t414aZ_xZeFkMAmqaUfZ-3">
           <mxGeometry relative="1" as="geometry" />
