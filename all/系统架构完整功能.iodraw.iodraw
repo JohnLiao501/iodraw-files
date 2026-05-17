@@ -92,16 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e7go_fQWz3aVxyGrwowQ-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2440" y="1000" width="490" height="190" as="geometry" />
+          <mxGeometry x="2440" y="1000" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-1" value="数据存储层 Data Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry width="490" height="190" as="geometry" />
+          <mxGeometry width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 关系型数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry x="44" y="59" width="207" height="48" as="geometry" />
+          <mxGeometry x="30.53061224489796" y="40.368421052631575" width="143.6326530612245" height="32.84210526315789" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=2;" parent="e7go_fQWz3aVxyGrwowQ-2" vertex="1">
-          <mxGeometry x="260" y="59" width="176" height="66" as="geometry" />
+          <mxGeometry x="180.40816326530611" y="40.368421052631575" width="122.12244897959184" height="45.1578947368421" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
