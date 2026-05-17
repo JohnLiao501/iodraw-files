@@ -96,11 +96,11 @@
         </mxCell>
         <mxCell id="C2K0lnoIqCrrenlXwmWX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="C2K0lnoIqCrrenlXwmWX-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="592.5" as="sourcePoint" />
+            <mxPoint x="155" y="608" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C2K0lnoIqCrrenlXwmWX-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="611" width="80" height="50" as="geometry" />
+          <mxGeometry x="115" y="626.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
