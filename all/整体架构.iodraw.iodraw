@@ -30,9 +30,6 @@
             <mxPoint x="1457" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-32" value="浏览器层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1124.5" y="370" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-35" value="数据访问层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1167.5" y="685" width="80" height="30" as="geometry" />
         </mxCell>
