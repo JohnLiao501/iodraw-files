@@ -12,6 +12,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-1" target="24KRhw5sdbCL0GcM8gJM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="160" width="70" height="30" as="geometry" />
         </mxCell>
@@ -444,7 +447,7 @@
         <mxCell id="24KRhw5sdbCL0GcM8gJM-12" value="产生" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="175" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24KRhw5sdbCL0GcM8gJM-13" value="执行" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=45;" vertex="1" parent="1">
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-13" value="执行" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="446.5" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
