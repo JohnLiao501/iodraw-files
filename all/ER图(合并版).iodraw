@@ -457,8 +457,8 @@
             <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9P4Dks8MD571nM2KeQ--20" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94.86000000000001" y="166.25" width="80" height="40" as="geometry" />
+        <mxCell id="q9P4Dks8MD571nM2KeQ--20" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80.00000000000001" y="155" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
