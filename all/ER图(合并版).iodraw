@@ -297,8 +297,13 @@
         <mxCell id="fAw2caKaPuxbsee9nC9U-151" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-73" target="fAw2caKaPuxbsee9nC9U-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24KRhw5sdbCL0GcM8gJM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-73" target="fAw2caKaPuxbsee9nC9U-1">
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fAw2caKaPuxbsee9nC9U-73" target="fAw2caKaPuxbsee9nC9U-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24KRhw5sdbCL0GcM8gJM-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="24KRhw5sdbCL0GcM8gJM-1">
+          <mxGeometry x="-0.7802" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-73" value="用户身份" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="306" y="-35" width="70" height="30" as="geometry" />
