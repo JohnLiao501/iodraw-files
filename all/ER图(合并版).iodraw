@@ -68,13 +68,13 @@
             <mxPoint x="376.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-12" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-12" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;username&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356.5" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-13" target="fAw2caKaPuxbsee9nC9U-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-13" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;&lt;i&gt;id&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-13" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;&lt;u&gt;id&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="266.5" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-95" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-15" target="fAw2caKaPuxbsee9nC9U-27" edge="1">
