@@ -146,7 +146,7 @@
           <mxGeometry x="-410" y="150" width="84.36" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;elemental_mastery&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="307.5" width="94.36" height="52.5" as="geometry" />
+          <mxGeometry x="-350" y="307.5" width="94.36" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-21" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;talent&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="38.86" y="200" width="70" height="40" as="geometry" />
@@ -439,8 +439,8 @@
         <mxCell id="q9P4Dks8MD571nM2KeQ--23" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396.5" y="472.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9P4Dks8MD571nM2KeQ--24" value="执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446.5" y="277.5" width="80" height="40" as="geometry" />
+        <mxCell id="q9P4Dks8MD571nM2KeQ--24" value="执行" style="rhombus;whiteSpace=wrap;html=1;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="287.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
