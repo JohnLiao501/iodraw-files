@@ -20,13 +20,13 @@
           <mxGeometry x="180.40816326530611" y="40.368421052631575" width="122.12244897959184" height="45.1578947368421" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="浏览器层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2620" y="80" width="320" height="200" as="geometry" />
+          <mxGeometry x="2629.42" y="190" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2727.8900000000003" y="200" width="110" height="53" as="geometry" />
+          <mxGeometry x="2737.3100000000004" y="310" width="110" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-41" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2732.11" y="110" width="105.78" height="50" as="geometry" />
+          <mxGeometry x="2741.53" y="220" width="105.78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-54" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-41" target="WqZuajmE5Dm-c2Z4xAnX-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
