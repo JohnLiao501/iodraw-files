@@ -20,7 +20,7 @@
           <mxGeometry x="180.40816326530611" y="40.368421052631575" width="122.12244897959184" height="45.1578947368421" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="客户端层 Client Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2580" y="60" width="480" height="299" as="geometry" />
+          <mxGeometry x="2580" y="60" width="390" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2720" y="210" width="142.22" height="63" as="geometry" />
