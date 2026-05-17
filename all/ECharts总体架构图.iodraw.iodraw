@@ -17,7 +17,7 @@
           <mxGeometry x="212" y="260" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-6" value="Axis&#xa;坐标轴" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="392" width="108" height="66" as="geometry" />
+          <mxGeometry x="-170" y="392" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-7" value="ToolBox&#xa;工具箱" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="601.5" y="383" width="68.5" height="47" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry x="340" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-14" value="Title&#xa;标题" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="383" width="94" height="66" as="geometry" />
+          <mxGeometry x="15" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-15" value="Legend&#xa;图例" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="383" width="111" height="66" as="geometry" />
+          <mxGeometry x="159" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-16" value="Tooltip&#xa;提示框" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="383" width="110" height="66" as="geometry" />
+          <mxGeometry x="320" y="383" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-17" value="......" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="392" width="95" height="48" as="geometry" />
+          <mxGeometry x="480" y="392" width="68.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t414aZ_xZeFkMAmqaUfZ-2" target="t414aZ_xZeFkMAmqaUfZ-3">
           <mxGeometry relative="1" as="geometry" />
