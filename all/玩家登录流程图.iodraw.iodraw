@@ -115,7 +115,7 @@
         <mxCell id="oNIx_ywpmWDl5NMVkG63-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130.5" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oNIx_ywpmWDl5NMVkG63-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oNIx_ywpmWDl5NMVkG63-3" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186.5" y="530" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
