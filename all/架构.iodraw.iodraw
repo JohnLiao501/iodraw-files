@@ -7,27 +7,6 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="990" y="920" width="431" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-2" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="576" width="1491" height="272" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-3" value="Business" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="55" y="699" width="911" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-4" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="D5vshOvTuwOlid4_yU5a-3">
-          <mxGeometry x="43" y="46" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-5" value="档案管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="D5vshOvTuwOlid4_yU5a-3">
-          <mxGeometry x="218" y="46" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-6" value="抽卡管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="D5vshOvTuwOlid4_yU5a-3">
-          <mxGeometry x="393" y="46" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-7" value="可视化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="D5vshOvTuwOlid4_yU5a-3">
-          <mxGeometry x="569" y="46" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-8" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="D5vshOvTuwOlid4_yU5a-3">
-          <mxGeometry x="759" y="46" width="125" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1045" y="320" width="240" height="150" as="geometry" />
         </mxCell>
@@ -51,11 +30,12 @@
             <mxPoint x="1457" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-16" target="D5vshOvTuwOlid4_yU5a-3">
+        <mxCell id="D5vshOvTuwOlid4_yU5a-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="674" />
             </Array>
+            <mxPoint x="510.49999999999955" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-32" value="客户端层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
