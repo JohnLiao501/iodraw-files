@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="24KRhw5sdbCL0GcM8gJM-19" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="24KRhw5sdbCL0GcM8gJM-18">
           <mxGeometry x="-0.6114" y="1" relative="1" as="geometry">
-            <mxPoint x="-8" y="26" as="offset" />
+            <mxPoint x="-8" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -339,7 +339,7 @@
         </mxCell>
         <mxCell id="24KRhw5sdbCL0GcM8gJM-3" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="24KRhw5sdbCL0GcM8gJM-1">
           <mxGeometry x="0.7246" relative="1" as="geometry">
-            <mxPoint y="-37" as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-73" value="用户身份" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
