@@ -85,11 +85,19 @@
         </mxCell>
         <mxCell id="umu6n6SGdRvHIlqjU4Nh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="umu6n6SGdRvHIlqjU4Nh-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="722.5" as="sourcePoint" />
+            <mxPoint x="381.5" y="595" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="umu6n6SGdRvHIlqjU4Nh-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="741" width="80" height="50" as="geometry" />
+          <mxGeometry x="341.5" y="613.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="umu6n6SGdRvHIlqjU4Nh-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="732.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-6" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="751" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
