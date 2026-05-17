@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="CwIpbSSN97_ydgV7OVqX">
-    <mxGraphModel dx="1831" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D5vshOvTuwOlid4_yU5a-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="990" y="920" width="431" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-2" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="576" width="1491" height="272" as="geometry" />
+        <mxCell id="D5vshOvTuwOlid4_yU5a-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="550" width="571" height="298" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1045" y="320" width="240" height="150" as="geometry" />
@@ -31,19 +31,6 @@
               <mxPoint x="1457" y="674" />
             </Array>
             <mxPoint x="1457" y="945" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="674" />
-            </Array>
-            <mxPoint x="510.49999999999955" y="699" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D5vshOvTuwOlid4_yU5a-30">
-          <mxGeometry x="0.5442" y="11" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-32" value="客户端层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
