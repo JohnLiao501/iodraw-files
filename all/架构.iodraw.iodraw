@@ -36,6 +36,9 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-35" value="数据访问层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="981" y="884" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D5vshOvTuwOlid4_yU5a-37" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
