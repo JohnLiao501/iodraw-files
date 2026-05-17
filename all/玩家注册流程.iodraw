@@ -13,6 +13,9 @@
         <mxCell id="gNqaw-4oziRKgqoBCdT3-3" value="校验用户名是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="192.5" y="180" width="151" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="qB761xHftsUd5YpyQahl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNqaw-4oziRKgqoBCdT3-4" target="qB761xHftsUd5YpyQahl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-4" value="抛出异常：用户名已存在" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="136" height="38" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qB761xHftsUd5YpyQahl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qB761xHftsUd5YpyQahl-1" target="gNqaw-4oziRKgqoBCdT3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qB761xHftsUd5YpyQahl-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="-40" width="80" height="40" as="geometry" />
         </mxCell>
@@ -74,7 +80,7 @@
           <mxGeometry x="148" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qB761xHftsUd5YpyQahl-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="34" width="80" height="40" as="geometry" />
+          <mxGeometry x="318.01" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
