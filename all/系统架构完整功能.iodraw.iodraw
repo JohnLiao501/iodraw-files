@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="e7go_fQWz3aVxyGrwowQ-7" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e7go_fQWz3aVxyGrwowQ-6">
           <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
-            <mxPoint x="-78" y="67" as="offset" />
+            <mxPoint x="-48" y="41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=middle;" parent="1" vertex="1">
