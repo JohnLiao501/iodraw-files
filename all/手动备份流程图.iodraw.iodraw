@@ -107,6 +107,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gKN0zBrf8rN-gmYK3IBA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gKN0zBrf8rN-gmYK3IBA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453.13" y="734" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKN0zBrf8rN-gmYK3IBA-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.13" y="752.5" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
