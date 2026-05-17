@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vT42bPv_60qG3MUVOFwB">
-    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,9 @@
         <mxCell id="HXMFwQFbcf07p5wTdR4k-19" value="用户是否存在" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="437" y="320" width="144" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dsG6jTrUBtWLJv3Dxmmj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HXMFwQFbcf07p5wTdR4k-20" target="dsG6jTrUBtWLJv3Dxmmj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HXMFwQFbcf07p5wTdR4k-20" value="返回404：用户不存在" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="450" width="139" height="30" as="geometry" />
         </mxCell>
@@ -117,8 +120,11 @@
         <mxCell id="dsG6jTrUBtWLJv3Dxmmj-3" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="821.5" y="490" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dsG6jTrUBtWLJv3Dxmmj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dsG6jTrUBtWLJv3Dxmmj-4" target="HXMFwQFbcf07p5wTdR4k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsG6jTrUBtWLJv3Dxmmj-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469" width="80" height="40" as="geometry" />
+          <mxGeometry x="467" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
