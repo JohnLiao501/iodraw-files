@@ -32,10 +32,10 @@
           <mxGeometry x="-11" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-11" value="Scstter" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="190" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-12" value="Pie" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="265" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-13" value="......" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="198" width="60" height="32" as="geometry" />
