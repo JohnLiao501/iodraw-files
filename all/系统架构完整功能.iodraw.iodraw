@@ -23,7 +23,7 @@
           <mxGeometry x="2460" y="161" width="320" height="123" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-41" value="Web浏览器&#xa;(Chrome/Firefox/Edge)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="60" width="228" height="66" as="geometry" />
+          <mxGeometry x="2420" y="60" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-42" value="移动设备浏览器&#xa;(手机/平板)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2841" y="45" width="173" height="66" as="geometry" />
