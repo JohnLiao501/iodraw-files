@@ -17,10 +17,10 @@
           <mxGeometry x="220.1962533452275" y="281.15384615384613" width="60.8385370205174" height="20.596153846153843" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="180.94246575342467" y="143.84372093023254" width="96.94637964774951" height="14.29581395348837" as="geometry" />
+          <mxGeometry x="180.94" y="143.84" width="96.95" height="56.16" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-27" value="接口网关层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;align=center;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="114.21944692239072" y="62.635020242914976" width="54.16592328278323" height="17.98076923076923" as="geometry" />
+          <mxGeometry x="50" y="120" width="65.78" height="37.36" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-27" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
