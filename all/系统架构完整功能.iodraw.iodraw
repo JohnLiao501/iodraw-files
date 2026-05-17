@@ -43,20 +43,11 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2192" y="653" width="247" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-22" value="角色档案模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
-          <mxGeometry x="54" y="141" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-23" value="抽卡记录模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
           <mxGeometry x="53" y="240" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-24" value="数据备份模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-24" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
           <mxGeometry x="54" y="338" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-25" value="可视化数据模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
-          <mxGeometry x="46" y="437" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-26" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
-          <mxGeometry x="54" y="535" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-27" value="接口网关层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1561" y="455" width="857" height="123" as="geometry" />
