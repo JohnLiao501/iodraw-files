@@ -28,17 +28,8 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-15" value="密码加密工具" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-10" vertex="1">
           <mxGeometry x="983" y="46" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-16" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-16" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2030" y="1180" width="675" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-17" value="MyBatis 持久层框架" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-16" vertex="1">
-          <mxGeometry x="43" y="46" width="200" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-18" value="JDBC 数据库连接" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-16" vertex="1">
-          <mxGeometry x="293" y="46" width="181" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-19" value="事务管理" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-16" vertex="1">
-          <mxGeometry x="524" y="46" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2450" y="820" width="247" height="40" as="geometry" />
