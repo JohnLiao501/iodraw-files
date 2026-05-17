@@ -124,7 +124,7 @@
             <mxPoint x="-211.14" y="172.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="圣遗物装备状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;artifact&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420.14" y="152.5" width="94.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;elemental_mastery&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
