@@ -43,12 +43,6 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2192" y="653" width="247" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-21" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
-          <mxGeometry x="54" y="43" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-22" value="角色档案模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
-          <mxGeometry x="54" y="141" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-23" value="抽卡记录模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-20" vertex="1">
           <mxGeometry x="53" y="240" width="157" height="48" as="geometry" />
         </mxCell>
