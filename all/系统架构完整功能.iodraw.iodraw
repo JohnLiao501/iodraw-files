@@ -20,12 +20,12 @@
           <mxGeometry x="180.94" y="143.84" width="96.95" height="56.16" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-27" value="接口网关层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;align=center;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="50" y="120" width="65.78" height="37.36" as="geometry" />
+          <mxGeometry x="50" y="151.32" width="65.78" height="37.36" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-27" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-56" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.3;rounded=0;exitDx=0;exitDy=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-27" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-57" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-16" edge="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-57" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-58" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.41;rounded=0;" parent="e7go_fQWz3aVxyGrwowQ-1" source="WqZuajmE5Dm-c2Z4xAnX-10" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
