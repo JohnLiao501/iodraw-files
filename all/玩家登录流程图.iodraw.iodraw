@@ -46,6 +46,9 @@
         <mxCell id="uD0Tl8IbdjV953ev5tTP-12" value="校验角色是否为管理员" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="669" y="710" width="208" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oNIx_ywpmWDl5NMVkG63-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-13" target="oNIx_ywpmWDl5NMVkG63-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-13" value="抛出异常：请使用管理员入口" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="553.75" y="830" width="158.5" height="27" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-16" value="记录登录操作日志" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="859" y="940" width="110" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="oNIx_ywpmWDl5NMVkG63-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uD0Tl8IbdjV953ev5tTP-17" target="oNIx_ywpmWDl5NMVkG63-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uD0Tl8IbdjV953ev5tTP-17" value="返回令牌与用户信息" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="856" y="1000" width="116" height="34" as="geometry" />
@@ -122,7 +128,7 @@
           <mxGeometry x="186.5" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNIx_ywpmWDl5NMVkG63-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140.5" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="874" y="1060" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNIx_ywpmWDl5NMVkG63-8" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="880" width="80" height="40" as="geometry" />
