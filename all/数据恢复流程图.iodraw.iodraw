@@ -125,6 +125,22 @@
         <mxCell id="og6CeSvq4vG37QDD8oBw-33" value="检查服务器文件是否存在" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="239" y="550" width="186" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uPK6GELh10HafxhsRzOD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="uPK6GELh10HafxhsRzOD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448.01" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPK6GELh10HafxhsRzOD-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408.01" y="1068.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uPK6GELh10HafxhsRzOD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="uPK6GELh10HafxhsRzOD-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="822.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPK6GELh10HafxhsRzOD-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="841" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
