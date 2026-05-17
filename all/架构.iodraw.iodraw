@@ -61,12 +61,6 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-20" value="本地文件存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1379" y="945" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="696" y="143" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-13" target="D5vshOvTuwOlid4_yU5a-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -126,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-32" value="客户端层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="865" y="48" width="70" height="30" as="geometry" />
+          <mxGeometry x="661" y="30" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
