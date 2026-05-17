@@ -29,28 +29,28 @@
           <mxGeometry x="239" y="663" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-10" value="Line" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="938" y="198" width="90" height="48" as="geometry" />
+          <mxGeometry x="23" y="310" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-11" value="Scstter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="198" width="111" height="48" as="geometry" />
+          <mxGeometry x="163" y="310" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-12" value="Pie" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="198" width="82" height="48" as="geometry" />
+          <mxGeometry x="323" y="310" width="82" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-13" value="......" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="198" width="95" height="48" as="geometry" />
+          <mxGeometry x="455" y="310" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-14" value="Title&#xa;标题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1515" y="189" width="94" height="66" as="geometry" />
+          <mxGeometry x="510" y="540" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-15" value="Legend&#xa;图例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1659" y="189" width="111" height="66" as="geometry" />
+          <mxGeometry x="654" y="540" width="111" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-16" value="Tooltip&#xa;提示框" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="189" width="110" height="66" as="geometry" />
+          <mxGeometry x="815" y="540" width="110" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-17" value="......" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="198" width="95" height="48" as="geometry" />
+          <mxGeometry x="975" y="549" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="t414aZ_xZeFkMAmqaUfZ-2" target="t414aZ_xZeFkMAmqaUfZ-3">
           <mxGeometry relative="1" as="geometry">
