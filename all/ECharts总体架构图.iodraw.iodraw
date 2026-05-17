@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-2" value="图表" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="70" width="92" height="48" as="geometry" />
+          <mxGeometry x="239.25" y="70" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-3" value="Bar" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="69.25" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-4" value="Funnel" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="442.75" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-5" value="组件" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="92" height="48" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="157" y="623" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-10" value="Line" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="139.25" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-11" value="Scstter" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="219.25" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-12" value="Pie" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="294.25" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-13" value="......" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="198" width="60" height="32" as="geometry" />
+          <mxGeometry x="369.25" y="198" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t414aZ_xZeFkMAmqaUfZ-14" value="Title&#xa;标题" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="383" width="68.5" height="47" as="geometry" />
