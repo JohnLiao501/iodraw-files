@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-19" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;artifact&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-420.14" y="152.5" width="94.5" height="40" as="geometry" />
+          <mxGeometry x="-410" y="150" width="84.36" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-20" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;elemental_mastery&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="307.5" width="94.36" height="52.5" as="geometry" />
@@ -156,7 +156,7 @@
             <mxPoint x="-181.14" y="172.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAw2caKaPuxbsee9nC9U-25" value="圣遗物细节" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fAw2caKaPuxbsee9nC9U-25" value="&lt;span style=&quot;font-size: 11px; text-align: left; white-space: nowrap;&quot;&gt;relic_detail&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-351.14" y="42.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAw2caKaPuxbsee9nC9U-97" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="fAw2caKaPuxbsee9nC9U-26" target="fAw2caKaPuxbsee9nC9U-15" edge="1">
