@@ -52,12 +52,6 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-29" value="JWT 身份认证" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-27" vertex="1">
           <mxGeometry x="287" y="46" width="159" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-30" value="权限校验" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-27" vertex="1">
-          <mxGeometry x="496" y="46" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-31" value="全局异常处理" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-27" vertex="1">
-          <mxGeometry x="672" y="46" width="158" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="客户端层 Client Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1846" y="20" width="1523" height="289" as="geometry" />
         </mxCell>
