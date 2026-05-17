@@ -37,9 +37,6 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-11" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="626" y="45" width="139" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-12" value="前端核心&#xa;(Vue + ECharts)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="611" y="143" width="170" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-13" value="Nginx服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622" y="332" width="148" height="48" as="geometry" />
         </mxCell>
@@ -64,9 +61,10 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-20" value="本地文件存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1379" y="945" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-11" target="D5vshOvTuwOlid4_yU5a-12">
+        <mxCell id="D5vshOvTuwOlid4_yU5a-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="696" y="143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-13" target="D5vshOvTuwOlid4_yU5a-14">
@@ -97,9 +95,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-26" value="HTTPS请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-12" target="D5vshOvTuwOlid4_yU5a-13">
+        <mxCell id="D5vshOvTuwOlid4_yU5a-26" value="HTTPS请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="D5vshOvTuwOlid4_yU5a-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="696" y="209" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-27" value="转发API" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="D5vshOvTuwOlid4_yU5a-15" target="D5vshOvTuwOlid4_yU5a-16">
