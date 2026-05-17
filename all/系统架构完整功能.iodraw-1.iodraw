@@ -72,7 +72,7 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-48" value="MySQL 数据库" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2727.4206122448977" y="750.3684210526316" width="143.6326530612245" height="32.84210526315789" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储&#xa;(头像/备份文件)" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-49" value="本地文件存储" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2880.408163265306" y="750.3684210526316" width="122.12244897959184" height="45.1578947368421" as="geometry" />
         </mxCell>
       </root>
