@@ -11,10 +11,10 @@
           <mxGeometry x="39.64317573595005" width="400.35682426405003" height="340" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-10" value="支撑组件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="283.4626178549372" y="45.76923076923077" width="53.38090990187333" height="22.23076923076923" as="geometry" />
+          <mxGeometry x="350" y="151.32" width="70" height="38.68" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-16" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
-          <mxGeometry x="220.1962533452275" y="281.15384615384613" width="60.8385370205174" height="20.596153846153843" as="geometry" />
+          <mxGeometry x="210" y="281.15" width="71.03" height="28.85" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-20" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="e7go_fQWz3aVxyGrwowQ-1" vertex="1">
           <mxGeometry x="180.94" y="143.84" width="96.95" height="56.16" as="geometry" />
