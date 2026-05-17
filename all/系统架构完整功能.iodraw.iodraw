@@ -19,14 +19,8 @@
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-33" value="客户端层 Client Layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1846" y="20" width="1523" height="289" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-34" value="前端技术栈" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1881" y="161" width="1453" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-35" value="Vue 3 核心框架" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="43" y="46" width="169" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-36" value="Element Plus UI组件库" style="whiteSpace=wrap;strokeWidth=2;" parent="WqZuajmE5Dm-c2Z4xAnX-34" vertex="1">
-          <mxGeometry x="262" y="46" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-41" value="Web浏览器&#xa;(Chrome/Firefox/Edge)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2187" y="45" width="228" height="66" as="geometry" />
