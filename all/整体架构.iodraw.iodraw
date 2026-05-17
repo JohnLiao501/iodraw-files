@@ -19,7 +19,7 @@
         <mxCell id="D5vshOvTuwOlid4_yU5a-11" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1095.5" y="411" width="139" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="D5vshOvTuwOlid4_yU5a-16" value="Spring Boot后端" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="D5vshOvTuwOlid4_yU5a-16" value="SpringBoot后端" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1078" y="561" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-19" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
