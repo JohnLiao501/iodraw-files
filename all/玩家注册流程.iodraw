@@ -31,6 +31,9 @@
         <mxCell id="gNqaw-4oziRKgqoBCdT3-8" value="记录注册操作日志" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="500" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qB761xHftsUd5YpyQahl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNqaw-4oziRKgqoBCdT3-9" target="qB761xHftsUd5YpyQahl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gNqaw-4oziRKgqoBCdT3-9" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="314.13" y="570" width="89.75" height="30" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
           <mxGeometry x="148" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qB761xHftsUd5YpyQahl-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318.01" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="319.01" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
