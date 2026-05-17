@@ -125,13 +125,13 @@
           <mxGeometry x="140.5" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNIx_ywpmWDl5NMVkG63-8" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150.5" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="593" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNIx_ywpmWDl5NMVkG63-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="449.5" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNIx_ywpmWDl5NMVkG63-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="346.5" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
