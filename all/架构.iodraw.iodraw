@@ -8,7 +8,7 @@
           <mxGeometry x="960" y="790" width="431" height="98" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="550" width="320" height="140" as="geometry" />
+          <mxGeometry x="1030" y="560" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1045" y="320" width="240" height="150" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="981" y="824" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D5vshOvTuwOlid4_yU5a-37" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="615" width="60" height="30" as="geometry" />
+          <mxGeometry x="1170" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
