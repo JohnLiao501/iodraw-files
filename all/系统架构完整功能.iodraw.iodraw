@@ -115,12 +115,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2155" y="1288" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-57" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WqZuajmE5Dm-c2Z4xAnX-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.41;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-10" target="WqZuajmE5Dm-c2Z4xAnX-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -129,17 +125,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-62" value="SQL查询" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-16" target="WqZuajmE5Dm-c2Z4xAnX-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-62" value="SQL查询" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-16" target="WqZuajmE5Dm-c2Z4xAnX-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-63" value="文件读写" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2828" y="1288" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WqZuajmE5Dm-c2Z4xAnX-63" value="文件读写" style="startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" parent="1" source="WqZuajmE5Dm-c2Z4xAnX-20" target="WqZuajmE5Dm-c2Z4xAnX-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
