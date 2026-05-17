@@ -75,6 +75,22 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="umu6n6SGdRvHIlqjU4Nh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="428.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="umu6n6SGdRvHIlqjU4Nh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="722.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umu6n6SGdRvHIlqjU4Nh-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="741" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
